@@ -2,7 +2,7 @@
 
 > ​道理在初中的时候就学过了：想要打破现有的平衡态，就要对该状态做超出临界点的功。——张潇雨
 
-[时间流向](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484615&idx=1&sn=ae0f6350d150da32913199859969a79b&chksm=eb21b683dc563f95794eee235d5e3e4cd671c118a81bb244bec4629805933c38c93d458ce250&scene=21#wechat_redirect)背后反映的是生活状态，想到打破时间边界，就必须换一种生活方式。
+[时间流向](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484615&idx=1&sn=ae0f6350d150da32913199859969a79b&chksm=eb21b683dc563f95794eee235d5e3e4cd671c118a81bb244bec4629805933c38c93d458ce250&scene=21#wechat_redirect)背后反映的是生活状态，想要打破时间边界，就必须换一种生活方式。
 
 最常见，有效的三种换生活方式的方法是：
 
