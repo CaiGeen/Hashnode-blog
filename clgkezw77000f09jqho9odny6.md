@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 24 - 鲁迅教我做人"
+title: "周刊 # 25 - 鲁迅教我做人"
 seoDescription: "虽然 100 年过去，但很多事都没变。"
 datePublished: Mon Apr 17 2023 05:47:56 GMT+0000 (Coordinated Universal Time)
 cuid: clgkezw77000f09jqho9odny6
