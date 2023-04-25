@@ -3,7 +3,7 @@ title: "Ai 来了，什么技能最值得我们学？"
 seoDescription: "目的很重要。知道怎么做很重要，知道谁会做很重要，以及，知道自己不知道最重要。"
 datePublished: Tue Apr 25 2023 12:07:42 GMT+0000 (Coordinated Universal Time)
 cuid: clgw833go000a09ld535a0fkv
-slug: ai-1
+slug: 20230425201744
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682424288502/abd4abea-75dc-4931-a0ff-8c7982bcf671.jpeg
 tags: 5pe26ze06k6w5b2v
 
