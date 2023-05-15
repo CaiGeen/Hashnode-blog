@@ -1,0 +1,54 @@
+---
+title: "周刊 # 29 - 哪些事要重复做"
+seoDescription: "我需要一些「不需要思考，做就对了」的周期清单，可以帮我度过迷茫时期。"
+datePublished: Mon May 15 2023 07:37:50 GMT+0000 (Coordinated Universal Time)
+cuid: clhoj92x5000g08jt54ox9ncl
+slug: 20230515153744
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684135982626/c4ee9cb8-b88d-4586-9081-9e81f21879e3.jpeg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
+
+感谢我们的赞助商 [aTimeLogger Pro](https://atimelogger.pro/)，让我能免费向读者提供周刊。
+
+使用 aTimeLogger Pro 记录时间——简洁无广告、保证隐私、稳定运营 10 年。诚实记录每天的 86400 秒，觉察、唤醒，认识自己。
+
+---
+
+2023 年第 20 周。
+
+aTimeLogger 记录时间分配如图示：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684136006614/4e0b0ee3-a50a-4375-a108-b6f2e935fd78.jpeg align="center")
+
+这周重点是跟进「遗书计划」，这是个以年为单位的周期性项目，首先把所有资料备份到云或本地，然后更新我最新的周期性事件列表，接着写给自己的一年信，最后是整理自己的遗书，看看有没有什么新内容要补充。为世界留下点儿什么。
+
+### 遗书计划
+
+上次更新遗书，已经是三年前了，今天准备更新内容，但看了之前写的，不知道怎么下笔。死亡在我这里从来不是什么忌讳的事，但如果意外发生，总有些遗憾。所以我希望通过遗书计划，或多或少的弥补这份遗憾。我之前介绍过，所有内容我会整理到邮箱，每年生日那天会定时邮件给密友，让他转交，如果我还在，就手动修改时间到下一年。
+
+微调完，再手动同步微信聊天记录到本地，接着把我所有记录 Excel 备份到云盘。根据最新的变化，修改我的《周期性事件》笔记，把我每天、周、月、季度、年要做的事情记下来。这些有秩序的清单，可以帮我度过迷茫时期。不需要思考，做就对了。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684136026247/28fdc0f1-d01f-41db-97d6-51928368a54b.png align="center")
+
+我也不知道我为什么会这么执着于「留下些什么」。今年清明去给外爷扫墓的时候，我路过一排排墓碑，上面千篇一律的黑白照和后辈姓名，关于墓主人，只记录了生卒时间和后辈子孙。相比之下，我更喜欢墓志铭，简短的介绍下，长眠于此的人是谁，做了什么，他怎么看这辈子。
+
+所以我一直有个数字墓碑的想法，墓碑上有一句墓志铭，然后下面放个二维码，扫码后跳转到这个人的信息界面，里面记录着他姓甚名谁，有什么想说的话等等，和我刚才的遗书计划连在一起。然后那天我听 Ferriss 采访 [Sivers](https://tim.blog/2023/04/21/derek-sivers/) 的时候，Sivers 也提到想做「100 年个人网站托管」项目，我们都想为世界留下点儿什么。我曾经把这个项目称作——刻石计划，像《三体》里人类为宇宙留下刻字的石头一样硬核浪漫。
+
+### OneKey Card
+
+为提高 API 速率，也为到期后扣费或买 ChatGPT PLUS 做准备。走了一遍 OneKey Card 绑定 OpenAI 流程，绑卡成功。
+
+OneKey Card 的 Silver（1.95%） 比 DePay 的标准卡（1.35%）手续费高 0.6%，但相比靠 ChatGPT 出圈的 DePay，我更信任 OneKey（Onekey Mini 用户），所以看到超级君和王一石推荐了 OneKey Card 后，果断[开通](https://card.onekey.so/?i=SPOWBM)。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684136013104/34cc3f3f-d43f-4576-b0c1-9a1479fe7a78.jpeg align="center")
+
+申请 OneKey Card 后，必须充值至少 20 USDC（暂无 USDT 入口） 激活才有 CVV 和卡片信息。后台点充值，需要你从交易所（任何有 USDC 的地方）到你的 OneKey Card 地址，注意不要搞错，充值金额必须 ≥20U 且是 USDC，可选 Tron 链，后台会提示注意事项。
+
+等 5 分钟左右，交易所提示到账，再刷新看 OneKey 后台，显示金额。点击查看 Card 的 CVV，需要下载绑定谷歌验证器 APP，按提示输入验证码，保存好恢复秘钥和卡片信息，Card 激活成功。最后打开 OpenAI 后台，在 Billing 页面设置支付账户，绑定你的 Card 卡号，搞定。
+
+过程中的手续费提醒：交易所提现 1 USDC，到账 Card 收 1.95% 手续费，绑定 OpenAI 预扣费 $5，会退回。最终提现 26 USDC，实到 Card $24.5（所以如果马上要买 PLUS 的朋友，最好提现 27 USDC，因为有 $5 退回要等 5 天左右）。后续每月收卡费 $1（不同级别不同）。
+
+好了，本周就这些。
+
+还有很多日常琐碎，比如看了欧阳万成的脱口秀，新读好书《聪明的阅读者》和《四开01》等等，就不一一罗列，感兴趣可以来我的[动态频道](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487599&idx=1&sn=1a4514e55dd0c84723eda32d23c5d9c3&chksm=eb21a22bdc562b3dba995cc9f972471e0d1a16fdecc10655c8479f4603f2aeee216a5e3f4a0f#rd)逛逛。
