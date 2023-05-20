@@ -1,7 +1,7 @@
 ---
 title: "2020 年我学到了什么"
 seoDescription: "2020 耗时排名第一的是练习英语口语。英语是年年学，年年废，不过 2020 年绝对是投入时间的大年。"
-datePublished: Tue Feb 08 2022 05:44:42 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Feb 08 2021 05:44:42 GMT+0000 (Coordinated Universal Time)
 cuid: clhvkgkyg000109k12jjg1ohz
 slug: 20230520134549
 
