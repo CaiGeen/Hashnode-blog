@@ -4,6 +4,7 @@ seoDescription: "所有的人、事、物都是你内在的投射，就像镜子
 datePublished: Mon Aug 22 2022 02:59:06 GMT+0000 (Coordinated Universal Time)
 cuid: clhveijqn00010ak16jsz50fa
 slug: 20230520105902
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684557108064/9f2ce83f-f6f5-4a20-9f6e-26d542a4a354.jpeg
 tags: 5pe26ze06k6w5b2v, 5zgo5yik
 
 ---
