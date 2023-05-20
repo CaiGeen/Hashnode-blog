@@ -1,7 +1,7 @@
 ---
 title: "2020 年我的时间花在哪儿"
 seoDescription: "2020 年是职场人和自由人切换的元年。自由时间变多了，就想着怎么实现大多数人都有的 “环游世界梦”。"
-datePublished: Mon Feb 07 2022 05:53:35 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Feb 07 2021 05:53:35 GMT+0000 (Coordinated Universal Time)
 cuid: clhvkquvb000g09mc11vu0dm9
 slug: 20230520135344
 
