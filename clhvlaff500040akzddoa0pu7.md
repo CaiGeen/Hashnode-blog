@@ -1,7 +1,7 @@
 ---
 title: "2020 年我得到了什么"
 seoDescription: "舍弃是为了更好的获得。2020 年我放弃了生活记录、社群、坐班，得到了自洽，时间和地点自由。"
-datePublished: Fri Feb 04 2022 06:08:28 GMT+0000 (Coordinated Universal Time)
+datePublished: Thu Feb 04 2021 06:08:28 GMT+0000 (Coordinated Universal Time)
 cuid: clhvlaff500040akzddoa0pu7
 slug: 20230520140905
 
