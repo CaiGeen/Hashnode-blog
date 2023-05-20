@@ -1,7 +1,7 @@
 ---
 title: "2020 年我放弃了什么"
 seoDescription: "因为资源有限，不管是你的时间精力或钱，花给 A 就必然少 B，顾此失彼。选择什么，为什么选，背后的取舍更值得细品。"
-datePublished: Thu Feb 03 2022 06:11:01 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Feb 03 2021 06:11:01 GMT+0000 (Coordinated Universal Time)
 cuid: clhvlde5g000j09mceb5vff92
 slug: 20230520141120
 
