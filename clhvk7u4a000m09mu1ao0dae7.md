@@ -1,7 +1,7 @@
 ---
 title: "2020 年我的投资收益"
 seoDescription: "就 2 条投资建议：1）学会用均线组辨别大趋势。2）不要自选股，非要买股票，就买明星股。"
-datePublished: Thu Feb 10 2022 05:37:57 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed Feb 10 2021 05:37:57 GMT+0000 (Coordinated Universal Time)
 cuid: clhvk7u4a000m09mu1ao0dae7
 slug: 20230520133907
 
