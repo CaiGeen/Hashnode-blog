@@ -1,0 +1,82 @@
+---
+title: "你会不会每天不做什么心里就不舒服？"
+seoDescription: "日课就变成了你的信仰或图腾，成了你的修行。"
+datePublished: Sun Aug 09 2020 08:50:01 GMT+0000 (Coordinated Universal Time)
+cuid: clhvr20wc000i09lchgn13myr
+slug: 20230520165010
+
+---
+
+我一直觉得每个人都应该尝试找一门属于自己的日课。
+
+简单来说，就是除了你生活必须要做的事情之外，你每天都会做的一件事。
+
+短则一分钟，长则几小时。
+
+这些日课帮助你找准自己到底在哪里，有时候也在你迷茫时点明方向。
+
+一开始你做这件事，可能是因为他有趣或有用，但是当你经年累月一直重复，跨过了二八法则里最小付出最大收获的那个临界点还仍然继续做的时候。
+
+日课就变成了你的信仰或图腾，成了[你的修行](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485721&idx=1&sn=84fe1ab447edf09574c15e05f76e3435&chksm=eb21bb5ddc56324b4e9f86f0497e3f9850f2ff18c0e396495157ba67ebf1315f620f8ae68317&scene=21#wechat_redirect)。
+
+十三戒就是[富兰克林](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485266&idx=1&sn=606f516d53dd320566e84e535bce9085&chksm=eb21b516dc563c00874c9a0bc27d2c7454edeb7643b22e3c803104bdd74b2342a72dfaacbf0e&scene=21#wechat_redirect)的修行。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684572562432/9f24c189-272b-48d5-942f-e788445ff684.jpeg align="center")
+
+六项精进是[稻盛和夫](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485139&idx=1&sn=3e971344390d8c61fdc5556625105e62&chksm=eb21b497dc563d8161cfb2da5e524997b3f1402691846b1bf4df6fb8a014b9383d9df04cde92&scene=21#wechat_redirect)的修行。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684572565643/b7a83cf6-8c97-4635-b91a-682811922160.jpeg align="center")
+
+七个习惯是史蒂芬柯维的修行。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684572581804/f785fdc4-1a24-4bbb-b1fb-b6d0b9478484.jpeg align="center")
+
+十二日课是曾国藩的修行。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684572573745/da7b457c-4828-4229-9c96-e66948251647.png align="center")
+
+可能在别人看来你的修行不仅无用而且无趣。
+
+但你相信我，有多少人嘀咕说你做这件事情有什么用呢，就有多少人满怀羡慕说我怎么就不能像你一样坚持做一件事呢？别管他们。
+
+我的日课是[时间记录](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484873&idx=1&sn=b45dd7055fced2c82fbd73482814f94f&chksm=eb21b78ddc563e9b9566f248e8ddc8b665ff5eee22aac28a41a9d6b32f4e78a8a9a2d982ac78&scene=21#wechat_redirect)、[记账](https://mp.weixin.qq.com/s?__biz=MjM5MzA3MjI2NQ==&mid=2650620494&idx=2&sn=ff678367cb921d55f00e60946f656aec&scene=21#wechat_redirect)、[日记](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484707&idx=1&sn=a50c52b3da316a7174adc96b0941d15f&chksm=eb21b767dc563e711ea70c56fd310a1da3b781749062cd32b44f1cf70f060bd02d9869abd98e&scene=21#wechat_redirect)，你的呢？
+
+怎么找到属于自己的日课，需要你慢慢尝试。坚持不下来就放弃，一直试到你不需要坚持。
+
+如果你没有头绪，可以参考这些常见的日课：
+
+* 每天写日记
+    
+* 每天问自己 1 个问题
+    
+
+* 每天记账
+    
+* 每天朗读 1 篇文章
+    
+* 每天练字
+    
+* 每天读英语
+    
+* 每天给父母打 1 个电话
+    
+* 每天写作
+    
+* 每天要给他人提供帮助
+    
+* 每天素食
+    
+* 每天喝 7 杯水
+    
+* 每天完成 5 个番茄钟
+    
+* 每天存 1 块钱
+    
+* 每天对镜子说 1 遍我能行
+    
+* 每天冥想半个小时
+    
+
+日课就是你的自留地，你可以趁着这段时间心安理得的放空，跳出混乱。
+
+等你忘记坚持，忘记有趣有用，自然会收到修行的奖励。
