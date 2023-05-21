@@ -1,0 +1,55 @@
+---
+title: "写在时间记录 20000 小时后丨我的记录体系起源"
+datePublished: Thu Jan 17 2019 09:13:18 GMT+0000 (Coordinated Universal Time)
+cuid: clhx7b8ye000009mj7v043kip
+slug: 20230521171327
+
+---
+
+在我的[第一份年报](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247483812&idx=1&sn=6bbb48b9e4c00b1de34dd2f84b6c3d81&chksm=eb21b3e0dc563af660bfa8ec0a4fa3f63e618444b355e873663c4c939be55dfe06fb3de9c45f&scene=21#wechat_redirect)开头，就说过我为什么要正式开始做 “记录” 这件事。
+
+说 “正式开始” 是因为，如果单算写日记或随笔这种记录方式，从初中到现在已经**十多年**了。那时候是因为我们初中语文老师每天会强制要求大家做摘抄或写随笔，没想到老师一教就是三年，也写了三年，现在家里还保留着两本初三时期的语文随笔。
+
+高中之后虽然没人再强制要求了，但是这个习惯保留了下来，而且不仅是写随笔，还会摘抄一些新学到的知识或是技能，只是因为纸质不易保存，就转移到了流行的 QQ 空间留言板和说说，3 年下来，也有 3400 多条了。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660310933/691bd250-0d35-4189-bbd4-f0529b22d95f.png align="center")
+
+上了大学只顾着吃喝玩乐谈恋爱，记录断断续续。直到 2014 年 12 月，我抓取并保留了所有之前的 QQ 数据，用 **Excel + 为知笔记**的组合形式重建了记录系统。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660316125/d3135158-1bac-41af-ba3c-75216a98cb23.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660319071/3da7c839-ec72-42ce-a610-042df02febe0.png align="center")
+
+如果说我是什么时候开始有意识的做 “记录” 这件事，我愿意相信是 2014 年 12 月 5 号，我坐在绿色靠背椅上，用脚踩着电脑桌下板，把四角椅子翘成两脚的那天晚上。
+
+转眼到了 2015 年年末，我在知乎上看见《怎么总结你的 2015 年？》这个问题，很想说些什么，却又无从谈起。那一瞬间让我非常触动，**我觉得我过得浑浑噩噩，我不想再这样下去**，我希望明年我能开始回答 “怎么总结你的 2016 年？”
+
+于是我从 2016 年 1 月 18 日开始记账，3 月 19 日开始记录热点事件，5 月 23 日开始记录生活数据，5 月 29 日开始规律的写日 / 周 / 月记，10 月 9 日开始记录时间消耗，10 月 10 日开始记录人际关系，12 月 11 日开始编写个人年报，阶段性圆梦。
+
+这也是为什么每年我都会回答知乎这个问题的原因，坚持十年试试。
+
+2016 年，是我建立 “记录体系” 的元年。
+
+而现在我公开最多，也是被最多人问的是 “[**时间记录**](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484615&idx=1&sn=ae0f6350d150da32913199859969a79b&chksm=eb21b683dc563f95794eee235d5e3e4cd671c118a81bb244bec4629805933c38c93d458ce250&scene=21#wechat_redirect)”：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660325206/f79dc0ee-a602-4d9b-8025-f4e8c3b352e6.png align="center")
+
+数据都是通过 aTimeLogger 记录的，刚开始那会儿其实我不想用 aTimeLogger，因为我觉得事无巨细太烦了，正常人谁会那样啊。
+
+这是当时的日记，原话：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660330835/8be63590-739b-4ace-9bef-f58ceb79f912.png align="center")
+
+事实证明我不是个 “正常人”，即便是今天 aTimeLogger 月活 6 万，能坚持全年无休记录的，大概**不超过 200 人**，所以我非常能理解说 “麻烦”、“辛苦” 坚持不下来的人。
+
+而我能坚持下来，除了我确实因此受益之外，也因为 “大部分人坚持不下来” 反而让我有种 “小众” 的满足感。
+
+但 “记录” 本身并不小众，工作日志或结案就是记录的结果，也有[众多大咖在不同场合推荐它](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484873&idx=1&sn=b45dd7055fced2c82fbd73482814f94f&chksm=eb21b78ddc563e9b9566f248e8ddc8b665ff5eee22aac28a41a9d6b32f4e78a8a9a2d982ac78&scene=21#wechat_redirect)，只是名头不同罢了。你不必像我一样全年无休，简单点，[现在就可以开始](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484707&idx=1&sn=a50c52b3da316a7174adc96b0941d15f&chksm=eb21b767dc563e711ea70c56fd310a1da3b781749062cd32b44f1cf70f060bd02d9869abd98e&scene=21#wechat_redirect)。
+
+在我一路学习的过程中，最感谢的就是 **@邹鑫**和 **@剑飞**两位前辈。前者是我的时间管理启蒙，后者是我认为的国内个人大数据实操第一人，我每年的年报标题就是向他致敬。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660342354/1cc0401d-2856-4721-a7ce-d950f8dc391c.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684660366193/5893b967-8a68-42ab-9e94-385e00de4836.png align="center")
+
+我是涂俊杰，时间记录 20000 小时后，我要让小众变大众，人人都能用！
