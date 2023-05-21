@@ -1,0 +1,75 @@
+---
+title: "每天花 3.5 小时娱乐，你收获了什么？"
+datePublished: Mon Dec 16 2019 02:44:44 GMT+0000 (Coordinated Universal Time)
+cuid: clhwtfjca000209l71a8t43ez
+slug: 20230521104452
+
+---
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637023168/ddeba2fa-67bf-40f0-9e1c-3534128da15b.png align="center")
+
+2019 年的影视剧综艺娱乐时间相比 2018 年减少了 55%。
+
+![娱乐时间](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637010497/5c522764-4041-48b8-8f8a-8990a19617d5.jpeg align="center")
+
+玩手机的时间比去年减少 65%。
+
+最明显的感觉就是去年睡觉前在床上还要刷半个小时的头条和微博，今年大概就看 10 分钟就睡觉。
+
+![玩手机时间](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637031079/0971adbf-09f7-40fc-9350-b569416fd942.jpeg align="center")
+
+影视剧方面，去年单独写了一篇影院的观影清单，今年这篇文章直接被砍，因为今年去电影院的次数太少了。
+
+一部电影，在电影院一坐就是两个小时，即便是漫威，也不能保证我的 2 小时能高质量的度过。所以突然乏了，少了想去电影院的冲动。
+
+![今年的院线电影](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637043538/04539b23-b7ac-4e83-8f43-5eb8bf8cec80.png align="center")
+
+像我之前说的，每年杀死一个娱乐项目，2017 年是游戏，2018 年是小说，2019 年是院线电影，2020 年预计就是综艺了。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637053598/6ee3e7e0-40ef-41f7-ad64-a89a7d93ed23.png align="center")
+
+2019 年的影视剧，对我来说：
+
+* 最强娱乐综艺：这就是街舞
+    
+* 最强谈话综艺：圆桌派
+    
+* 最强电视剧：鬼吹灯之怒晴湘西
+    
+* 最强电影：复仇者联盟 4
+    
+* 最强动漫：全职高手
+    
+
+非院线电影触动我的电影有：
+
+* 调音师
+    
+* 银河补习班
+    
+* 甜心先生
+    
+* 恋恋记事本
+    
+* 教授
+    
+* 死亡诗社
+    
+
+从科幻动作转为温情这个观影小趋势从去年就开始出现。一个人坐在电脑前，被情节感动，电影结束后还留有余味，感觉真好！
+
+除了罗列的这些，还有陈翔六点半和科幻梦工厂，两个短篇集都是我的下饭菜，特别安利。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637061075/02e9ddc9-ca67-4060-aa96-8c7db93fa11f.jpeg align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637063982/e3539e4c-3eb6-4e5e-9680-f017067f3a75.jpeg align="center")
+
+其实我还有很多想看的影视剧，比如《大时代》和《卖房子的女人》，包括最近上线的《庆余年》，但是做时间记录，有了一根娱乐时间的准线之后，只能强制自己放弃。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684637068182/e8691f29-3c9c-472e-ac3d-67204a9a6dcb.jpeg align="center")
+
+想想国民平均每年要在娱乐上花费 15% 的时间，每天 3.5 小时，还挺恐怖的。
+
+**这每天的 3.5 个小时，让你收获了什么呢？**
+
+别说什么没时间，杀死影视剧和禁止刷手机试试，极速见效！
