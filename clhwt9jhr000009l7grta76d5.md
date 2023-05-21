@@ -1,0 +1,63 @@
+---
+title: "如果说人和人的差距在下班后的 4 小时，那么你用这 4 小时干什么了？"
+datePublished: Wed Dec 18 2019 02:39:59 GMT+0000 (Coordinated Universal Time)
+cuid: clhwt9jhr000009l7grta76d5
+slug: 20230521104012
+
+---
+
+2018 年年中的时候，我在知乎回答过一个很有意思的话题。
+
+“每天下班后，大家都是怎么安排晚上的时间的？”
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636703792/21b43567-b667-47f8-afea-53314ec45730.png align="center")
+
+有感于不少知友贴自己的马甲线，晒自己读的书和熬过的夜。
+
+我想的是，“这些 4 小时真的是真实的 4 小时吗？”
+
+我想找到我真实的 4 小时，于是从时间记录里筛选出了我 2017 和 2018 年的所有 19 到 23 点的时间消耗，来看看我这两年下班后到底在干啥？
+
+是像我以为的读书写作锻炼健身正能量吗？
+
+并不是。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636710074/51df6116-6513-4931-9a35-72755249b7ef.jpeg align="center")
+
+我在睡觉，在娱乐，在写作。
+
+其中，工作日（周一至周五）：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636715956/4b6985ca-ef7f-431a-bf2d-4f532e9121c6.jpeg align="center")
+
+周末（周六周日）：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636764725/78d06364-7167-4f36-bc84-8123e6f8ea62.jpeg align="center")
+
+这两年间，不管是工作日还是周末，娱乐时间都长居第二。
+
+有真实的数据，还能说我下班后的 4 小时很努力吗？
+
+努力个屁！
+
+**真实地记录有时候就是这么残忍，但你需要一条鞭子，粉碎你的幻想！**
+
+时间记录就是我的鞭子。
+
+到了 2019 年，时间分配终于稍有好转。
+
+学习和交际的时间比娱乐多。
+
+我觉得从 2017 年到 2019 年学到的东西多了，从时间消耗上来说，确实是这样。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636754956/bcfb21da-2e92-46ad-93b3-28e00f6224c3.jpeg align="center")
+
+时间没骗我。
+
+![侧面说明我越来越晚睡了](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636737203/9cc7c66b-af57-4e19-bc57-be74774c52a7.jpeg align="center")
+
+这种可见的进步，真香！
+
+你呢？今年下班之后，你把时间花在哪里了？明年有什么想改变的吗？
+
+现在就写下你的计划吧！
