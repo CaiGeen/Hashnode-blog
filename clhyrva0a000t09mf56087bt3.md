@@ -1,5 +1,5 @@
 ---
-title: "花了 70 小时 56 分 31 秒，看完 100 场 Ted，我经历了什么，收获了什么？"
+title: "花了 70 小时 56 分 31 秒，看完 100 场ted，我经历了什么，收获了什么？"
 datePublished: Wed Mar 22 2017 11:36:22 GMT+0000 (Coordinated Universal Time)
 cuid: clhyrva0a000t09mf56087bt3
 slug: 20230522193629
