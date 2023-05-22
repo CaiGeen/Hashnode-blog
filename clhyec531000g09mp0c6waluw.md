@@ -1,0 +1,53 @@
+---
+title: "庆祝 7 天早起群，四月结业"
+datePublished: Sun May 07 2017 05:17:41 GMT+0000 (Coordinated Universal Time)
+cuid: clhyec531000g09mp0c6waluw
+slug: 20230522131751
+
+---
+
+现在是 2017 年 5 月 7 日 22:08:19，公布第一次拥有完整的四月份早起数据。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684732580111/16ee871a-b6cb-4468-8520-86aef2da9faf.jpeg align="left")
+
+\[想知道我们说的什么吗\]
+
+这 30 天里，发生了很多好玩儿的事情，无法详述，但是留下一些有意思的数据，希望和大家分享。（部分内容涉及到小伙伴隐私，就不公开啦。）
+
+**▌群打卡主题**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684732585489/37ac9f9e-8fcd-4559-8571-2803a4a58683.png align="left")
+
+\[四月打卡条件和聊天数\]
+
+**▌群结业情况**
+
+群内共有 14 人，2 人退出，8 人完美结业（表示没有一次晚起打卡）。
+
+**▌聊天小能手：王曼**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684732597452/03f889da-2614-40a7-a11b-3aa459f240c8.png align="left")
+
+\[聊天数\]
+
+**▌最佳幸运星：Max**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684732604169/f1febf9d-2d0e-43e0-b55e-06c4387db56c.png align="left")
+
+\[收红包金额排名\]
+
+**▌群早起排名：王曼**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684732612339/9a6160ae-fcf9-457a-85d5-05432b9fbfb3.png align="left")
+
+\[按完成任务时间排名\]
+
+**▌小伙伴感言**
+
+> 第一次有了完整的月份数据，这意味「7 天早起」群走过了完整的 30 天，事实上到今天是第 44 天。目前群成员共有 12 位小伙伴，我们会每天准时在晨 6 点活跃，有一句没一句的搭茬，彼此陌生彼此相熟，彼此尊重。
+> 
+> 朋友圈里有越来越多人以 #百天计划行动# 的形式行动起啦，我自恋的想我或多或少起到了微小的推动作用。不要害怕被嘲讽说只是「形式感」，如果是让自己变得更优秀，什么「形式」都好。
+> 
+> ——@涂俊杰
+
+庆祝 7 天早起群，四月结业，感谢曾经的、现在的、未来的所有小伙伴，非常感谢。
