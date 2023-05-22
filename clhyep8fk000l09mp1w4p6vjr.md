@@ -8,7 +8,7 @@ slug: 20230522132801
 
 现在是 2017 年 4 月 6 日 08:05:54，为期 7 天的二期早期活动于今日晨 6:10 正式结束了。
 
-![]( align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684733300759/871932a0-dabb-4028-8b13-66f0b5d1c785.jpeg align="left")
 
 \[二期结业\]
 
