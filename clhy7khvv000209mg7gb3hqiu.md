@@ -1,0 +1,27 @@
+---
+title: "2018 年，我去了贵阳 / 佛山 / 海陵岛 / 长隆海洋王国"
+datePublished: Mon Dec 24 2018 02:08:18 GMT+0000 (Coordinated Universal Time)
+cuid: clhy7khvv000209mg7gb3hqiu
+slug: 20230522100826
+
+---
+
+现在比较缺 GPS 数据，[去年的年报](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484438&idx=1&sn=70dc021c1d0ab16a86625f9bc9677c10&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0&scene=21#wechat_redirect)是根据 “出行” 里记录的地址转成经纬度，然后用 BDP 做成了热力图，今年不准备这么费事，简单贴图介绍下今年我去过的地方吧。
+
+05.17：贵州贵阳黄果树瀑布
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684721271331/db38f523-3c0d-40d3-86c8-13a55ca38b8a.jpeg align="left")
+
+07.11：广东佛山清晖园
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684721276876/d17f7c79-f6b6-49b3-869e-24d48238cd77.jpeg align="left")
+
+10.20：广东阳江海陵岛
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684721281470/f15eccb7-e368-42ec-8e72-bf95cbf88213.jpeg align="left")
+
+11.20：广东珠海长隆海洋王国
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684721285660/4d5abf1e-0652-4577-b7ec-b2fb57bba4cb.jpeg align="left")
+
+在广州的这几年，把小时候没看的海全部看完了，反而是冬天，看不见雪了！
