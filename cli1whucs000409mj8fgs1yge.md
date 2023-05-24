@@ -1,0 +1,205 @@
+---
+title: "如何高效的搜索？"
+datePublished: Fri Jul 22 2016 16:09:20 GMT+0000 (Coordinated Universal Time)
+cuid: cli1whucs000409mj8fgs1yge
+slug: 2023052500928
+
+---
+
+**■ 编写背景：**
+
+——你可以情商低，智商低，但是不可以搜商低。
+
+互联网从业者每天面对的世界都是新的，如果不能及时更新自己的知识、技能库，随时都会“过气”。面对海量的信息，如何高效使用搜索工具，方便我们的工作生活，就是本次培训的目的。
+
+**一、搜索引擎的发展**
+
+**1998年9月，谷歌成立，Googol（10的100次幂）**
+
+1998年9月4日，Google以私营公司的形式创立，设计并管理一个互联网搜索引擎“[Google搜索](http://baike.baidu.com/link?url=TMBXNRgEVIeMiTtTVYoqBJDflL-YROWybf4NaGevlUtRmOo_aDFsPVWb8pJhL7jfG86L--OEv2JoykN6eWGi54NkFlmK5hUj0Rl5xxdH-UrnurXkQlA58n7VhgnG0rAZa2DVM8GMSCq0Ga3vm_FUD_)”。Google网站则于1999年下半年启用。Google的使命是整合全球信息，使人人皆可访问并从中受益。Google是第一个被公认为全球最大的搜索引擎，在全球范围内拥有无数的用户。谷歌于美国时间2015年8月10日宣布对企业架构进行调整，创办一家名为Alphabet的“伞形公司”（Umbrella Company），Google成为Alphabet旗下子公司。
+
+**2000年1月，百度成立，众里寻她千百度（猎人以熊掌寻迹）**
+
+[百度](http://baike.baidu.com/link?url=J7uJhZCEfh2Tva8uMzZ6R4z3JK7g98h2WcFOIDYZtOsAxHvs5u6ItI8XoiwGAcoSDuL4xQYpBQisnsp1thf96_)（Nasdaq：BIDU）是全球最大的中文搜索引擎、最大的中文网站。2000年1月由李彦宏创立于北京中关村，致力于向人们提供“简单，可依赖”的信息获取方式。“百度”二字源于中国宋朝词人辛弃疾的《青玉案·元夕》词句“众里寻他千百度”，象征着百度对中文信息检索技术的执著追求。
+
+**2012年8月，360成立（360°保护，杀毒起家）**
+
+[360综合搜索](http://baike.baidu.com/link?url=bdLNh4eoUpVRiAlMx4kp2_AyF_oSIWxagiP0LAuzP4suNwlvJEZIzf37r4RLGff8QjaJcNM1C8RO1QaOiyuDsgF71E2bAl5_b6D75hGTSd1CPcAV0v28G4XDeqcqMAN2kSMxFBok52aqmcvdc2WfG6il0sAICbLx-1XsA2iE7JG)，属于元搜索引擎，是搜索引擎的一种，是通过一个统一的用户界面帮助用户在多个搜索引擎中选择和利用合适的（甚至是同时利用若干个）搜索引擎来实现检索操作，是对分布于网络的多种检索工具的全局控制机制。而360搜索+，属于全文搜索引擎，是奇虎360公司开发的基于机器学习技术的第三代搜索引擎，具备“自学习、自进化”能力和发现用户最需要的搜索结果。
+
+**2014年8月，搜狗成立（“他们搜狐，我们搜狗”）**
+
+[搜狗](http://baike.baidu.com/item/%E6%90%9C%E7%8B%97/474198)是搜狐公司的旗下子公司，于2004年8月3日推出，目的是增强搜狐网的搜索技能，主要经营搜狐公司的搜索业务。在搜索业务的同时，也推出**搜狗输入法**、搜狗高速浏览器。
+
+2015年7月（2004年8月），[UC浏览器](http://baike.baidu.com/link?url=apCQMZyH7B36jIdFFw7gEbrcs8QcgrlArSnx_REsctNuPr8BaHiT-8bdKSMHHAzSAqS9K1rB6ejLz4Q2tFXkN_)发布新版10.6版本，开创第三代浏览器新纪元。通过新版UC浏览器首页就可发现，手机浏览器传统特有的站点导航被拦腰折叠，让位于信息流呈现方式的全新首页。同时，由于每个用户的兴趣标签不同，推送的内容呈现出千人千面的差异化。
+
+**二、搜索引擎的基础用法**
+
+搜索界面
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944361960/9609887c-8673-4a19-b6d4-2eb74956b289.jpeg align="left")
+
+上图为百度推广广告位的展现形式，在2016年5月互联网爆发“[魏则西事件](http://baike.baidu.com/link?url=AMw3nJEbLwb4Z61wTsLLqW5-L-uVYFMzdkmFnzplxgEDUcxsYFKVcGxw1rBEb933LB-AWgd2pYCXBtpzEU61ZQ_THvxdrA-l3Hv3uepNy0lo7Y0lt91HtXczhlF_fSsiotpSEsjwZytPlS6IAiiKVOegaWTsj9YiB5NtWBT9bM_539POikpXOSVwtUdH2o0l28TJAl6tLpk5-VJXdiWfH_)”前，大致划分为**左上**、**左下**、**右侧**三处广告位，其中左图红框右上角标注写有“推广链接”是第一种告知用户该链接为广告的方式；网站名称下方写有“推广”两字，是第二种告知用户该链接为广告的方式。另外，推广位区域应该是有**深灰色底色帮助辨识**的，但是现在灰色越来越淡，已经基本看不出来了。原先左上广告位最大数量为10，左下最大数量为4，右侧最大数量为8。目前百度应网信办要求，页面付费内容不能超过30%，所以仅剩**左上4个广告位**。
+
+展现形式
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944365599/05fdb57c-ad56-4b7f-a5f8-747f2cc1f88d.png align="left")
+
+目前百度搜索结果中，最常见的分为文字展示和图文展示两种排名展现形式，不论是文字还是图文，都显示有**标题**、**描述**、**URL**。
+
+搜索方法
+
+基础
+
+减少口语化搜索
+
+如搜索“我今天吃多了不消化怎么办？”不仅输入麻烦，且效果并不比搜索“吃多 不消化”好。原因在于口语化搜索请求被搜索引擎接收后需要进行分词，排序等操作，不如关键词搜索更简便快捷
+
+百度快照：当出现搜索某关键词时，描述与具体页面不符合，点击“百度快照”会显示当时收录关键词所在位置；**原网页被删除，使用快照找回**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944388649/8525a04d-92b9-4504-a08e-91d4f51b5c26.png align="left")
+
+搜索工具：可以限定时间、文件类型及站内搜索
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944391256/62e3306f-a2b8-49d0-8a8b-6dce47fe4c53.png align="left")
+
+进阶
+
+搜索指令
+
+**“”——（精确搜索）：关键词不可分割，绝对搜索**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944400449/6fbeba06-cd11-49ef-8a9a-d9972cace808.png align="left")
+
+**intitle——（标题搜索）：标题中必须带有关键词**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944438402/00476788-70b4-48c0-8de3-ec09f375e0ab.png align="left")
+
+**\*——** （**通配符）：搜索引擎自动匹配填充\*字符**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944441442/187e968e-b0dd-4c30-9526-ffad0f4f324a.png align="left")
+
+ **site:（站内搜索）\[被收录才行\]：在被收录的网页中搜索关键词**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944456156/99b83b47-f6f7-4ec3-bd6d-85127f179352.png align="left")
+
+ **inurl:（限定URL搜索）：URL中必须匹配，且同时带有关键词**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944469904/a173f689-62ee-450c-b989-b081327d5edd.png align="left")
+
+▶教你怎样用搜索引擎命令：[http://jingyan.baidu.com/article/ca00d56cab27d7e99eebcfab.html](http://jingyan.baidu.com/article/ca00d56cab27d7e99eebcfab.html)
+
+ 高级
+
+（具备大数据思维，关注三方数据分析平台）
+
+[百度指数](http://index.baidu.com/)：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944473128/1febffd4-4e8c-4fe1-8011-844ac2ac38a0.png align="left")
+
+ [新浪微博](http://weibo.com)：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944478211/ffb5ec48-3a91-4d44-9f19-d733a279a763.png align="left")
+
+**三、搜！搜！搜！**
+
+工作
+
+企业
+
+[红盾网](http://www.ubaike.cn/book.html)：查看企业资质、法人、成立时间等
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944482655/4665c082-a072-4117-8165-0bc3c6306329.png align="left")
+
+▶怎么查公司工商注册信息：[http://jingyan.baidu.com/article/f25ef2546db3e1482c1b82ba.html](http://jingyan.baidu.com/article/f25ef2546db3e1482c1b82ba.html)
+
+网站
+
+[站长SEO查询工具](http://seo.chinaz.com/)：了解网站权重、友链、备案等信息
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944491430/096803b9-369c-4384-847f-bfb42c7e0b24.png align="left")
+
+商标
+
+[中国商标网](http://sbcx.saic.gov.cn:9080/tmois/wszhcx_getZhcx.xhtml)：查询注册商标
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944496786/141049ed-13fe-49cd-adb9-6509a46167bb.png align="left")
+
+▶网上怎么查商标是否已经被别人注册过：[http://jingyan.baidu.com/article/1e5468f926780c484961b719.html](http://jingyan.baidu.com/article/1e5468f926780c484961b719.html)
+
+岗位
+
+[职友集](http://www.jobui.com/)：查询公司评价及员工薪资范畴等
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944506287/5a235606-33c9-49bc-800c-405067813fe6.png align="left")
+
+文章
+
+[文章照妖镜](http://www.zhongguosou.com/zonghe/fanchaoxi.html)：查找文章在网络上的曝光，用于检测抄袭
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944511748/8b28e8a4-9374-42d9-bf64-a57a4552a698.png align="left")
+
+▶推荐使用客户端工具：[麒麟原创度检测工具](http://www.crsky.com/soft/49241.html)
+
+图片
+
+Wallhaven：[https://alpha.wallhaven.cc/](https://alpha.wallhaven.cc/)
+
+Pexels：[https://www.pexels.com](https://www.pexels.com)
+
+以图搜图：[http://image.baidu.com/?fr=shitu](http://image.baidu.com/?fr=shitu)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944515799/8dbb2961-6df1-4b67-ac33-137ed8679456.png align="left")
+
+生活
+
+购物
+
+淘宝/京东（淘宝早期史）：使用“[惠惠购物助手](http://zhushou.huihui.cn/)”比价工具，查看宝贝历史价格
+
+使用“[发现值得买](http://www.kiees.com/)”和“[券妈妈](http://www.quanmama.com/)”网站省钱
+
+电影
+
+[BT手撕包菜](http://www.btbaocai.com/)：最新BT下载链接
+
+[BT天堂](http://www.bttiantang.com/)：高清电影下载，不带字幕，如果需要另配字幕，请上“[字幕库](http://www.zimuku.net/)”，或使用“[射手播放器](http://www.splayer.org/)”，有自动匹配字幕功能
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944534802/3e5fb6d8-d6d4-4a2f-b15c-d19ec1d241ab.png align="left")
+
+神奇的政府网站：[广电总局](http://dsj.sarft.gov.cn/tims/site/views/applications.shanty?appName=note)
+
+小说
+
+[**知轩藏书**](http://www.zxcs8.com/)**：精校电子书，不用注册无门槛**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944539547/20827760-1a4f-4a12-93a0-7b9db979a0cb.png align="left")
+
+[河洛中文社区](http://www.horou.com/forum-193-1.html)：全手工精校版，需注册
+
+[威锋电子书论坛](http://bbs.feng.com/thread-htm-fid-224.html)：全分类电子书，需注册
+
+文献
+
+[中国知网](http://www.cnki.net/)：提供海量中文学术文献
+
+需要注册，可以先注册“[中国国家图书馆](http://mylib.nlc.cn/web/guest/reader_login?redirect=/web/guest/home)”账号，然后在图书馆上下载
+
+直接上[淘宝](https://s.taobao.com/search?q=%E7%9F%A5%E7%BD%91&imgfile=&commend=all&ssid=s5-e&search_type=item&sourceId=tb.index&spm=a21bo.50862.201856-taobao-item.1&ie=utf8&initiative_id=tbindexz_20160723)买账号
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944543847/24128b60-5707-4594-8194-c83403442ceb.png align="left")
+
+▶在任何网络都可以上中国知网下载论文的方法：[http://www.360doc.com/content/13/0107/13/2886802\_258740438.shtml](http://www.360doc.com/content/13/0107/13/2886802_258740438.shtml)
+
+[**百度文库**](http://wenku.baidu.com/)**：最大的中文在线文档分享平台**
+
+需要下载券，使用“[冰点文库下载器](http://www.bingdian001.com/?p=30)”下载
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944548224/86ca7a40-f573-4a0c-831d-ea6a1fdf23bd.png align="left")
+
+▶利用冰点文库免费下载百度文库文档的步骤：[http://www.360doc.com/content/13/0107/13/2886802\_258740438.shtml](http://www.360doc.com/content/13/0107/13/2886802_258740438.shtml)
+
+药品
+
+[国家食品药品监督管理总局](http://app2.sfda.gov.cn/datasearchp/gzcxSearch.do?formRender=cx)：查询药品、器械、化妆品等
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684944552743/49d158d7-1054-4833-9140-31a6d6f33b9d.png align="left")
