@@ -1,4 +1,12 @@
-# 三年就练 7 个字
+---
+title: "三年就练 7 个字"
+datePublished: Thu Dec 08 2022 13:09:28 GMT+0000 (Coordinated Universal Time)
+cuid: clbf3iyx9000008k2fcsegrl8
+slug: 20230525172619
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670504829665/OfL9hW8QF.png
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 三年前我发过一篇文章——《[这18条原则，一字千金](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485814&idx=1&sn=6e13121db9ae8e2a7a48ffcb4057832c&chksm=eb21bb32dc56322462ba1e47a4dc5f558dad9b854597a554b0bda8c5bcf1b7b55b5dccc8cf36&scene=21#wechat_redirect)》，记录了我认为可以指导我生活的原则。
 
