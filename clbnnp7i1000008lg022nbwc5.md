@@ -1,4 +1,13 @@
-# 2022 年我买了多少东西
+---
+title: "2022 年我买了多少东西"
+seoDescription: "并不是谁的消费方式更好，只是大家看重的东西不同。我觉得时间更重要，与其纠结买这用那，不如花钱保护心情和注意力。"
+datePublished: Wed Dec 14 2022 12:56:21 GMT+0000 (Coordinated Universal Time)
+cuid: clbnnp7i1000008lg022nbwc5
+slug: 20230525172426
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670988617744/rBAVer0oB.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v, 6k6w6lsm
+
+---
 
 2022 年的消费控制的还不错，每年的支出大头都是房贷，社保和人情往来。
 
