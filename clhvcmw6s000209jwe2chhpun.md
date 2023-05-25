@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 9 - 从消费者变成创造者"
+title: "从消费者变成创造者"
 seoDescription: "想做的事情很多，但做到的很少。不过我依然保持好奇，也喜欢这种被好作品冲刷的感觉。"
 datePublished: Mon Oct 17 2022 02:06:33 GMT+0000 (Coordinated Universal Time)
 cuid: clhvcmw6s000209jwe2chhpun
