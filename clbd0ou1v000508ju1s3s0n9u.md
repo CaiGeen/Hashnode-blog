@@ -1,4 +1,12 @@
-# 2022年读过和想看的书
+---
+title: "2022年读过和想看的书"
+datePublished: Sun Dec 04 2022 02:14:26 GMT+0000 (Coordinated Universal Time)
+cuid: clbd0ou1v000508ju1s3s0n9u
+slug: 20230525172754
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670379080157/eYNFzlhf-.png
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 2022 年读过27本书，使用 106 小时。
 
