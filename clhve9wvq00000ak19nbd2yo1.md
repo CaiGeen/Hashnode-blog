@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 4 - 我们太缺少「自洽」了"
+title: "我们太缺少「自洽」了"
 seoDescription: "整理完所有书签之后，新建了「博客」和「新闻源」两个文件夹，用来提醒我定期查看。"
 datePublished: Mon Sep 12 2022 02:52:38 GMT+0000 (Coordinated Universal Time)
 cuid: clhve9wvq00000ak19nbd2yo1
