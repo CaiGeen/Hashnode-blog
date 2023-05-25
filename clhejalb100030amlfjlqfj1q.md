@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 28 - 如何向导师寻求帮助？"
+title: "如何向导师寻求帮助？"
 seoDescription: "谁是你的榜样，你想成为谁？问问题前，详细梳理一遍你的问题，想象你是他会怎么回答。"
 datePublished: Mon May 08 2023 07:41:19 GMT+0000 (Coordinated Universal Time)
 cuid: clhejalb100030amlfjlqfj1q
