@@ -1,4 +1,12 @@
-# 周刊 # 13 - 吃着火锅唱着歌，钱没了
+---
+title: "吃着火锅唱着歌，钱没了"
+datePublished: Mon Nov 14 2022 01:58:18 GMT+0000 (Coordinated Universal Time)
+cuid: clbd04dnq000008jy9kdyfjzm
+slug: 20230525172912
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670378512032/Suvs7qTis.jpg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2022 年第 46 周。
 
