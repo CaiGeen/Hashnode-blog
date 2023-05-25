@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 27 - 又到了炫樱桃的季节"
+title: "又到了炫樱桃的季节"
 seoDescription: "近两年只要初夏还在湖北，就会和老婆天天买樱桃吃，菜场 8~13 块钱/斤，新鲜软糯水灵灵。还有小龙虾的个头也到时候了，找了家做活动的店，20 块钱/斤卤虾，2 个人吃了 6 斤。生活啊，美滋滋。"
 datePublished: Mon May 01 2023 07:31:30 GMT+0000 (Coordinated Universal Time)
 cuid: clh4iv0lf000909jk42u75edo
