@@ -1,4 +1,13 @@
-# 2022 年我的投资收益
+---
+title: "2022 年我的投资收益"
+seoDescription: "截至 12 月 15 日，2022 年全部投资仓位都在数字货币，全年收益率为 3.1%。同期比特币跌幅 -61%，沪深300 跌幅 -20%，标普500 跌幅 -16%。"
+datePublished: Sat Dec 17 2022 12:37:31 GMT+0000 (Coordinated Universal Time)
+cuid: clbrxck19000008l0fls74asz
+slug: 20230525172311
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671096906576/ZskeywBrS.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 截至 12 月 15 日，2022 年全部投资仓位都在数字货币，全年收益率为 3.1%。同期比特币跌幅 -61%，沪深300 跌幅 -20%，标普500 跌幅 -16%。
 
