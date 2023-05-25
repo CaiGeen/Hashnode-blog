@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 24 - 试着不拒绝新体验"
+title: "试着不拒绝新体验"
 datePublished: Mon Apr 10 2023 06:27:20 GMT+0000 (Coordinated Universal Time)
 cuid: clgagblhn000709mm1x6jg1vm
 slug: 20230410142743
