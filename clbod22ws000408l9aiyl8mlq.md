@@ -1,4 +1,13 @@
-# 得了喉癌的「蝙蝠侠」和 Ai 复活
+---
+title: "得了喉癌的「蝙蝠侠」和 Ai 复活"
+seoDescription: "当科技有一天真的能像《超验骇客》那样「复活」我们的时候，会选择参考哪些资料来「重塑」我们呢？谁又有选择权呢？"
+datePublished: Thu Dec 15 2022 00:46:12 GMT+0000 (Coordinated Universal Time)
+cuid: clbod22ws000408l9aiyl8mlq
+slug: 20230525172409
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671064970772/IXU-nurnY.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 ​8 月底《壮志凌云2》放出了亚马逊 IMAX 版。
 
