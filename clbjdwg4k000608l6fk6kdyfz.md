@@ -1,4 +1,12 @@
-# 2022 年学到的 5 个新技能
+---
+title: "2022 年学到的 5 个新技能"
+datePublished: Sun Dec 11 2022 13:10:57 GMT+0000 (Coordinated Universal Time)
+cuid: clbjdwg4k000608l6fk6kdyfz
+slug: 20230525172527
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670658655160/g2XK3ygEb.png
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 2022 年好像没有学到新技能，不管是 Word 还是 GitHub 都是复习，不过再深入而已。
 
