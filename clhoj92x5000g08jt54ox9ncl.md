@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 29 - 哪些事要重复做"
+title: "哪些事要重复做"
 seoDescription: "我需要一些「不需要思考，做就对了」的周期清单，可以帮我度过迷茫时期。"
 datePublished: Mon May 15 2023 07:37:50 GMT+0000 (Coordinated Universal Time)
 cuid: clhoj92x5000g08jt54ox9ncl
