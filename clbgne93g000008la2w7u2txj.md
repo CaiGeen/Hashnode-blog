@@ -1,4 +1,12 @@
-# 做自己的面试官
+---
+title: "做自己的面试官"
+datePublished: Fri Dec 09 2022 15:13:26 GMT+0000 (Coordinated Universal Time)
+cuid: clbgne93g000008la2w7u2txj
+slug: 20230525172603
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670598780010/nIYxQ5RGk.gif
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 先补充昨天在《[三年就练 7 个字](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487257&idx=1&sn=57eccdc0a439287b688cfa57fc7ee329&chksm=eb21bd5ddc56344bb9b09b0c3f9e6577147bea35da0b4fca961586990933cf995008ce69eb1f&scene=21#wechat_redirect)》里漏掉的两条思维变化。
 
