@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 15 - 选工具的标准"
+title: "选工具的标准"
 datePublished: Mon Nov 28 2022 14:26:50 GMT+0000 (Coordinated Universal Time)
 cuid: clbcbex1c000508l0471scze0
 slug: 20230525172812
