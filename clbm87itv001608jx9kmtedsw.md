@@ -1,4 +1,13 @@
-# 时间在哪，成就在哪（2022）
+---
+title: "时间在哪，成就在哪（2022）"
+seoDescription: "时间流向背后反映的是生活状态，想要打破时间边界，就必须换一种生活方式。"
+datePublished: Tue Dec 13 2022 12:54:55 GMT+0000 (Coordinated Universal Time)
+cuid: clbm87itv001608jx9kmtedsw
+slug: 20230525172451
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670760050018/Wzqv-CCi-.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 > ​道理在初中的时候就学过了：想要打破现有的平衡态，就要对该状态做超出临界点的功。——张潇雨
 
