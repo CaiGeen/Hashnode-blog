@@ -1,4 +1,13 @@
-# 我的办公桌面和常用软硬件（2022.12）
+---
+title: "我的办公桌面和常用软硬件（2022.12）"
+seoDescription: "备份我所有的正在使用的软硬件工具。"
+datePublished: Fri Dec 16 2022 12:54:40 GMT+0000 (Coordinated Universal Time)
+cuid: clbqiiqvz000208md5u4e3nqt
+slug: 20230525172333
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670733760749/E97FKMhKq.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 备份我所有的正在使用的软硬件工具。
 
