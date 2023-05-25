@@ -1,4 +1,13 @@
-# 周刊 # 22 - 我性格的弱点，在交易上全部体现
+---
+title: "我性格的弱点，在交易上全部体现"
+seoDescription: "重看了 @罗晟Criss的交易工作室 的 YouTube 频道，和当初迷惑时重看《期货交易策略》一样，有顿悟的感觉。"
+datePublished: Tue Feb 07 2023 12:59:38 GMT+0000 (Coordinated Universal Time)
+cuid: cldu91axa00pcvpnv5l8p87j7
+slug: 20230207205900
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675764433813/1bfb16f7-ec03-4006-b09d-a0d69ed83cf4.jpeg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2023 年第 6 周。
 
