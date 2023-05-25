@@ -1,4 +1,12 @@
-# 周刊 # 15 - 选工具的标准
+---
+title: "周刊 # 15 - 选工具的标准"
+datePublished: Mon Nov 28 2022 14:26:50 GMT+0000 (Coordinated Universal Time)
+cuid: clbcbex1c000508l0471scze0
+slug: 20230525172812
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670336759941/XB7MFH3oQ.jpg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2022 年第 48 周。
 
