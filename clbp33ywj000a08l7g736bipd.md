@@ -1,4 +1,13 @@
-# 我把钱投给他们了（2022）
+---
+title: "我把钱投给他们了（2022）"
+seoDescription: "很多时候，虽然我们不说一句话，但只要知道这世上有人和你一样，他们做自己喜欢的事，也能把家人照顾好，能赚钱养活自己，能受到尊重，备受鼓舞。"
+datePublished: Thu Dec 15 2022 12:55:30 GMT+0000 (Coordinated Universal Time)
+cuid: clbp33ywj000a08l7g736bipd
+slug: 20230525172350
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671244233687/KKJm16XY7.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 和《2022 年我买了多少东西》的大而全不同，这篇把我付费支持过的「人」单独列出来（不包含亲人熟人），表示感谢。
 
