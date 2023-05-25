@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 10 - 如果你有一块巨大的广告牌，你会写什么？"
+title: "如果你有一块巨大的广告牌，你会写什么？"
 seoDescription: "我想创作是不是终会走上导演这条路？晚上已经想到了片头的第一个画面 —— 死亡前的闪回。"
 datePublished: Mon Oct 24 2022 01:59:24 GMT+0000 (Coordinated Universal Time)
 cuid: clhvcehar000109jwdb6jcgn8
