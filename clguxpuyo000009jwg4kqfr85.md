@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 26 - 想成为创造导向的人，有 3 条建议"
+title: "想成为创造导向的人，有 3 条建议"
 seoDescription: "趁年轻，投资自己的技能和人脉，花时间印自己的「股票」，而不是琢磨怎么买别人的。"
 datePublished: Mon Apr 24 2023 14:29:42 GMT+0000 (Coordinated Universal Time)
 cuid: clguxpuyo000009jwg4kqfr85
