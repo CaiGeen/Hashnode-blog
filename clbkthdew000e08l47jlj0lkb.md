@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 17 - 你有什么人、财、物、技？"
+title: "你有什么人、财、物、技？"
 datePublished: Mon Dec 12 2022 13:14:54 GMT+0000 (Coordinated Universal Time)
 cuid: clbkthdew000e08l47jlj0lkb
 slug: 20230525172510
