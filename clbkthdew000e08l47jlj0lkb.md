@@ -1,4 +1,12 @@
-# 周刊 # 17 - 你有什么人、财、物、技？
+---
+title: "周刊 # 17 - 你有什么人、财、物、技？"
+datePublished: Mon Dec 12 2022 13:14:54 GMT+0000 (Coordinated Universal Time)
+cuid: clbkthdew000e08l47jlj0lkb
+slug: 20230525172510
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670850790705/frI68UuOJ.jpg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2022 年第 50 周。
 
