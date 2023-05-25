@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 8 - 和《人物》杂志学写年报"
+title: "和《人物》杂志学写年报"
 seoDescription: "封面人物的共同点是他们都曾是热点话题的制造者或参与者，最引人侧目的那一个（TOP）。"
 datePublished: Mon Oct 10 2022 02:29:01 GMT+0000 (Coordinated Universal Time)
 cuid: clhvdfm1p00010aky0dcqg1tv
