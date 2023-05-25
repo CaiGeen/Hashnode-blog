@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 5 - 没有信息过载，只有过滤失败"
+title: "没有信息过载，只有过滤失败"
 seoDescription: "这周又出现了被信息轰炸的感觉，就是那种手头的事刚完成，在没有开始下一阶段工作的空隙，注意力又不坚定的随机摇摆，什么都想要，什么都想做，甚至开始怀疑手头工作的重要性。避难似的看了很多视频。"
 datePublished: Mon Sep 19 2022 02:47:45 GMT+0000 (Coordinated Universal Time)
 cuid: clhve3o7m000309l5d8bz44ms
