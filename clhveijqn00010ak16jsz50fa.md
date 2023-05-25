@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 1 - 创造过程中，自己就出现了"
+title: "创造过程中，自己就出现了"
 seoDescription: "所有的人、事、物都是你内在的投射，就像镜子一样地反映你的内在。——《遇见未知的自己》"
 datePublished: Mon Aug 22 2022 02:59:06 GMT+0000 (Coordinated Universal Time)
 cuid: clhveijqn00010ak16jsz50fa
