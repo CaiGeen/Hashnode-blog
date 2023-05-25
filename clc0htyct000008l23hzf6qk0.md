@@ -1,4 +1,13 @@
-# 2022 年的内容推荐
+---
+title: "2022 年的内容推荐"
+seoDescription: "自从「只搜索，不收藏」后，网页剪藏功能基本废弃，所以做年度内容推荐没什么数据参考，完全主观，留下的都是「提到这个话题还有印象」的内容。"
+datePublished: Fri Dec 23 2022 12:33:05 GMT+0000 (Coordinated Universal Time)
+cuid: clc0htyct000008l23hzf6qk0
+slug: 20230525173920
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671798403397/6d960e69-7e23-4a95-a4ff-c404293e1dce.jpeg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 自从「只搜索，不收藏」后，网页剪藏功能基本废弃，所以做年度内容推荐没什么数据参考，完全主观，留下的都是「提到这个话题还有印象」的内容。
 
