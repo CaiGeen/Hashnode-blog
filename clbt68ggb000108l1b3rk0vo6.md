@@ -1,4 +1,13 @@
-# 2022 年我放弃了什么
+---
+title: "2022 年我放弃了什么"
+seoDescription: "人的精力有限，所以一张「坚决不做」的 list 比「我想做」的 list 更重要。你觉得呢？"
+datePublished: Sun Dec 18 2022 09:34:03 GMT+0000 (Coordinated Universal Time)
+cuid: clbt68ggb000108l1b3rk0vo6
+slug: 20230525172249
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671184684758/z72EcqROB.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 现在不该说「放弃」这么消极，我只是暂时离开，说不定将来还会捡起来。
 
