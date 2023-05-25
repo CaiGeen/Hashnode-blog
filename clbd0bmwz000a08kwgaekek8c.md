@@ -1,4 +1,12 @@
-# 周刊 # 12 - 创作者的最小系统
+---
+title: "创作者的最小系统"
+datePublished: Mon Nov 07 2022 02:04:09 GMT+0000 (Coordinated Universal Time)
+cuid: clbd0bmwz000a08kwgaekek8c
+slug: 20230525172936
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670378615701/RJtWjpHUR.jpg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2022 年第 45 周。
 
