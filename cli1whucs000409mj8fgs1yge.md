@@ -2,7 +2,7 @@
 title: "如何高效的搜索？"
 datePublished: Fri Jul 22 2016 16:09:20 GMT+0000 (Coordinated Universal Time)
 cuid: cli1whucs000409mj8fgs1yge
-slug: 2023052500928
+slug: 20230525000928
 
 ---
 
