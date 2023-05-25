@@ -1,4 +1,13 @@
-# 周刊 # 20 - 良善和残忍存于一身，这才是我们
+---
+title: "良善和残忍存于一身，这才是我们"
+seoDescription: "爆竹声中一岁除，准备迎接新年。"
+datePublished: Mon Jan 16 2023 13:00:42 GMT+0000 (Coordinated Universal Time)
+cuid: clcytdxco00qi64nv77inc65h
+slug: 20230116210000
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673863760156/586efcba-3c18-4b9b-b803-02d62a87fc69.jpeg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2023 年第 3 周。
 
