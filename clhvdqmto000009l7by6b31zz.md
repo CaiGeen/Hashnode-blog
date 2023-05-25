@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 6 - 他人的故事，是我们内心的延续"
+title: "他人的故事，是我们内心的延续"
 seoDescription: "罗翔说「他人的故事，是我们内心的延续。」故事的主角是刘小样，也是我。"
 datePublished: Mon Sep 26 2022 02:37:40 GMT+0000 (Coordinated Universal Time)
 cuid: clhvdqmto000009l7by6b31zz
