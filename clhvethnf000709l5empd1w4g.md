@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 2 - 还能写点儿什么，日子就没白过"
+title: "还能写点儿什么，日子就没白过"
 seoDescription: "好多网站 404 了，我总在想这些背后的人或许都曾经意气风发，现在都在干什么呢？"
 datePublished: Mon Aug 29 2022 03:07:42 GMT+0000 (Coordinated Universal Time)
 cuid: clhvethnf000709l5empd1w4g
