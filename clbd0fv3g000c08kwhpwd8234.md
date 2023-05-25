@@ -1,4 +1,12 @@
-# 周刊 # 11 - 怎样成为香饽饽？
+---
+title: "怎样成为香饽饽？"
+datePublished: Mon Oct 31 2022 02:07:26 GMT+0000 (Coordinated Universal Time)
+cuid: clbd0fv3g000c08kwhpwd8234
+slug: 20230525172952
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670378773205/YVjz0PjDL.jpg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2022 年第 44 周。
 
