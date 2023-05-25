@@ -1,4 +1,13 @@
-# 周刊 # 18 - 病毒凶猛，大家要注意防护啊
+---
+title: "病毒凶猛，大家要注意防护啊"
+seoDescription: "病毒凶猛，大家要注意防护啊，特别是独居的朋友。"
+datePublished: Mon Dec 19 2022 09:46:16 GMT+0000 (Coordinated Universal Time)
+cuid: clbum41db000308jnb3muc3f4
+slug: 20230525172150
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671443082708/kWDJwp7Y8.png
+tags: 5pel5bi4, 5zgo5yik
+
+---
 
 2022 年第 51 周。
 
