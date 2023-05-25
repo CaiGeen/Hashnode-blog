@@ -1,4 +1,12 @@
-# 我的年度影视剧/游戏/综艺
+---
+title: "我的年度影视剧/游戏/综艺"
+datePublished: Wed Dec 07 2022 12:59:44 GMT+0000 (Coordinated Universal Time)
+cuid: clbdnqm3201lb12nv7uce1ogc
+slug: 20230525172653
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670381226625/h4pRKdVsx.png
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 2022 年「娱乐」了 952 小时，玩手机（空白）+刷 B站 占总时长一半。
 
