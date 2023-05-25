@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 3 - 活着就是不断「证明」自己的过程吗"
+title: "活着就是不断「证明」自己的过程吗"
 seoDescription: "活着就是不断「证明」自己的过程吗？这或许是种动力，但也是深渊的凝望。"
 datePublished: Mon Sep 05 2022 03:02:04 GMT+0000 (Coordinated Universal Time)
 cuid: clhvemcmc000409m92lz347gv
