@@ -1,4 +1,13 @@
-# 周刊 # 19 - 《哈迪斯》提前预定年度游戏
+---
+title: "《哈迪斯》提前预定年度游戏"
+seoDescription: "到今天《哈迪斯》的游戏时长已经 58 小时了，和去年这时候狂刷《暗黑2》一样，《哈迪斯》估计要提前一年锁定年度游戏。"
+datePublished: Mon Jan 09 2023 13:03:22 GMT+0000 (Coordinated Universal Time)
+cuid: clcotedsg000708l8amyu5xaj
+slug: 20230109210312
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673269306971/9e2ce03e-5c46-4519-9dd8-5b842745f34b.png
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
 
 2023 年第 2 周。
 
