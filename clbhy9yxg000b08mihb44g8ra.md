@@ -1,4 +1,12 @@
-# 2022 年的 60 件小事
+---
+title: "2022 年的 60 件小事"
+datePublished: Sat Dec 10 2022 13:05:48 GMT+0000 (Coordinated Universal Time)
+cuid: clbhy9yxg000b08mihb44g8ra
+slug: 20230525172544
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1670659110955/uUJ6s9myL.jpg
+tags: 5pel5bi4, 5pe26ze06k6w5b2v
+
+---
 
 ​从 2022 年的 Excel 日记里选了 60 条星标事件。
 
