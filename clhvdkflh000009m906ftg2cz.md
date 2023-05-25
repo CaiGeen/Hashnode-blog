@@ -1,5 +1,5 @@
 ---
-title: "周刊 # 7 - 骚操作亏钱经历"
+title: "骚操作亏钱经历"
 seoDescription: "在 84000 星球受到 @金马 老师的启发，也写了一篇我自己的骚操作经历。"
 datePublished: Wed Oct 05 2022 02:32:34 GMT+0000 (Coordinated Universal Time)
 cuid: clhvdkflh000009m906ftg2cz
