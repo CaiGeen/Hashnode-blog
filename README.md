@@ -12,7 +12,7 @@
 2. 跳转后在左边`Code`旁点击 `🔍` 打开搜索
 3. 在`repo:CaiGeen/Hashnode-blog`后输入搜索内容后回车即可
 
-## 独立作品
+## 代表作品
 📚 电子书《[柳比歇夫时间记录法实践手册](https://shijian.tujunjie.com/)》
 
 📹 视频课《[柳比歇夫时间记录法](https://study.163.com/course/courseMain.htm?share=2&shareId=400000000640077&courseId=1209678842&_trace_c_p_k2_=f4e72b3d759c4c2badd77ce94f0bd081)》＆《[职场效率课](https://study.163.com/course/courseMain.htm?courseId=1209732851&share=2&shareId=400000000640077)》＆《[Excel 自动化报表实操课](https://www.aikewang.com/course/14)》
