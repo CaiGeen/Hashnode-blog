@@ -4,6 +4,7 @@ seoDescription: "「不过时的内容」都是从「过时的内容」里挑出
 datePublished: Sun May 28 2023 06:43:32 GMT+0000 (Coordinated Universal Time)
 cuid: cli721bme000009l7blm4fxrk
 slug: 20230528144322
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685256309960/6bf94d7d-ff21-4504-9856-9f000859f5b2.jpeg
 
 ---
 
