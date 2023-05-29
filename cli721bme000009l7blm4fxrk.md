@@ -12,6 +12,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685256309960/6bf94d7
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685256031619/831774fe-9697-4d98-89da-8a5761681193.png align="left")
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1685373924344/cd2e5f47-7f12-4954-8867-dca1162a713f.png align="center")
+
 一开始以为自己写了挺多，结果满打满算，10 年才写了不到 400 篇，80 万字，不够勤，至少得写 1000 篇吧 🙄
 
 整理过程中有些感慨，或许「早知道」的话，情况会有不同，所以分享给大家。
