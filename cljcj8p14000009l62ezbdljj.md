@@ -1,5 +1,5 @@
 ---
-title: "在深圳，一次见 300 人"
+title: "得意忘形×深圳站，一次见 300 人"
 seoDescription: "那副黑框眼镜跟了我 7 年，在广州龙归工作的时候换的。这次逼我换眼镜，我想或许是个新的开始。"
 datePublished: Mon Jun 26 2023 07:23:42 GMT+0000 (Coordinated Universal Time)
 cuid: cljcj8p14000009l62ezbdljj
