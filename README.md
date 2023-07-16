@@ -12,6 +12,16 @@
 2. 跳转后在左边`Code`旁点击 `🔍` 打开搜索
 3. 在`repo:CaiGeen/Hashnode-blog`后输入搜索内容后回车即可
 
+## 核心资源
+
+🗂️ [工作近 10 年，我遇到的 130 位贵人](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)
+
+🔌 [我的办公桌面和常用软硬件（2022.12）](https://blog.tujunjie.com/20230525172333)
+
+🛒 [2022 年我买了多少东西](https://blog.tujunjie.com/20230525172426)
+
+👓 [2022 年读过和想看的书](https://blog.tujunjie.com/20230525172754)
+
 ## 代表作品
 📚 电子书《[柳比歇夫时间记录法实践手册](https://shijian.tujunjie.com/)》
 
