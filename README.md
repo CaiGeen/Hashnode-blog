@@ -14,7 +14,7 @@
 
 ## 核心资源
 
-🗂️ [工作近 10 年，我遇到的 130 位贵人](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)
+🗂️ [工作近 10 年，我遇到的 130 位贵人](https://blog.tujunjie.com/20230711200815)
 
 🔌 [我的办公桌面和常用软硬件（2022.12）](https://blog.tujunjie.com/20230525172333)
 
