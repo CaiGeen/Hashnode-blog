@@ -1,5 +1,5 @@
 ---
-title: "不要这么快逃离好材料"
+title: "抱大腿方法论（6 个步骤）"
 seoDescription: "没人不喜欢赞美，特别是真诚的感谢。当你认为某人有什么好的地方时，你应该告诉他们，即便只写两到三句话。"
 datePublished: Mon Jul 24 2023 08:03:37 GMT+0000 (Coordinated Universal Time)
 cuid: clkgkzvnw000b09l38sp2c3ij
