@@ -85,6 +85,6 @@ tags: 5qac5qc35lus, 5bi45yaz5bi45paw
 
 只是想速览全球大事的话，可以使用 [Buzzing](https://www.buzzing.cc/)，把全球热门新闻标题翻译成中文聚合到一起，作者 @Owen 就是沉浸式翻译插件的开发者；速览中文圈大事的话，可以使用 [Rebang.Today](https://rebang.today/)，思路一样，聚集全网热​门新闻。
 
-萝卜白菜各有所爱，我的 Inoreader 特别关注和完整的公众号订阅列表就不公开了。如果你确实想要，可以写邮件申请，分享我你的信息源，最好带上你[为什么会关注](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)的简单概要。如果你是我的[动态笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)付费用户，请查收 Telegram 信息，我会免费上传共享。
+萝卜白菜各有所爱，我的 Inoreader 特别关注和完整的公众号订阅列表就不公开了。如果你确实想要，可以写邮件申请，分享我 10 个以上你特喜欢的或是你觉得适合我的信息源，带上你[为什么会关注](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)的简单概要就更好啦。如果你是我的[动态笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)付费用户，请查收 Telegram 信息，我会免费上传共享。
 
 📧 [我的邮箱：`tu.junjie@foxmail.com`](mailto:%E6%88%91%E7%9A%84%E9%82%AE%E7%AE%B1%EF%BC%9Atu.junjie@foxmail.com)
