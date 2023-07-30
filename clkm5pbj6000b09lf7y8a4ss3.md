@@ -83,7 +83,11 @@ tags: 5qac5qc35lus, 5bi45yaz5bi45paw
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690522719108/bde8fb09-1215-42cf-8b38-49ada9a985f6.png align="center")
 
-只是想速览全球大事的话，可以使用 [Buzzing](https://www.buzzing.cc/)，把全球热门新闻标题翻译成中文聚合到一起，作者 @Owen 就是沉浸式翻译插件的开发者；速览中文圈大事的话，可以使用 [Rebang.Today](https://rebang.today/)，思路一样，聚集全网热​门新闻。
+信息源分类的变化，往往代表着人在不同阶段重心的变化，比如刚开始给信息分类的时候，自己想看的少，听说的多，[扒了很多 RSS 源](https://github.com/saveweb/rss-list)，一股脑的全加进去，如上图，看着爽就行。后来发现很多别人喜欢的，但自己根本不看，分类变得越来越定制化，如下图，就只关注这些领域了，都是我信任的人和媒体，其他不看，也不焦虑。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690693859608/d529ff58-5ed1-4ce5-87e5-e2b1a25c7b2d.png align="center")
+
+另外，只是想速览全球大事的话，可以使用 [Buzzing](https://www.buzzing.cc/)，把全球热门新闻标题翻译成中文聚合到一起，作者 @Owen 就是沉浸式翻译插件的开发者；速览中文圈大事的话，可以使用 [Rebang.Today](https://rebang.today/)，思路一样，聚集全网热​门新闻。
 
 萝卜白菜各有所爱，我的 Inoreader 特别关注和完整的公众号订阅列表就不公开了。如果你确实想要，可以写邮件申请，分享我 10 个以上你特喜欢的或是你觉得适合我的信息源，带上你[为什么会关注](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)的简单概要就更好啦。如果你是我的[动态笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)付费用户，请查收 Telegram 信息，我会免费上传共享。
 
