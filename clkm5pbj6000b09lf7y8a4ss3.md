@@ -83,7 +83,7 @@ tags: 5qac5qc35lus, 5bi45yaz5bi45paw
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690522719108/bde8fb09-1215-42cf-8b38-49ada9a985f6.png align="center")
 
-信息源分类的变化，往往代表着人在不同阶段重心的变化，比如刚开始给信息分类的时候，自己想看的少，听说的多，[扒了很多 RSS 源](https://github.com/saveweb/rss-list)，一股脑的全加进去，如上图，看着爽就行。后来发现很多别人喜欢的，但自己根本不看，分类变得越来越定制化，如下图，就只关注这些领域了，都是我信任的人和媒体，其他不看，也不焦虑。
+信息源分类的变化，往往代表着人在不同阶段重心的变化，比如刚开始给信息分类的时候，自己想看的少，听说的多，[扒了很多 RSS 源](https://github.com/saveweb/rss-list)，一股脑的全加进去，如上图，看着爽就行。后来发现很多别人喜欢的，但自己根本不看，分类变得越来越定制化，比如下图，就只关注这些信源了，100 来个，都是我信任的人和媒体，其他不看，也不焦虑。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690693859608/d529ff58-5ed1-4ce5-87e5-e2b1a25c7b2d.png align="center")
 
