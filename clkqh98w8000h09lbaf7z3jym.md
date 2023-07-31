@@ -1,0 +1,79 @@
+---
+title: "老了你会不会后悔？"
+seoDescription: "我和老婆也有金钱压力，但我们都觉得，如果不趁年轻尽量蔑视钱的压力，老了我们肯定后悔。"
+datePublished: Mon Jul 31 2023 06:16:38 GMT+0000 (Coordinated Universal Time)
+cuid: clkqh98w8000h09lbaf7z3jym
+slug: 20230731141552
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690783284851/39787fa7-c881-4cb7-b713-19b915e8b6d0.jpeg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
+
+感谢我的赞助商 **aTimeLogger Pro<sup>[1] </sup>** ，激励我写写写，免费向读者提供[**周刊**](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI3MzU5MDA1OQ==&action=getalbum&album_id=2675015646262542337#wechat_redirect)。
+
+使用 aTimeLogger Pro 记录时间 —— 简洁无广告、保证隐私、稳定运营 10 年。诚实对待每天的 86400 秒，觉察、唤醒，认识自己。
+
+---
+
+2023 年第 31 周。
+
+aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s/iufaGiryP9kOomakbNpdOg)分配如图示：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690783295890/8102039e-bb5f-45c4-8678-18bddd0a5ba8.jpeg align="center")
+
+这周最重要的事，就是重新归集了所有 RSS 源，并写了一篇我如何管理信息源，打造信息中心的文章，有点儿像《[**工作近 10 年，我遇到的 130 位贵人**](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)》的配套，明天发（博客已经发了，在[这里](https://blog.tujunjie.com/20230728134153)）。下篇是输出流程，争取本周写出来。
+
+### **我的 RSS 信息源**
+
+这篇文章是仿写范冰老师的《[**分享我的信息筛选管道**](https://mp.weixin.qq.com/s/0xyQM4i352Pg6ooqNAMYxQ)》。开始写的时候，每写一段我就要看看原文的结构，后来越写越不对劲，就索性按照自己的思路写。这就是我为什么推荐「脱稿」，也不再写逐字稿的原因，对着一个东西念，就没有随心所欲的感觉了，反而不适应。反正别人也不知道你本来要说什么，写什么，错了再自己找补呗。
+
+写完顺便把所有 RSS 信息源整理到 Inoreader，备份到云，一共就 100 多个，大多是我[**信任的人**](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)和媒体。曾经随波逐流加过的财经时政、社会新闻啥的，早就不看了。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690783319085/350ea187-dab6-475b-b662-09e17a0f0e45.png align="center")
+
+### **云南昆明**
+
+有天晚上和老婆在江边散步，聊到我们好久没出门了，聊到 2020 年[**第一次去云南**](https://mp.weixin.qq.com/s/O-atFNOvjsL5s1g4cZFHIg)，聊到再去云南避暑，第二天一早一跺脚买了飞昆明的机票，出发。
+
+和朋友们聊到要去昆明了，大家的反应都是真爽羡慕，有钱真好，我也不知道怎么回。虽然这些「看起来像」钱的问题，但不全是。我和老婆也有金钱压力，但我们都觉得，如果不趁年轻尽量蔑视钱的压力，老了我们肯定后悔。
+
+我喜欢云南。上次去昆明都是 3 年前了，那时候老同学在昆明，带我逛了滇池、西山，吃了米线、菌子锅。怀念昆明四季如春，想到避暑，第一反应就是昆明。我要去吃菌子火锅、三块一拾、鲜花饼、稀豆花……
+
+### **重新配眼镜**
+
+[**上周**](https://mp.weixin.qq.com/s/Eyvaa0qzOnXEl13acSHYBA)吐槽的新眼镜不适应，后来才发现是我验光有问题，没有足矫，唉，重新配呗。
+
+过程中学到了这些：
+
+* **隐形日抛选博士伦清朗和海昌 H2O 都行，不要海昌优氧 PRO，不好取**
+    
+* **如果像我一样网上配镜，别日抛了，时间比你设想的要久，直接月抛**
+    
+* **高度近视，不要买大框镜架（比你之前的镜框尺寸大就叫大），可能不适应**
+    
+* **镜框一定要试，不要直接配度数镜片，不想淘宝挑的，直接上品牌店方便**
+    
+* **网上推荐的镜片：凯米 U2/6、依视路膜岩（我选的）、蔡司泽锐**
+    
+* **最好选 2 家店验光对比，验光师很重要，也可以三甲医院验光，数据更详细**
+    
+* **之前眼镜的资料很重要，没有了就找原来的店家要，没倒闭就应该有备份**
+    
+
+新验光的时候，验光师教我说，瞳距小的不适合戴大镜框，用镜腿上镜片长度（52） + 鼻托长度（17） - 瞳距 ≤6 最好，因为瞳距小镜框大，你的眼珠就不在镜片的正中间，影响视力。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690783496968/aeaaabf7-c7b1-404e-adb9-fa3981e87f16.png align="center")
+
+还在网上看到了[这张表](https://www.bilibili.com/video/BV1jj411978i/)，配镜的同学可以参考。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690783522186/ba102c85-7f0b-4f62-9793-e62728bf74db.png align="center")
+
+### **得意忘形社区方案**
+
+周中我们和张老师聊了下**得意忘形星球 <sup> [2]</sup>**的运营，我们希望内容更丰富，互动多些，其实就是促活。
+
+写方案的时候，我脑子里那些参加过的活动，潜过水的社群，一下子全都回来了。我想到了[**少数派**](https://mp.weixin.qq.com/s/DqgmbSBk6Rkys_Mk9aRS4Q)的会员版块，可以借鉴周报、会员问答；我想到了灵感买家俱乐部的《[**野鱼志**](https://mp.weixin.qq.com/s/bOmlK7Q8hjYqqShJSBC0Vw)》，可以维护一份社群日志，分享大家正在做的事；想到了[**生财有术**](https://mp.weixin.qq.com/s/1kvNOHiLlZw6j18cGno7PA)的龙珠玩法……又一次意识到，是过往的每次经历，把我推到了今天。曾经活跃过的群、付过的费，那些美好的体验，都是我的养料。
+
+好了，本周就这些。
+
+其他日常琐碎，给 Derek Sivers 写了感谢信；续费少数派会员；跳看了《全民超人汉考克》《灵幻先生》《打更人怪谈》《变形金刚超能勇士崛起》等；去影院看《封神》，豆瓣五星好评，这种中国电影不支持支持啥呀，希望团队好好打磨作品。不一一罗列，感兴趣可以来我的[**动态频道**](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)逛逛。
