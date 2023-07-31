@@ -29,7 +29,7 @@ aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s/iufaGiryP9kOomakbNpdOg
 
 写完顺便把所有 RSS 信息源整理到 Inoreader，备份到云，一共就 100 多个，大多是我[**信任的人**](https://mp.weixin.qq.com/s/K0-8kgInIZGcLiec3bK65g)和媒体。曾经随波逐流加过的财经时政、社会新闻啥的，早就不看了。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690783319085/350ea187-dab6-475b-b662-09e17a0f0e45.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690785295069/605ed3dc-66ef-4f30-bd6a-6617951be3fa.png align="center")
 
 ### **云南昆明**
 
@@ -70,7 +70,7 @@ aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s/iufaGiryP9kOomakbNpdOg
 
 ### **得意忘形社区方案**
 
-周中我们和张老师聊了下**得意忘形星球 <sup> [2]</sup>**的运营，我们希望内容更丰富，互动多些，其实就是促活。
+周中我们和张老师聊了下\*\*得意忘形星球 <sup>[2]</sup>\*\*的运营，我们希望内容更丰富，互动多些，其实就是促活。
 
 写方案的时候，我脑子里那些参加过的活动，潜过水的社群，一下子全都回来了。我想到了[**少数派**](https://mp.weixin.qq.com/s/DqgmbSBk6Rkys_Mk9aRS4Q)的会员版块，可以借鉴周报、会员问答；我想到了灵感买家俱乐部的《[**野鱼志**](https://mp.weixin.qq.com/s/bOmlK7Q8hjYqqShJSBC0Vw)》，可以维护一份社群日志，分享大家正在做的事；想到了[**生财有术**](https://mp.weixin.qq.com/s/1kvNOHiLlZw6j18cGno7PA)的龙珠玩法……又一次意识到，是过往的每次经历，把我推到了今天。曾经活跃过的群、付过的费，那些美好的体验，都是我的养料。
 
