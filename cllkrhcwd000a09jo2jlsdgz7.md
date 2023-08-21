@@ -4,6 +4,7 @@ seoDescription: "前天晚上躺床上玩手机，看到了 ﻿@Way﻿ 烧伤的
 datePublished: Mon Aug 21 2023 10:55:58 GMT+0000 (Coordinated Universal Time)
 cuid: cllkrhcwd000a09jo2jlsdgz7
 slug: 20230821185521
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692615429156/42a7d299-12e2-4ab0-9c42-4b4de6c6e196.jpeg
 
 ---
 
