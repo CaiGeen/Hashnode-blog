@@ -4,12 +4,12 @@ seoDescription: "看到一篇少数派聊最喜欢的播客，推荐 5 档我每
 datePublished: Sat Nov 18 2023 13:21:26 GMT+0000 (Coordinated Universal Time)
 cuid: clp42v8qa000309jp5hxqeqzp
 slug: 20231118212104
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700313630365/823e9983-fd59-4180-b66d-3bc50e7c176f.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700315802430/e15f7879-ebb7-4b97-bbfc-163f4bdc799e.png
 tags: 5bi45yaz5bi45paw
 
 ---
 
-开始整理书签啦，看到一篇[少数派](https://sspai.com/post/81445)聊最喜欢的播客，推荐 5 档我每期必听的播客。
+开始整理书签啦，看到一篇[少数派](https://sspai.com/post/81445)聊最喜欢的播客文章，推荐 5 档我每期必听的播客。
 
 * 《得意忘形》\_张潇雨
     
