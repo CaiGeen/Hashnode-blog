@@ -30,8 +30,8 @@ tags: 5bi45yaz5bi45paw
 
 另外，今年收藏了 14 期播客，每期都写了备忘，喜欢的可以订阅 [Listen Notes](https://www.listennotes.com/playlists/tujunjie-podcast-playlist-PUTvrZV_CDK/episodes/)。
 
-* 1. 逆风狂飙二十年——优衣库的启示
-        
+* 84\. 逆风狂飙二十年——优衣库的启示
+    
 * 燕外之意一东亚发疯实录
     
 * S4E6 鲁豫对话许小凡 | 译者就是躲在原文背后，「一仆侍二主」
