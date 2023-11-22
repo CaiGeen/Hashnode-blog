@@ -1,0 +1,66 @@
+---
+title: "我的快乐收藏夹"
+seoDescription: "能不能搞个情绪收藏夹，专门收藏让我开心、感动、鼓舞的视频，心情低落的时候翻出来看看，一刷见效。"
+datePublished: Wed Nov 22 2023 07:17:07 GMT+0000 (Coordinated Universal Time)
+cuid: clp9fm4zt003808l57rh41zlw
+slug: 20231122151518
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700637254132/d46eed21-4d87-4055-8343-d1844238506b.png
+tags: 5bi45yaz5bi45paw
+
+---
+
+之前我会在日记里做[情绪标记](https://mp.weixin.qq.com/s/N5hVpL1_MMx1NicxsMINOw)，希望能定期回顾哪些事让我不爽，哪些事让我开心，后来发现我不愿意回顾负面情绪，而且大部分当时觉得负面的情绪，后来看都没那么严重。外加上这事挺繁琐的，就停了。
+
+随着逛 B 站[时间变多](https://mp.weixin.qq.com/s/7LX9q1iC4NFlqsTy9LA1sw)，经常被一些视频感动，我就想能不能搞个[情绪收藏夹](https://mp.weixin.qq.com/s/Lm8Hxy0RPZYajLI--LAl5Q)，专门收藏让我开心、感动、鼓舞的视频，心情低落的时候翻出来看看，一刷见效？
+
+于是整理了今年 B 站和 YouTube 的点赞和收藏，变成了「快乐收藏夹」，嘿嘿。
+
+* [外国音乐人看谭维维《乌兰巴托的夜》！回顾歌手神级现场！](https://www.bilibili.com/video/BV17P411G7WZ/)
+    
+* [【熟肉Harrymack即兴说唱】毕业典礼来了！如果说唱也有天梯榜，H-Mack排第几？](https://www.bilibili.com/video/BV1D14y1N7oU/)
+    
+
+@拉美小姐姐Waleska 和 @Harry Mack 的视频是系列，我都狂看沉迷过至少一天时间。
+
+只收藏了他们的代表作品，Waleska 回顾谭维维《乌兰巴托的夜》那期，知道了很多背后的故事，给我听哭了；Harry Mack 华盛顿毕业典礼那部分全场嗨爆，看了无数遍，氛围无敌好，坐在电脑前都想跳起来。
+
+* [求婚了！](https://www.bilibili.com/video/BV1Nd4y1f7uF/)
+    
+* [当你跨越4000公里去找女朋友......](https://www.bilibili.com/video/BV1dN411K7Pm/)
+    
+* [给40岁的亲哥，送一台限量版摩托……](https://www.bilibili.com/video/BV1um4y1E7K5/)
+    
+* [一个男孩送给父亲的礼物](https://www.bilibili.com/video/BV1f54y1u7kA/)
+    
+
+纯爱战神系列，隔多久看都感动得要死。
+
+* [当！日！剧！遇！上！方！言！](https://www.bilibili.com/video/BV1Bm4y1z7Yr/)
+    
+* [有激情的男人最帅啦-付航脱口秀](https://www.bilibili.com/video/BV1hm4y1n7Tn/)
+    
+
+永琪和付航，搞笑担当，特别是付航，每期必刷，好几次都有去线下看的冲动。
+
+* [人偶感MAX！Billlie出圈曲GingaMingaYo运镜舞蹈！](https://www.bilibili.com/video/BV1wM4y1J73d/)
+    
+* [家里出道的第一天！希望得到大家的鼓励...](https://www.bilibili.com/video/BV1ro4y1w7Vs/)
+    
+
+这两位舞蹈博主，每次看都觉得元气满满！
+
+最后是 Live 音乐，喜欢《[杀死那个石家庄人](https://www.bilibili.com/video/BV1Wy4y1B7f6/)》和《[Hotel California - Lucas Imbiriba (Fingerstyle Guitar)](https://www.bilibili.com/video/BV1tU4y1s7aa/)》。这是近几年的一个变化，越来越爱 Live 版，不同于录音室精雕细琢，反而有种鲜活的美。
+
+所有都在图里，就不一一介绍啦。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700637272716/f6eeaa7e-6f16-4579-8457-7f6bf7c4aaa1.jpeg align="center")
+
+你有快乐因子吗？什么东西能迅速把你扯出泥潭？独乐乐不如众乐乐，分享一下呗。
+
+🔗
+
+《[我的年度影视剧/游戏/综艺](https://mp.weixin.qq.com/s/7LX9q1iC4NFlqsTy9LA1sw)》
+
+《[我的私人成长利器](https://mp.weixin.qq.com/s/N5hVpL1_MMx1NicxsMINOw)》
+
+💳 想订阅我的实时动态和文章笔记，请付费支持我的 [Telegram 频道](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，现价 499 元，我会用这份收入采集更多内容，用创作反哺。
