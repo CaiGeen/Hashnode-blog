@@ -1,0 +1,57 @@
+---
+title: "2023 年度游戏/综艺/动漫"
+seoDescription: "能系统的看完一部电影，或者完整的动漫，沉浸在一段故事里，也不比读书或者听播客差，反正都是听个响，开心就好。"
+datePublished: Fri Dec 01 2023 12:05:50 GMT+0000 (Coordinated Universal Time)
+cuid: clpmkw3h3001k09l9boh35m98
+slug: 20231201200534
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701432295827/c944fbe9-a3ce-4d66-8611-e0eb98d9122b.jpeg
+tags: 5bi45yaz5bi45paw
+
+---
+
+2023 比[去年](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487242&idx=1&sn=26062c1edbbc607d38e25b9831fb4812&chksm=eb21bd4edc563458a3d83eb53a7f42303b50ea9b8a5b562135991fb5e7333c55342b95256463&scene=178&cur_album_id=2693354737706156034#rd)少了 20% 左右娱乐时间。虽然还是刷手机耗时第一，但第二不再是 B 站，换成了《哈迪斯》。[年初](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487583&idx=1&sn=8441491d30c581ab252239af350027d6&chksm=eb21a21bdc562b0db927ab316795ff05365f3860b787dfae7e6eaba284ba2a58f3e52b4db9c7&scene=21#wechat_redirect)给自己定了少刷 B 站的目标，成功让花在 B 站的时间比去年少了 60%，非常大的进步。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701432313611/f2c4bf1c-a521-4c4c-973c-203957d72b01.jpeg align="center")
+
+下图列出「娱乐」时间前 20：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701432304225/abca86df-00ec-43d6-ab3b-6e3be750f696.jpeg align="center")
+
+* 年度游戏：《哈迪斯》
+    
+* 年度综艺：《体能之巅》
+    
+* 年度动漫：《进击的巨人》
+    
+
+今年没有年度美剧和电影，没有一个像去年《新闻编辑室》一样完整看完的故事，就连《进击的巨人》也是最近看的 B 站解说。对了，12 月中《南海归墟》如果完结了，说不定会看全集，嘿嘿，还是有点儿盼头的。
+
+### 游戏
+
+年初刚沉迷《哈迪斯》的时候，我就说它绝对提前[预定我的年度游戏](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487493&idx=1&sn=2faa82310dba03848443dedb92218b6d&chksm=eb21a241dc562b57bf4f8cb4c9a26a66d460b9e628689222b6d51f1426b7b5831b392aacd5cd&token=1420686444&lang=zh_CN#rd)了。才一个星期的时间，就和朋友昏天黑地玩了快 100 个小时。喜欢肉鸽和哈迪斯的美术风格，对手残友好。玩腻了之后天天盼着《哈迪斯2》。后来顺着[肉鸽游戏的推荐](https://www.bilibili.com/video/BV1dX4y1R7Dz/)，玩了《空洞骑士》《死亡细胞》《盗贼遗产2》，也就《死亡细胞》勉强接班，《空洞骑士》和《盗贼遗产2》不开作弊器根本玩儿不下去，手残劝退。
+
+后来还发现了一款叫《弹壳特工队》的 iOS 手游，玩儿了 2 天，还弄了个首充，然后突然觉得无聊，删了。后来又有朋友推荐我去试试《吸血鬼幸存者》，说两款游戏很像，兴冲冲去搜，结果 PS 上没有，于是放弃。
+
+### 综艺
+
+那时候和老婆一起追的《体能之巅》，全肌肉男，但也不是魔鬼筋肉人那种，赏心悦目。后来在油管上看了几个欧阳万成的单口喜剧切片，觉得挺搞笑的，就把他的《猜猜多少钱？》和《很划算》两场单口找出来都看了，节奏很好，喜欢。
+
+年底的时候，还把《富豪谷底求翻身》第一季又看了一遍，不过不是当综艺看，而是去学习的。看完去查了 Underdog BBQ 的现状，知道店还开着，真的在卖各种周边和酱料。纪录片里的大家都活得很好，太棒了。
+
+对了，往年必追的《这！就是街舞》，最近第六季连精彩切片都懒得打开了 😐
+
+### 动漫
+
+如果不是想到十周年该补一遍《[进击的巨人](https://www.bilibili.com/video/BV1xM411S7WF/)》，今年都没有年度动漫。看完后发现和之前的热血漫都不同，题材太成人了，都是战争和人性。最喜欢兵长在巨木之森里对艾伦的话，「选择相信自己还是相信团队，我也没有答案，任何选择都要自己承担后果。」决策，不是从好和坏中选择一个，而是从两个好的选择中选出一个。
+
+今年《海贼王》和之国篇结束后，就没再追 B 站的漫画解说了，有点儿乏了。
+
+比去年说「[我不再认为娱乐时间就是损害时间。骂骂咧咧的死撑着做事，还不如放宽心看部电影或睡一觉。](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487242&idx=1&sn=26062c1edbbc607d38e25b9831fb4812&chksm=eb21bd4edc563458a3d83eb53a7f42303b50ea9b8a5b562135991fb5e7333c55342b95256463&scene=178&cur_album_id=2693354737706156034#rd)」更进一步，我甚至觉得能系统的看完一部电影，或者完整的动漫，沉浸在一段故事里，也不比读书或者听播客差，反正都是听个响，开心就好。
+
+🔗
+
+《[我的年度影视剧/游戏/综艺](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487242&idx=1&sn=26062c1edbbc607d38e25b9831fb4812&chksm=eb21bd4edc563458a3d83eb53a7f42303b50ea9b8a5b562135991fb5e7333c55342b95256463&scene=178&cur_album_id=2693354737706156034#rd)》
+
+《[2020 年我在娱乐些啥](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486591&idx=1&sn=07ee2e15435094fc98674168140705c5&chksm=eb21be3bdc56372dc8a1061324b8627a1b249987f3beec47bff7ba2fd4e05f6c734077de66a5#rd)》
+
+💳 想订阅我的实时动态和文章笔记，请付费支持我的 [Telegram 频道](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，现价 499 元，我会用这份收入采集更多内容，用创作反哺。
