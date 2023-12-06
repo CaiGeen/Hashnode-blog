@@ -1,0 +1,74 @@
+---
+title: "用滴答清单管理我的 9 条人生主线"
+seoDescription: "把滴答清单变成一个「全景」工具，更方便的「看见」目标，并从零散的新增待办中理出一根根树形结构，不断增删，来找到我的人生主线。"
+datePublished: Wed Dec 06 2023 09:10:30 GMT+0000 (Coordinated Universal Time)
+cuid: clptjtw3z000308l4gy2x4n5u
+slug: 20231206171006
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701853729947/2db191b9-e5f6-46f2-ba4b-d77fcdfc5b71.jpeg
+tags: 5bi45yaz5bi45paw, 5bel5yw3566x
+
+---
+
+近 2 年很少思考人生方向的大问题了。买房、定居、事业、孩子……越来越随心所欲。回看 2020 年年初的《[2019 年我在想什么？](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486086&idx=1&sn=79a4f2f887e5cc681bf4ef3925f50e70&chksm=eb21b8c2dc5631d4bb05c88fa7c67091b1ae2b501d1c97af60a1a45cab1fc4aa87629c46be37#rd)》这篇文章，写到我 2019 年思考了 172 个小时，今年只「思考」了 70 个小时，当时还觉得想太多，做太少。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701853737431/20199c31-feb3-4c63-a271-1e6ee06f1311.jpeg align="center")
+
+在「怎么思考」这件事上，我一直烦我没有「想」的主线和框架，总是重复的想同一件事，经常不知道下一步要干什么。所以你看我今年「思考」时间里除了旅游攻略，想最多的就是「待办」和「下一步行动」。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701853743740/1e66c716-86e9-4abe-9627-b2ff3683fff5.jpeg align="center")
+
+这个问题我 4 年前就在着手解决，你看我列的「未来路线图、人生必经之路、十年不变的事……」其实都是想多想一步，未雨绸缪，但收效甚微。我做好脑图就丢那儿。大方向有了，但没有具体的行动。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701853758425/39f4029e-03c7-4696-b582-4b52e5b9e483.png align="center")
+
+所以我的一般做法是，不知道接下来干什么，就浏览我的滴答清单收集箱，找找有什么能干的。但不是所有事都值得做。我随手记的灵感，有时反而成了阻碍，写出来，就总想结束它们，但我又只挑那些容易完成的完成，时间就花在琐碎的事情上了。
+
+于是我开始每季度清空一次滴答清单收集箱。只要不是特别想做的，都点击已完成，眼不见心不烦。归档几次后，我发现了一个现象——总有类似的议题重复产生。就像张潇雨说「如果有一个事老是回到你的生活，你忘掉它一阵它又回来了，你说我要去干一些所谓的正事，然后那东西过一阵又回来了，可能没准那件事就是你应该去干的事。」我转而思考怎么优化[滴答清单的结构](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485514&idx=1&sn=025245fbf1040fce89e8043c7740de3c&chksm=eb21ba0edc563318314fa23422b459d43810f0572f5446a077723c0a53e1ecc951b617ac199e#rd)。把滴答清单变成一个「全景」工具，更方便的「看见」目标，并从零散的新增待办中理出一根根树形结构，不断增删，来找到我的人生主线。
+
+现有的「主线」有 9 项：
+
+* 策略
+    
+* 数字遗产
+    
+* 创作
+    
+* 榜样们
+    
+* 经典作品
+    
+* 问题清单
+    
+* 技术派
+    
+* 喜好库
+    
+* 小而美团队
+    
+
+然后设定不限时的目标库：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701853768986/de347714-d82b-4ddd-965a-c7b45c86641d.png align="center")
+
+* 原则
+    
+* 关键词
+    
+* OKR
+    
+
+这里都是要优先完成的「大项目」，不知道下一步做什么，就看这里。
+
+解决了「看见」的问题，接下来就是怎么「[做到](https://mp.weixin.qq.com/s?__biz=MzkxMTE5NDcxMQ==&mid=2247516126&idx=1&sn=ae604d4e1997a5f814d7251b43fddffc&scene=21#wechat_redirect)」。怎么把这些主题融进[生活习惯](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488229&idx=1&sn=f263e13bfc31ac1180d671316d8cbe40&chksm=eb21a0a1dc5629b7378827d6e65e9c0670cf099fcfd78adae72b4252acb0cc2b1ca1fb30942a#rd)？比如今年的上厕所就看《人物》杂志。
+
+写到这，我又觉得挺矛盾。
+
+就像开头写「买房、定居、事业、孩子……越来越随心所欲。」这些是人生真正的决定性瞬间，然而我的清单里，没有一件事讨论它们。我想会不会这也是一种逃避，我依然没有「做最重要的事」？还是说，只要我做好主线，决定性瞬间的决定就自然而然毫不费力了？不知道，留给未来的我回答。
+
+🔗
+
+《[2019 年我在想什么？](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486086&idx=1&sn=79a4f2f887e5cc681bf4ef3925f50e70&chksm=eb21b8c2dc5631d4bb05c88fa7c67091b1ae2b501d1c97af60a1a45cab1fc4aa87629c46be37#rd)》
+
+《[想法再好，也要落地](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484558&idx=1&sn=5f6dbb873b63c920f255c266e48f3956&chksm=eb21b6cadc563fdc776f7ba29ab568cdcf9c1498139520d62e38db9b1e246ec25a482f976dc0#rd)》
+
+💳 想订阅我的实时动态和文章笔记，请付费支持我的 [Telegram 频道](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，现价 499 元，我会用这份收入采集更多内容，用创作反哺。
