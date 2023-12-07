@@ -4,6 +4,7 @@ seoDescription: "上期写了《考古 @张潇雨 最受欢迎的 30 篇帖子�
 datePublished: Thu Dec 07 2023 10:24:21 GMT+0000 (Coordinated Universal Time)
 cuid: clpv1wpcn000u07jta5hk6zyv
 slug: 20231207182349
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701944682105/0c49502c-9e52-430a-b318-1437d9622900.jpeg
 
 ---
 
