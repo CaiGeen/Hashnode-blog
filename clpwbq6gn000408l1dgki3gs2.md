@@ -13,6 +13,8 @@ tags: 5bi45yaz5bi45paw, 6lst54mp6l2m
 
 去年跟 @[novoreorx](https://twitter.com/novoreorx) 和 @[pseudo\_yu](https://twitter.com/pseudo_yu) 学着创建了自己的 [Telegram](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg) 信息频道，是近几年最酷的一项技能。在学习的过程中，融合 @[DIYgod](https://twitter.com/DIYgod) 的 [RSSHub](https://docs.rsshub.app/zh/) 服务和 @[RongrongQAQ](https://twitter.com/RongrongQAQ) 的“[RSS to Telegram Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot/blob/dev/README.zh.md)”库，以及开源自动化平台 n8n（类似复杂版 IFTTT）和在线托管平台 Railway。今年年底，又在 @[Yummy](https://yummy.best/how-to-search-chinese-using-telegram/#) 的帮助下部署了"[TG Searcher](https://github.com/SharzyL/tg_searcher)"库，增强 Telegram 中文搜索能力，用上就离不开了。
 
+今年的王炸产品必须是[沉浸式翻译](https://immersivetranslate.com/)。最早 @[Owen](https://www.owenyoung.com/) 推出的时候，也是开源，后来越做越大被收购闭源了（当然是好事！）。用沉浸式翻译看了好多英文资讯，给作者写感谢信的时候，说我已经离不开它了，Owen 回他也是，嘿嘿。
+
 还有没写过的"[Next.js Notion Starter Kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit)"库，可以用它做博客，但我只部署了 Notion 个人[主页](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)。不需要上 GitBook 的小项目，用它做个 Notion 页面分享，就变成[在线网页](https://tujj.notion.site/cb644e93eb0b4379aa3a565673cb6889)了。
 
 GitHub 宝库，开源无敌！虽然都是免费服务，但力所能及的赞助、写一封[感谢信](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484753&idx=1&sn=7e8e5fbcd9182a96ebb067c36d158f79&chksm=eb21b715dc563e03d33a211e2088cf121926e03d31d1a4dbfe5f63202fbccb2352db9ab1c18b&token=400567632&lang=zh_CN#)，或者参与开源，多多分享，你也是开源人。
