@@ -51,7 +51,7 @@ tags: 5qac5qc35lus, 5bi45yaz5bi45paw
 
 长此以往，他们将成为你的「[智囊团](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487816&idx=1&sn=dd5f3286fa6f96a23017577cb87d25c6&chksm=eb21a30cdc562a1a88789c777dfbc9f742b016761c255d8311cdfb1ce4fc11aec1356983c265#rd)」。
 
-[李如一](https://blog.yitianshijie.net/2022/12/26/how-to-ask-aristotle-question/)写，「在前 ChatGPT 的世界里我们真的不能向亚里士多德提问吗？如 @KingBolingbroke 所说：选一本小书，比如莎士比亚的剧本，精读之。读十五遍。让它成为你的一部分。熟到比任何人都更熟。你会惊讶地发现这并不难。很适合大家去实践。然后重复。再重复。」
+[李如一](https://blog.yitianshijie.net/2022/12/26/how-to-ask-aristotle-question/)写，「在前 ChatGPT 的世界里我们真的不能向亚里士多德提问吗？如 @[KingBolingbroke](https://twitter.com/KingBolingbroke) 所说：选一本小书，比如莎士比亚的剧本，精读之。读十五遍。让它成为你的一部分。熟到比任何人都更熟。你会惊讶地发现这并不难。很适合大家去实践。然后重复。再重复。」
 
 [Derek Sivers](https://weibo.com/5262225303/MFiL81HSh) 说，「我会在联系导师之前，把我的困境详细地描述出来。在发给他们之前，我试着预测他会说什么。我了解导师们的思维方式，我读过他所有的书，听过他的播客，我知道我们交谈的方式，我想象他会说什么。在我完成整个过程后，我不再做任何事，因为答案就在眼前。」
 
