@@ -20,7 +20,7 @@ tags: 5oir55qe5qac5qc3
 * How to Live（2021）
     
 
-除了《How to Live》，其他 3 本在他的博客都能免费看。这本书的英文原版豆瓣评分 9.4，中译版《如何度过这一生》只有 5.4。虽然打分人数不多，但看到中译版大部分差评写「废话、矛盾、毒鸡汤。」我挺为德雷克鸣不平。中国读者不了解[他的经历](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488379&idx=1&sn=a4d6863665a56a73496dcb57f2daff13&chksm=eb21a13fdc562829378860886e04bb34196313f90187afc0fed9dfa80b7a6f9344dcd4733979&token=395037982&lang=zh_CN&poc_token=HLCLjWWjhlfYc4pS-2ZF0aF0heFSGlIw4Sfkrtp_)，没有他前 3 部书的铺垫，上来就只读到「27 个矛盾的答案和一个奇怪结论。」确实很难评。
+除了《How to Live》，其他 3 本在他的博客都能免费看。这本书的英文原版豆瓣评分 9.4，中译版《如何度过这一生》只有 5.4。虽然打分人数不多，但看到中译版大部分差评写「废话、矛盾、毒鸡汤。」我挺为德雷克鸣不平。中国读者不了解[他的经历](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488379&idx=1&sn=a4d6863665a56a73496dcb57f2daff13&chksm=eb21a13fdc562829378860886e04bb34196313f90187afc0fed9dfa80b7a6f9344dcd4733979&token=395037982&lang=zh_CN&poc_token=HLCLjWWjhlfYc4pS-2ZF0aF0heFSGlIw4Sfkrtp_)，没有他前 3 本书的铺垫，上来就只读到「27 个矛盾的答案和 1 个奇怪结论。」确实很难评。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703828871965/c17fad79-5914-4071-9a26-3865ebb77502.jpeg align="center")
 
@@ -180,9 +180,9 @@ tags: 5oir55qe5qac5qc3
 
 做任何事都要公开，为公众服务。你接触的人越多，你就越有用。
 
-1. 出名
+1. 出名。
     
-2. 致富
+2. 致富。
     
 3. 分享态度鲜明的主张。
     
