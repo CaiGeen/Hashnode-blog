@@ -1,0 +1,71 @@
+---
+title: "成人再读书的 7 个步骤"
+seoDescription: "跟着兴趣随便读当然可以，但对我来说，是时候学王强的，往前读些公认的经典了。"
+datePublished: Sun Jan 07 2024 07:24:37 GMT+0000 (Coordinated Universal Time)
+cuid: clr364z7m00020ajqgfmgemjx
+slug: 20240107152426
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704612243541/af9fd9c9-72db-43bf-9980-04b0ccc506c3.jpeg
+
+---
+
+今天读完了《清华大学荐读书目》，悔啊，突然啥[目标](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488436&idx=1&sn=ddfc00a434f4259d561b3ba26d5e2d79&chksm=eb21a1f0dc5628e64a8c8e6f05c93e7f1f4c52ffbb7fc3125d6e9b694d610faf37639f15c81e&token=2078807458&lang=zh_CN#)也不想干了，就想再读书。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704612258294/8a70d86c-3675-4576-a6d7-a2f9d07a09eb.jpeg align="center")
+
+列了「再读书」的 7 个步骤，留着参考：
+
+* 目录式读书
+    
+* 读中学课本
+    
+* 读通史
+    
+* 读先秦经典
+    
+* 读国际经典文学
+    
+* 识别大宗师
+    
+* 读近代科学
+    
+
+可以不分先后，交叉进行。
+
+什么是「目录式读书」，就是跟书单。不要光看自媒体年年更新的书单，要看经典的最小限度书单。像梁启超的《[最低限度之必读书目](https://www.sohu.com/a/131622737_228930)》，钱穆的《[复兴中华文化人人必读的几部书](https://www.sohu.com/a/230646068_374594)》，直接看《[清华大学荐读书目](https://book.douban.com/subject/28533962/)》。还有百年前《京报副刊》的[青年必读书](https://www.douban.com/doulist/3400998/)，今人阳志平的《[最小限度书单](https://www.douban.com/doulist/154926335/)》。
+
+此外，我也收集了一些国际书单：
+
+* [死前必读的 100 本书](https://medium.com/world-literature/creating-the-ultimate-list-100-books-to-read-before-you-die-45f1b722b2e5)
+    
+* [有史以来最伟大的书](https://thegreatestbooks.org/)
+    
+* [20 世纪百大英文小说](https://zh.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E7%99%BE%E5%A4%A7%E8%8B%B1%E6%96%87%E5%B0%8F%E8%AA%AA)
+    
+* [Reddit 用户正在读哪些书](https://www.redditreads.com/)
+    
+
+跟着兴趣随便读当然可以，但[对我来说](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485347&idx=1&sn=14b8042d79c97171d8c02034800a961b&chksm=eb21b5e7dc563cf181f2c2d70235eb322b615a31aa91a0671db913cea55564f5b45bcdde9c2f&token=2078807458&lang=zh_CN#rd)，是时候学[王强](https://www.bilibili.com/video/BV1RN41197s9/)的，往前读些公认的经典了。
+
+到处找推荐，其实中学课本不就是最趁手的书单吗？国家级收集的书单和名篇，够够的。而且成年后，见了点儿世面，再读中学课本肯定别有一番风味。小时候逃的课，敷衍的死记硬背，大了都得还回来。
+
+最近听杨照的《史记百讲》慢慢对历史感兴趣了。特别是看到钱穆为唤醒国魂写《国史大纲》，突然好奇「屈辱的近代史」和「清政府无能」这些为了应付考试的说法到底是怎么来的了。国内逃不开钱穆和吕思勉，再辅以外国视角的中国史，比如《哈佛中国史》《剑桥中国史》。入门的话，我可能会先看蒋廷黻的《中国近代史》。
+
+读冯友兰的《中国哲学简史》提到，中国哲学在暗示，西方哲学重推理，没有高下之分。作为中国人，除了科学，是不是该去源头看看那些耳熟能详、千年不腐的《论语》和《唐诗三百首》是怎么来的，怎么编的。
+
+另外，读经典还有个好处——提升审美，这些作者会自动在你脑子里 PK，分个高下。一直读一直 P，你不仅能选出大宗师来，现在大多吹水的自媒体作者，你也看不上了。
+
+这种感觉，我举个例子吧。比如我不喜欢季羡林的文字。一开始我读《牛棚杂忆》，很同情，但是越读越有种「扭捏」的感觉。我觉得他有很多想说的，但因为政治原因说不出来，但是他又往那个方向引，就让我很难受。再读他的《心安即是归处》和《无问西东》，经常借他人之口明谦暗夸，意思这不是我说的，别人怎么夸我你请看。还有，不同书重复的篇太多了，可能不是他的问题，但后人有圈钱嫌疑，也是抹黑。
+
+勾起些历史兴趣后，我的疑问就是「如果每个时期都有一束聚光灯，比如百家争鸣、成吉思汗大一统、法国大革命……那么现在世界的舞台在哪？灯照在哪里？」
+
+我要去读书了。
+
+读书好啊读书妙，读书我快乐地呱呱叫 👶
+
+🔗
+
+《[2023 年读的 8 本书](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488224&idx=1&sn=b569ebc1717fb407690902455778be05&chksm=eb21a0a4dc5629b2937dc9b6237e5ae980e07c4bb0c63e705cd3e91c714aa0b53622259b7593#)》
+
+《[清空已购书单](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488442&idx=1&sn=c2f2bbe4b15959ea1feb7537c472ae89&chksm=eb21a1fedc5628e88b4c94f6938756a7b2cfd3adca3ee05434ea786a62d4755b4f085a1508c2&token=2078807458&lang=zh_CN#)》
+
+💳 想支持我并订阅我的[动态和读书笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，请购买我的 Telegram 频道，现价 499 元，我会用这份收入采集更多内容，用创作反哺。
