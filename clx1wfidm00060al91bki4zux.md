@@ -1,5 +1,6 @@
 ---
 title: "假如家人接管你的投资账户"
+seoDescription: "假如哪天你不在了，你一窍不通的家人该怎么处理你的投资组合？我的答案是：沪深 300 ＆ 标普 500 。"
 datePublished: Wed Jun 05 2024 14:03:20 GMT+0000 (Coordinated Universal Time)
 cuid: clx1wfidm00060al91bki4zux
 slug: 20240605220310
