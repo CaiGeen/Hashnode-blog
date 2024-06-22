@@ -1,0 +1,61 @@
+---
+title: "你有什么厕所读物"
+seoDescription: "小时候没手机，在厕所看最多的是《特别关注》和《故事会》，也不挑挑拣拣，有什么看什么。现在手机更方便了，但是越刷越烦。"
+datePublished: Sat Jun 22 2024 07:01:50 GMT+0000 (Coordinated Universal Time)
+cuid: clxpruxie000f09l1erx0f3vz
+slug: 20240622150105
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719039377362/e8077ec6-e671-49f1-84ce-02bfb8d560b1.jpeg
+
+---
+
+近来《人物》杂志不够看了，想找找有什么新杂志当[厕所读物](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487583&idx=1&sn=8441491d30c581ab252239af350027d6&chksm=eb21a21bdc562b0db927ab316795ff05365f3860b787dfae7e6eaba284ba2a58f3e52b4db9c7#rd)。之前试过上厕所看书，总是不得劲，蹲坑的时间差不多 10 分钟，书的体量太大，横版也不如双栏易读，想试试短篇小说类，但又怕引人入胜蹲得腿疼。
+
+小时候没手机，在厕所看最多的是《特别关注》和《故事会》，也不挑挑拣拣，有什么看什么。现在手机更方便了，但是越刷越烦。还挺怀念原来那种蹲下去，就算不喜欢也得看的感觉。所以去年开始培养「不把手机带进厕所」的习惯，把 2019 年 5 月到现在的《人物》翻完了。想找往期杂志居然还没卖的，只能自己去人物公众号下载打印。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719039448724/87fe1350-cfc6-419f-8e4f-ceff3374f29d.png align="center")
+
+所以朋友们，谁家有不要的 2019 上半年以前的《人物》杂志，欢迎到付寄给我，感谢！
+
+又买了一些杂志补充我的厕所书架：
+
+* 三联生活周刊
+    
+* Vista看天下
+    
+* 国家人文历史
+    
+* 中国国家地理
+    
+* 财新周刊
+    
+
+顺便搜了国外的杂志销量榜单对标：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719039369113/ad543aa4-6b77-4c8e-b7a2-c08c0e47e043.png align="center")
+
+* PEOPLE（人物）
+    
+* National Geographic（国家地理）
+    
+* TIME（时代）
+    
+* WIRED（连线）
+    
+* ENTREPRENEUR（企业家）
+    
+* FORTUNE（财富）
+    
+* INC.（公司）
+    
+* THE NEW YORKER（纽约客）
+    
+
+你有什么厕所读物推荐？欢迎留言。
+
+🔗
+
+《[225 条书签，我在收藏什么](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488205&idx=1&sn=1a1d81af6647301a33be0d126235ad92&chksm=eb21a089dc56299fc9a6e9ea7e25b7b2bea05968abe5b183b5fc72a54416ee07a8cbd3f14202#rd)》
+
+《[2023 年保存的 5 篇永久笔记](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488178&idx=1&sn=d5ad38c62fb4ef8ae1fdb203fba42ec9&chksm=eb21a0f6dc5629e07fdbad537143fcc0a4b7c3d1d804ec6085a3c2abadbd7ea04bf4ed495127#rd)》
+
+💳 想支持我并订阅我的[动态和读书笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，请购买我的 Telegram 频道，现价 499 元，我会用这份收入采集更多内容，用创作反哺。
