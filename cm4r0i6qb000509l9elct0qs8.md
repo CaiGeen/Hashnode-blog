@@ -1,0 +1,150 @@
+---
+title: "重复做这 23 件事"
+seoDescription: "我热衷于给自己建立一些周期性事件，每天、周、月、年都有事做，日子久了，总能留下点什么。"
+datePublished: Mon Dec 16 2024 12:29:34 GMT+0000 (Coordinated Universal Time)
+cuid: cm4r0i6qb000509l9elct0qs8
+slug: 20241216202758
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1734351972256/e15e4fc3-0bb8-4396-9fcf-6c2cf1e2a1c7.jpeg
+
+---
+
+我看过一篇[文章](https://www.chinakongzi.org/xsyj/xmcg/202306/t20230612_562171.htm)，说为什么丧礼这么复杂：披麻戴孝、宴请宾客，祭头七、百天等等。有一种解释是「为了让生者忙碌起来，不至于沉浸在悲伤里。」你有这种感觉吗？只要忙起来，日子就好过一点。
+
+自由地放纵就容易掉进[空虚](https://mp.weixin.qq.com/s/l3CCKHEhsu4NWPrc20-rxA)，一整天无所事事，像犯了盗窃罪。所以我热衷于给自己建立一些周期性事件，每天、周、月、年都有事做，日子久了，总能留下点什么。
+
+#### 天
+
+##### [日记](https://mp.weixin.qq.com/s/OKI1YK1mMUjZmtwH9jVZ4g)
+
+随便写。每天睡前打开 Excel，花 10 分钟回忆今天做了什么。之前为了提高效率，还试过讯飞听见，口述完复制粘贴到 Excel。现在你可以用得到 Get 笔记或 ChatGPT 帮你整理口述内容并修改错别字。但我习惯了手打，可以停下来想一想。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734351985234/8e83b121-9431-40c2-9f23-d9884c754ad2.png align="center")
+
+##### [aTimeLogger 时间记录](https://mp.weixin.qq.com/s/a--RLI5v2Bsp3IRkTvOnVw)
+
+时间记录是我每天、周、月、年都要做的事，具体在我的[电子书](https://shijian.tujunjie.com/)里写过，不赘述。算上写备注，每天要花 20 分钟左右，全时段记录我的时间消耗，在哪些事上花了多少时间，aTimeLogger 软件就是我的[时间账本](https://sspai.com/post/47717)。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734351996295/a700348d-db28-4654-86e7-a40940e22f99.jpeg align="center")
+
+##### 晨间 Routine
+
+起床后，先把开水烧上，洗漱完正好烧开，冲泡一杯英德绿茶，上锅蒸两个烟薯一根糯玉米。坐到电脑前看看微信消息和比特币 K 线，心里有个做单的预期，把该挂的单挂上。边吃红薯玉米边刷 B 站热门，再热一袋纯牛奶。一小时后，茶温了正好喝。
+
+#### 周
+
+##### [自制杂志](https://mp.weixin.qq.com/s/1U0lDunMaTlf99PZ8ObBdw)
+
+把我收藏的微信文章和 Inoreader 里感兴趣的标题全部用 Reader View 插件做成无图双栏文字版 PDF，每 30 篇文章打印一次，成本约 15 元，当[厕所读物](https://mp.weixin.qq.com/s/bGVnicast59FvitvswOC2A)。
+
+#### 月
+
+##### [账本](https://mp.weixin.qq.com/s/DvOteRSF7ORTOXwHDi5CXQ)
+
+从钱迹软件下载我上月的账本，粘贴到我的 Excel 里，看我的全年预算和超支情况。
+
+##### [资产梳理](https://mp.weixin.qq.com/s/_zE5xmdvM5wBxsEKyjPeaQ)
+
+打开我的账户，把有钱的软件余额都记录一次，就知道我所有钱分布在哪。
+
+##### aTimeLogger 财报
+
+月初，记录 aTimeLogger 安卓的上月收入，然后把账本邮件发给开发者。
+
+##### 相册截图
+
+手机上看到感兴趣的文章、好物、资源啥的，截图最方便，每月整理一次截图。
+
+##### 微博月记
+
+先在 Excel 日记里星标这一个月我觉得重要的事，然后从里面提取片段发微博当月记。
+
+##### 更新 [GitHub 文章列表](https://github.com/CaiGeen/Hashnode-blog)
+
+不会自动，只能每月初手动把上月的公众号文章链接更新到 CSV 文件存档。昨天把豆瓣影评、书评的链接也补上了。
+
+#### 季
+
+##### [浏览记录](https://mp.weixin.qq.com/s/927jLpckbcsKFwVH7QMddQ)
+
+设定滴答每季度提醒我一次，备份 Chrome 的网页浏览记录，发现我都在看些什么。
+
+##### [滴答清单归档](https://mp.weixin.qq.com/s/-8r9iDIbRzIibAR487fEyg)
+
+平时有什么灵感都是随手记在滴答清单，时间久了堆几百条是常事，每次打开待办一看这么多事就心里发毛。后来每几个月就清空一次待办，舒服多了。清空的同时，把符合主线的素材归档，慢慢就发展出了主题库。
+
+#### 年
+
+##### [一年信](https://mp.weixin.qq.com/s/FJU-FQsbxubrVZ7G1T3Dxw)
+
+每年给自己写一封定时一年后的今天收到的邮件。我会写当下的现状和困惑，写未来我想做的事，写完没多久我就忘了。一年后收到一年信的那天，会很惊喜，算是生活中小小的仪式感吧。
+
+##### [年报](https://mp.weixin.qq.com/s/txiC0R1kBd9KKRDRIOocnw)
+
+从 2016 年开始每年为自己写一份年报：
+
+* [涂俊杰 2016 年的 8760 小时](https://mp.weixin.qq.com/s/mWGEtEBwOAlf6uFTNAKXAg)
+    
+* [涂俊杰 2017 年的 8760 小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484438&idx=1&sn=70dc021c1d0ab16a86625f9bc9677c10&chksm=eb21b652dc563f44e43d0a3e4a2a360747f39dbca58e717c3a5abaff20fe53c561172c774ca0#rd)
+    
+* [涂俊杰 2018 年的 8760 小时](https://mp.weixin.qq.com/s/QZEl3droA1o3KP1RLooBqA)
+    
+* [涂俊杰 2019 年的 8760 小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486123&idx=1&sn=1b7f16dd569747991fa2560aab452c4e&chksm=eb21b8efdc5631f9e1fc4b9266a18b5e6755ba0bdae86d221473d23bc2e6eac7161013c1b55c&token=1292930385&lang=zh_CN#rd)
+    
+* [涂俊杰 2021 年的 8760 小时](https://mp.weixin.qq.com/s/1Ljqp1QG5XXzhwXse5kbOg)
+    
+* [涂俊杰 2022 年的 8760 小时](https://mp.weixin.qq.com/s/phXq_3Pjs1ifTjN9TWvAhg)
+    
+* [涂俊杰 2023 年的 8760 小时](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488436&idx=1&sn=ddfc00a434f4259d561b3ba26d5e2d79&chksm=eb21a1f0dc5628e64a8c8e6f05c93e7f1f4c52ffbb7fc3125d6e9b694d610faf37639f15c81e&token=1145682679&lang=zh_CN#rd)
+    
+
+每年 12 月份我都变得「有事干」，写 30 篇小文组合成我的年报。希望这些文字不仅是自己的路标，也为他人照一束微光。
+
+##### [资料备份](https://mp.weixin.qq.com/s/tGJ0C1acP6ZbrIhcrV1HEQ)
+
+这是个专题，每年备份我的 Excel 记录、永久笔记、Inoreader 关注列表、各种脚本、输入法常用短语、浏览器插件、书签等等。
+
+##### [永久笔记](https://mp.weixin.qq.com/s/OdIPN1_f0oHB0OKms9jAjg)
+
+每年从我的笔记库和收藏夹里，找到那些我时常忆起且不过时的文章，目前有 13 篇。打印成活页当枕边书和厕所读物。
+
+##### [特别关注 RSS](https://mp.weixin.qq.com/s/jPspafQQg41qPStK-Mmapw)
+
+平时有喜欢的信息源会先收藏到书签，年底再统一浏览一遍，仍然觉得好的，会制作 RSS 放进 Inoreader 特别关注文件夹优先看。
+
+##### [普鲁斯特问卷](https://mp.weixin.qq.com/s/ugVB6kfZChNtwNYnBvn32w)
+
+每年都会做一份问卷调查，最开始是普鲁斯特问卷，后来也做过盖洛普测试和大五人格测试。什么问卷不重要，就是给忙碌的生活留个空隙，审视自己是谁，到底想要什么。
+
+#### 不限期
+
+##### [人生图册](https://mp.weixin.qq.com/s/RKskj0S5-l661fBkv7dtAQ)
+
+记录我向往的生活环境：用什么工具、住在哪里、身边有哪些朋友，期待的职业道路，甚至老后的死法等等。完整版是《小狗钱钱》里提到的[梦想相册](https://mp.weixin.qq.com/s/yYeHy-W-HlNx0ApZth1jyw)，不仅是文字，还配有照片和视频，把梦想具体化。
+
+##### [百事清单](https://mp.weixin.qq.com/s/yLA4gM-9uimk4HA09yqiPg)
+
+类似《遗愿清单》，死之前想做的 100 件事。2020 年我写过一次，50 件事都写不满。今天再看，有些事不想做了，有些事依然渴望，有些事永远也没机会做了。
+
+##### [目标看板](https://mp.weixin.qq.com/s/JIb6FtDXvjTgb8nu3T34EQ)
+
+看板的目的是把所有重要的东西聚到一堆，比如永久笔记、百事清单、经典问题、一页纸计划、[快乐收藏夹](https://mp.weixin.qq.com/s/Z6A7y_PyroDEYewZdwdTdQ)等等，我一眼就能看到可以做哪些事。我把它们放在我每天都要打开的为知笔记日记页面。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1734352064595/e671db43-7260-46d8-9cdf-c38e76d7de19.png align="center")
+
+##### [遗书](https://mp.weixin.qq.com/s/U5-6IpuADw5ZA5B5vaGz-w)
+
+为了应对极端意外，2018 年开始写遗书。记录我上面提到的所有数据和各种账号。已经 4 年没更新了。
+
+日常家务我都没写在这里。还有些碎碎的小事可以提一嘴，比如每收集一位家人亲友的[生日](https://mp.weixin.qq.com/s/ODoBvNlOUGX1Cux6vxmCpA)就记在 QQ 邮箱日历，设置为每年提醒，到日子了我就会收到手机邮件通知；虽然关了朋友圈，但得空我就会点进我关注的朋友圈看看他的动态。还有些曾经我定期做，但现在嫌麻烦不再干了的，像还原手机和电脑系统；整理物品清单，标记我喜欢的好物；记录和[见过的人](https://mp.weixin.qq.com/s/iM7NDqrFgxz_eI-yiYW9Yw)都聊了些什么。
+
+有时候我会想，假如我有无限的时间和钱，这 23 件事，我还会做几件？不知道。可能我会试试什么都不做？但我好像[试过了](https://mp.weixin.qq.com/s/l3CCKHEhsu4NWPrc20-rxA)，结果还是回到创作。忙起来，日子就好过一点。
+
+🔗
+
+《[每年备份这 8 种生产资料](https://mp.weixin.qq.com/s/tGJ0C1acP6ZbrIhcrV1HEQ)》
+
+《[哪些事要重复做](https://mp.weixin.qq.com/s/q4ZrklCs8jBarPi8QQg_1Q)》
+
+💳 支持我并订阅我的[动态和读书笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，请购买我的 Telegram 频道，现价 599 元，我会用这份收入采集更多内容，用创作反哺。
+
+📖 最近一个月我都在写 30 岁[自传](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488741&idx=1&sn=3aca11b2f15bcb82156b45c8a69ae937&chksm=eb21a6a1dc562fb7bbf6242bc1a68995eba7b560a49627ac031e129b33aa29a624896186a2a3#rd)，预计 10 万字。复制链接打开向我[提问](https://wj.qq.com/s2/15897499/4fe9/)，或者点文章最左下角`阅读原文`，我会优先为你写。
