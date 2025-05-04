@@ -48,3 +48,5 @@
 ✍️ 整编《[张潇雨微博精选](https://rili.zxy.wiki/)》＆《[张潇雨 100 问](https://pan.baidu.com/s/1HboXmZ7N0rFr66Y45HrODw?pwd=a5ej)》
 
 🔤 译制《[千禧一代的金钱课](https://www.bilibili.com/video/BV1mK4y1b761/)》
+
+💰 付费 Telegram 频道《[涂俊杰JunJie_Sync](https://mp.weixin.qq.com/s/u9sg3KBe9k3L3oOUZcRd5w)》
