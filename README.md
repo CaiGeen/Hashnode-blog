@@ -20,7 +20,7 @@
 
 💼 [工作近 10 年，我靠这 9 个技能包](https://mp.weixin.qq.com/s/yU9T4mCxGhVqg8Fm1RmkGw)
 
-🙂 [十年打 5 份工，天胡开局到作茧自缚](https://mp.weixin.qq.com/s/zRKmIo9Xxi7mm668axMmWg)
+🙂 [10 年打 5 份工，天胡开局到作茧自缚](https://mp.weixin.qq.com/s/zRKmIo9Xxi7mm668axMmWg)
 
 🌴 [4 年不上班什么感觉](https://mp.weixin.qq.com/s/l3CCKHEhsu4NWPrc20-rxA)
 
