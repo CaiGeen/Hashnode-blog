@@ -1,10 +1,12 @@
 import os
 import re
 import yaml
+from pypinyin import lazy_pinyin
 
 def normalize_title(title):
-    """规范化标题：中文与英文/数字间加空格，清理非法字符，转换为小写连字符格式"""
+    """规范化标题：中文与英文/数字间加空格，将中文转为拼音，清理非法字符，转换为小写连字符格式"""
     if not title:
+        print("Warning: Empty title provided")
         return ""
     
     # 在中文和英文之间添加空格
@@ -15,8 +17,12 @@ def normalize_title(title):
     title = re.sub(r'([\u4e00-\u9fff])([0-9])', r'\1 \2', title)
     title = re.sub(r'([0-9])([\u4e00-\u9fff])', r'\1 \2', title)
     
-    # 移除非法字符（保留中文、英文、数字、空格、连字符）
-    clean_title = re.sub(r'[^\w\s\-\u4e00-\u9fff]', '', title).strip()
+    # 将中文转换为拼音
+    words = title.split()
+    title = ' '.join(lazy_pinyin(word) if re.search(r'[\u4e00-\u9fff]', word) else word for word in words)
+    
+    # 移除非法字符（保留英文、数字、空格、连字符）
+    clean_title = re.sub(r'[^\w\s-]', '', title).strip()
     
     # 替换多个空格为单个连字符，转换为小写
     clean_title = re.sub(r'\s+', '-', clean_title).lower()
@@ -26,6 +32,9 @@ def normalize_title(title):
     
     # 移除首尾连字符
     clean_title = clean_title.strip('-')
+    
+    if not clean_title:
+        print(f"Warning: Normalized title is empty for input: {title}")
     
     return clean_title
 
@@ -44,32 +53,40 @@ for filename in os.listdir(directory):
                 # 提取 frontmatter（假设 frontmatter 以 --- 开头和结尾）
                 frontmatter_match = re.match(r'---\n(.*?)\n---', content, re.DOTALL)
                 if frontmatter_match:
-                    frontmatter = yaml.safe_load(frontmatter_match.group(1))
-                    title = frontmatter.get('title', '')
-                    
-                    # 规范化标题
-                    clean_title = normalize_title(title)
-                    if clean_title:
-                        new_filename = f"{clean_title}.md"
-                        new_filepath = os.path.join(directory, new_filename)
+                    try:
+                        frontmatter = yaml.safe_load(frontmatter_match.group(1))
+                        title = frontmatter.get('title', '')
+                        if not title:
+                            print(f"Warning: No title found in frontmatter of {filename}")
+                            continue
                         
-                        # 检查是否需要重命名（避免覆盖同名文件）
-                        if new_filename != filename:
-                            if os.path.exists(new_filepath):
-                                # 如果文件已存在，添加 (n) 后缀以避免冲突
-                                base, ext = os.path.splitext(new_filename)
-                                counter = 2  # 从 (2) 开始，模仿 Windows
-                                while os.path.exists(new_filepath):
-                                    new_filename = f"{base}({counter}){ext}"
-                                    new_filepath = os.path.join(directory, new_filename)
-                                    counter += 1
+                        # 规范化标题
+                        clean_title = normalize_title(title)
+                        if clean_title:
+                            new_filename = f"{clean_title}.md"
+                            new_filepath = os.path.join(directory, new_filename)
                             
-                            # 重命名文件
-                            os.rename(filepath, new_filepath)
-                            print(f"Renamed {filename} to {new_filename}")
+                            # 检查是否需要重命名（避免覆盖同名文件）
+                            if new_filename != filename:
+                                if os.path.exists(new_filepath):
+                                    # 如果文件已存在，添加 (n) 后缀
+                                    base, ext = os.path.splitext(new_filename)
+                                    counter = 2
+                                    while os.path.exists(new_filepath):
+                                        new_filename = f"{base}({counter}){ext}"
+                                        new_filepath = os.path.join(directory, new_filename)
+                                        counter += 1
+                                    
+                                # 重命名文件
+                                os.rename(filepath, new_filepath)
+                                print(f"Renamed {filename} to {new_filename}")
+                            else:
+                                print(f"No rename needed for {filename}: already matches title")
                         else:
-                            print(f"No rename needed for {filename}: already matches title")
+                            print(f"Warning: Empty normalized title for {filename}")
+                    except yaml.YAMLError as e:
+                        print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
                 else:
-                    print(f"No frontmatter found in {filename}")
+                    print(f"Error: No frontmatter found in {filename}")
         except Exception as e:
             print(f"Error processing {filename}: {e}")
