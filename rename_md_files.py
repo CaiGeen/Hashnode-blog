@@ -1,13 +1,15 @@
 import os
 import re
 import yaml
-from pypinyin import lazy_pinyin
 
 def normalize_title(title):
-    """规范化标题：中文与英文/数字间加空格，将中文转为拼音，清理非法字符，转换为小写连字符格式"""
+    """规范化标题：中文与英文/数字间加空格，如果标题已符合规范则不修改"""
     if not title:
         print("Warning: Empty title provided")
         return ""
+    
+    # 保存原始标题用于比较
+    original_title = title
     
     # 在中文和英文之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([a-zA-Z])', r'\1 \2', title)
@@ -17,26 +19,13 @@ def normalize_title(title):
     title = re.sub(r'([\u4e00-\u9fff])([0-9])', r'\1 \2', title)
     title = re.sub(r'([0-9])([\u4e00-\u9fff])', r'\1 \2', title)
     
-    # 将中文转换为拼音
-    words = title.split()
-    title = ' '.join(lazy_pinyin(word) if re.search(r'[\u4e00-\u9fff]', word) else word for word in words)
+    # 如果标题未改变，说明已符合规范
+    if title == original_title:
+        print(f"Debug: Title already normalized: {title}")
+    else:
+        print(f"Debug: Normalized title from {original_title} to {title}")
     
-    # 移除非法字符（保留英文、数字、空格、连字符）
-    clean_title = re.sub(r'[^\w\s-]', '', title).strip()
-    
-    # 替换多个空格为单个连字符，转换为小写
-    clean_title = re.sub(r'\s+', '-', clean_title).lower()
-    
-    # 移除连续的连字符
-    clean_title = re.sub(r'-+', '-', clean_title)
-    
-    # 移除首尾连字符
-    clean_title = clean_title.strip('-')
-    
-    if not clean_title:
-        print(f"Warning: Normalized title is empty for input: {title}")
-    
-    return clean_title
+    return title
 
 # 设置目录为仓库根目录
 directory = "./"
@@ -60,6 +49,7 @@ for filename in os.listdir(directory):
                             print(f"Warning: No title found in frontmatter of {filename}")
                             continue
                         
+                        print(f"Debug: Processing title: {title}")
                         # 规范化标题
                         clean_title = normalize_title(title)
                         if clean_title:
