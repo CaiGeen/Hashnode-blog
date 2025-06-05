@@ -1,0 +1,33 @@
+---
+title: "做不了 3 年以上的事，一分钟也别花"
+datePublished: Tue Jan 14 2020 02:29:18 GMT+0000 (Coordinated Universal Time)
+cuid: clhwsvp6b000209l29sss3fzm
+slug: 20230521102927
+
+---
+
+2019 年的日常得分比 [2018 年](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484673&idx=1&sn=3bb1b7600b16eb9c2e21086b553fdd59&chksm=eb21b745dc563e535894c424c2a9a15bbb3a6197e7a4acddc6faf70a62a7fe18a72a973e0ef7&scene=21#wechat_redirect)还低。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636141952/97d88d7b-c3b3-40f8-a60f-35ef2b63e2d1.jpeg align="center")
+
+早起、锻炼和消费三项得分，都挂了。
+
+**我一直认为早起、读书、写作、人际、消费、工作、锻炼这 7 项是一个人的 “基本面”。**
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636146085/d1ca521b-94a2-40bc-81f5-3469ec8c2202.jpeg align="center")
+
+如果按单项 1 分，满分 7 分算，我已经连续三年低于 3 分了！
+
+2019 年 12 月底突发奇想干训练营的那段时间，我意识到，不仅生活质量差得分会低，项目赶进度，也会得分低，因为把所有时间精力都用来推进项目了，照顾不了基本面。
+
+如何权衡，这是个问题。
+
+好了，不找借口了，这一年把自己照顾得确实不好。
+
+和父母打电话，告诫我最多的一句话就是，“你啊，少吃外卖。”
+
+和 2017 年热爱下厨的我比起来，近年对花时间的事越来越挑剔了，**那些做不了 3 年以上的事，一分钟也不想花。**
+
+2020 年，我祝大家赚大钱的同时也能照顾好身体，毕竟基本面也重要！
+
+好了，滚去写年报了。
