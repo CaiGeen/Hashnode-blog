@@ -1,0 +1,68 @@
+---
+title: "从消费者变成创造者"
+seoDescription: "想做的事情很多，但做到的很少。不过我依然保持好奇，也喜欢这种被好作品冲刷的感觉。"
+datePublished: Mon Oct 17 2022 02:06:33 GMT+0000 (Coordinated Universal Time)
+cuid: clhvcmw6s000209jwe2chhpun
+slug: 20230520100601
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1684548348447/62422af9-418e-43c6-8215-60b58ba460c8.jpeg
+tags: 5pe26ze06k6w5b2v, 5zgo5yik
+
+---
+
+2022 年第 42 周。
+
+aTimeLogger [记录时间](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485032&idx=1&sn=acb21dab9e80298f57f65f3a9ea3a1c7&chksm=eb21b42cdc563d3a565d6c98ad7010303e68799b4f29c829a6c1fd89ff190878ddb44f22a899&scene=21#wechat_redirect)分配如图示：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684548205576/5f601aca-9fa3-4355-a0c9-58bb34a97213.jpeg align="left")
+
+能量爆炸的一周。
+
+通过《得意忘形》加了很多新朋友，也在《人物》上看到了更多遥远的人。
+
+从小到大每次看到好东西都羡慕，都会想如果这是我做的该多好啊。虽然不是我做的，但也想参与进去，让这些好东西留下痕迹。
+
+比如小时候读课外书有名言警句就摘抄到 QQ 空间留言板；看赵本山的小品，捧腹大笑，那我就背台词；爱听小刚的《黄昏》和周杰伦的《发如雪》，我就哼歌抄歌词。长大了看谁工作做得好我就记流程，写 SOP；喜欢张潇雨的微博，就做《张潇雨微博精选》的编辑；被《新闻编辑室》的节奏吸引，还想学写剧本当个编剧……
+
+想做的事情很多，但做到的很少。不过我依然保持好奇，也喜欢这种被好作品冲刷的感觉。怕什么呢，积极参与，进一寸有进一寸的欢喜 :-D
+
+### **《得意忘形》**
+
+参加了周六张潇雨的微信直播。
+
+把《张潇雨微博精选》打印成册，分享在知识星球「**84000<sup>[1]</sup>**」，被张潇雨转发到**微博 <sup> [2]</sup>** 啦。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684548211783/dfc42ca4-3151-481e-aa17-2cef2f9b8c28.jpeg align="left")
+
+### **《人物》**
+
+[拆解](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486993&idx=1&sn=679bcf1b452c907968e8ae1de8ec1304&chksm=eb21bc55dc563543c1e0b7ba58c3b2531edd9901480fe466a51514648030c9ea96e451380be0&scene=21#wechat_redirect)了两篇《人物》稿件：
+
+> 《一个想要解决地球级别问题的人》
+> 
+> 《马东 走在中间》
+
+囤了好多本《人物》杂志，代替读书。如果你有家里不要的《人物》杂志可以到付寄给我呀。
+
+### **《新闻编辑室》**
+
+搞定了《[新闻编辑室](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486979&idx=1&sn=38b983b87a412331a3358f147ab9a9da&chksm=eb21bc47dc56355121ad12c6cb072cff8e8592274e03a35d188b172452b83c782011ce39ccfd&scene=21#wechat_redirect)》第一季的拆解，做成了 **Notion<sup>[3]</sup>**，我挺满意。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684548273277/67397728-9057-45cf-ae5f-18b821f1bcea.png align="left")
+
+### **《我叫刘小样》**
+
+之前在朋友圈介绍过一次刘小样了，后来有朋友推荐我听随机波动的《**人的疆域，略大于刘小样的平原 <sup> [4]</sup>**》，又感动的不行。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684548278784/1f6b7437-4b5a-4f24-b614-c7090fdc5a22.jpeg align="left")
+
+### **美食**
+
+老婆在家包韭菜鸡蛋豆干饺子，做了个煎饺，真好吃。我自己炖了个筒骨汤喝，有 2 年多没喝过了，真香。
+
+吃了秋天的第一只螃蟹，母蟹黄鲜掉眉毛。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684548282396/1e11e211-03b0-47b5-b9b4-09cd1fe294b1.jpeg align="left")
+
+### **影视剧**
+
+《纸牌屋》和《权力的游戏》久负盛名，我之前也尝试看，就是看不下去。这周分别看的电影最 TOP 和阿斗归来了的解说，比自己刷剧轻松多了，但也就那样。还看了动漫《电锯人》，继续追。
