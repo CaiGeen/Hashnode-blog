@@ -8,7 +8,7 @@ PROPER_NOUNS = {
     "chatgpt": "ChatGPT",
     "llm": "LLM",
     "atimelogger": "aTimeLogger",
-    "qq": "QQ",
+    "qq": "QQ",    
     # 在此添加其他需要保护的术语...
 }
 
@@ -19,6 +19,7 @@ def normalize_title(title):
         return ""
     
     original_title = title
+    print(f"Debug: Original title: {title}")
     
     # 先在中文和英文之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([a-zA-Z])', r'\1 \2', title)
@@ -30,26 +31,19 @@ def normalize_title(title):
     
     print(f"Debug: After adding spaces: {title}")
     
-    # 构建专用名词替换的正则表达式
-    terms = sorted(PROPER_NOUNS.keys(), key=len, reverse=True)  # 按长度降序
-    pattern = re.compile(
-        r'(?:^|\s|[\u4e00-\u9fff\p{P}])(?:' + '|'.join(re.escape(term) for term in terms) + r')(?:$|\s|[\u4e00-\u9fff\p{P}])',
-        re.IGNORECASE | re.UNICODE
-    )
+    # 专用名词替换
+    for term, replacement in PROPER_NOUNS.items():
+        # 简单匹配，考虑开头、结尾、空格、标点、中文边界
+        pattern = re.compile(
+            rf'(^|\s|[^\w\s])({re.escape(term)})(?=$|\s|[^\w\s])',
+            re.IGNORECASE
+        )
+        matches = pattern.finditer(title)
+        for match in matches:
+            print(f"Debug: Found term '{match.group(2)}' at position {match.start(2)}-{match.end(2)}")
+        title = pattern.sub(r'\1' + replacement + r'\3', title)
     
-    def replace_term(match):
-        # 提取匹配的术语（去除前后边界）
-        matched = match.group(0)
-        # 查找术语（忽略大小写）
-        for term in PROPER_NOUNS:
-            if matched.lower().strip(' \t\n\r,.?!;:/').startswith(term):
-                replaced = PROPER_NOUNS[term]
-                print(f"Debug: Replaced term '{matched.strip()}' with '{replaced}'")
-                return matched[0] + replaced + matched[-1] if len(matched) > len(term) else replaced
-        print(f"Debug: No replacement for term '{matched}'")
-        return matched
-    
-    title = pattern.sub(replace_term, title)
+    print(f"Debug: After proper noun replacement: {title}")
     
     # 如果标题未改变，说明已符合规范
     if title == original_title:
@@ -81,6 +75,7 @@ for filename in os.listdir(directory):
                             print(f"Warning: No title found in frontmatter of {filename}")
                             continue
                         
+                        print(f"Debug: Processing file: {filename}")
                         print(f"Debug: Processing title: {title}")
                         # 规范化标题
                         clean_title = normalize_title(title)
