@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install pyyaml pypinyin
       - name: Run rename script
         run: python rename_md_files.py
       - name: Commit changes
@@ -23,5 +23,5 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           git add .
-          git commit -m "Renamed Markdown files (except readme.md) to use article titles with (n) suffix for conflicts" || echo "No changes to commit"
+          git commit -m "Renamed Markdown files (except readme.md) with pinyin titles and (n) suffix for conflicts" || echo "No changes to commit"
           git push
