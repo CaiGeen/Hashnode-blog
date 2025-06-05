@@ -19,28 +19,36 @@ def normalize_title(title):
     
     original_title = title
     
-    # 构建专用名词替换的正则表达式
-    terms = sorted(PROPER_NOUNS.keys(), key=len, reverse=True)  # 按长度降序，避免短词优先
-    pattern = re.compile(
-        r'\b(' + '|'.join(re.escape(term) for term in terms) + r')\b',
-        re.IGNORECASE
-    )
-    
-    def replace_term(match):
-        term = match.group(0).lower()
-        replaced = PROPER_NOUNS.get(term, match.group(0))
-        print(f"Debug: Replaced term '{match.group(0)}' with '{replaced}'")
-        return replaced
-    
-    title = pattern.sub(replace_term, title)
-    
-    # 在中文和英文之间添加空格
+    # 先在中文和英文之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([a-zA-Z])', r'\1 \2', title)
     title = re.sub(r'([a-zA-Z])([\u4e00-\u9fff])', r'\1 \2', title)
     
     # 在中文和数字之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([0-9])', r'\1 \2', title)
     title = re.sub(r'([0-9])([\u4e00-\u9fff])', r'\1 \2', title)
+    
+    print(f"Debug: After adding spaces: {title}")
+    
+    # 构建专用名词替换的正则表达式
+    terms = sorted(PROPER_NOUNS.keys(), key=len, reverse=True)  # 按长度降序
+    pattern = re.compile(
+        r'(?:^|\s|[\u4e00-\u9fff\p{P}])(?:' + '|'.join(re.escape(term) for term in terms) + r')(?:$|\s|[\u4e00-\u9fff\p{P}])',
+        re.IGNORECASE | re.UNICODE
+    )
+    
+    def replace_term(match):
+        # 提取匹配的术语（去除前后边界）
+        matched = match.group(0)
+        # 查找术语（忽略大小写）
+        for term in PROPER_NOUNS:
+            if matched.lower().strip(' \t\n\r,.?!;:/').startswith(term):
+                replaced = PROPER_NOUNS[term]
+                print(f"Debug: Replaced term '{matched.strip()}' with '{replaced}'")
+                return matched[0] + replaced + matched[-1] if len(matched) > len(term) else replaced
+        print(f"Debug: No replacement for term '{matched}'")
+        return matched
+    
+    title = pattern.sub(replace_term, title)
     
     # 如果标题未改变，说明已符合规范
     if title == original_title:
