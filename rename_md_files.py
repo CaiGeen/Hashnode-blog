@@ -54,6 +54,13 @@ for filename in os.listdir(directory):
                         clean_title = normalize_title(title)
                         if clean_title:
                             new_filename = f"{clean_title}.md"
+                            
+                            # 检查当前文件名是否已经是规范化后的文件名（不包含.md比较）
+                            current_base = os.path.splitext(filename)[0]
+                            if current_base == clean_title:
+                                print(f"Skipping {filename}: filename already matches normalized title")
+                                continue
+                                
                             new_filepath = os.path.join(directory, new_filename)
                             
                             # 检查是否需要重命名（避免覆盖同名文件）
