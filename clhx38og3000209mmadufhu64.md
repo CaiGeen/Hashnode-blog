@@ -1,0 +1,47 @@
+---
+title: "这个值钱的习惯希望你接住"
+datePublished: Wed Mar 06 2019 07:19:20 GMT+0000 (Coordinated Universal Time)
+cuid: clhx38og3000209mmadufhu64
+slug: 20230521151929
+
+---
+
+我一直把 “复盘能力” 看作是自己的核心技能。
+
+拥有复盘能力的第一步是 “**经验留底**”：把那些第一次接触的新鲜事，趁着记忆热辣全部记下来。
+
+一来方便下次再做的时候能迅速上手，二来能分享给其他第一次接触没经验的同学攒人品。
+
+比如我的日记，工作日志，读书笔记，大众点评。
+
+**01 丨日记**
+
+单就说[流水账](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484707&idx=1&sn=a50c52b3da316a7174adc96b0941d15f&chksm=eb21b767dc563e711ea70c56fd310a1da3b781749062cd32b44f1cf70f060bd02d9869abd98e&scene=21#wechat_redirect)，能帮我迅速穿越回某天我做过哪些事，十年之后就是无价之宝。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684653526837/68f08a4a-018b-469a-b0cf-346a3d66b238.jpeg align="center")
+
+**02 丨工作日志**
+
+工作里用到的账号密码，新学到的技能，发现同事有哪些特点和雷区，发现自己做什么被表扬，做什么被甩脸色。升职秘籍，价值 1 万 / 月。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684653532375/222928af-976f-42a7-a7db-9f0cf6d43e40.png align="center")
+
+**03 丨读书笔记**
+
+坦诚的说，我并不喜欢社交，其他人爱往人堆里走，我更喜欢待在角落。
+
+内向常常导致 “封闭”，但是勤读书是引导自己向外的方式之一，做笔记就是和和优秀的人对话，和落后的自己对话。深入骨髓，无价之宝。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684653538044/3c27b50c-6464-4ad3-bdb0-ab58ee4a5267.jpeg align="center")
+
+**04 丨大众点评**
+
+凡是我去过的新店必写点评，2017 年还给自己定过写 100 条点评的目标。
+
+写点评给我带来的收益最直接 ——VIP 的霸王餐高中奖率。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684653546219/439e7863-dd8b-4c49-bcc8-0f16addba8aa.jpeg align="center")
+
+粗略来说，1 年多时间，中了 7，8 次了，平均每次 150 元。
+
+想拥有 “复盘能力” 并不难，它的门槛很低，每个人都能迅速习得，但你不必担心，它仍然能让你脱颖而出，因为并没有多少人能坚持学习它。
