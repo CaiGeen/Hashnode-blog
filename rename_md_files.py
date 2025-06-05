@@ -12,22 +12,28 @@ PROPER_NOUNS = {
 }
 
 def normalize_title(title):
-    """规范化标题：处理空格并保护专用名词的大小写"""
+    """规范化标题：中文与英文/数字间加空格，保护专用名词大小写"""
     if not title:
         print("Warning: Empty title provided")
         return ""
-
+    
     original_title = title
-
-    # 专用名词替换（支持中英文混合环境）
-    for lowercase_term, correct_term in PROPER_NOUNS.items():
-        # 匹配模式：兼容英文边界或中文上下文
-        pattern = re.compile(
-            rf'(?<!\w){lowercase_term}(?!\w)|(?<=[\u4e00-\u9fff\s]){lowercase_term}(?=[\u4e00-\u9fff\s])',
-            re.IGNORECASE
-        )
-        title = pattern.sub(correct_term, title)
-
+    
+    # 构建专用名词替换的正则表达式
+    terms = sorted(PROPER_NOUNS.keys(), key=len, reverse=True)  # 按长度降序，避免短词优先
+    pattern = re.compile(
+        r'\b(' + '|'.join(re.escape(term) for term in terms) + r')\b',
+        re.IGNORECASE
+    )
+    
+    def replace_term(match):
+        term = match.group(0).lower()
+        replaced = PROPER_NOUNS.get(term, match.group(0))
+        print(f"Debug: Replaced term '{match.group(0)}' with '{replaced}'")
+        return replaced
+    
+    title = pattern.sub(replace_term, title)
+    
     # 在中文和英文之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([a-zA-Z])', r'\1 \2', title)
     title = re.sub(r'([a-zA-Z])([\u4e00-\u9fff])', r'\1 \2', title)
@@ -35,7 +41,8 @@ def normalize_title(title):
     # 在中文和数字之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([0-9])', r'\1 \2', title)
     title = re.sub(r'([0-9])([\u4e00-\u9fff])', r'\1 \2', title)
-
+    
+    # 如果标题未改变，说明已符合规范
     if title == original_title:
         print(f"Debug: Title already normalized: {title}")
     else:
@@ -72,17 +79,18 @@ for filename in os.listdir(directory):
                             new_filename = f"{clean_title}.md"
                             current_base = os.path.splitext(filename)[0]
                             
-                            # 标准化比较（忽略空格和大小写）
+                            # 标准化比较（忽略大小写和空格）
                             def normalize_for_comparison(s):
-                                return re.sub(r'\s+', '', s.lower())
+                                return re.sub(r'\s+', '', s).lower()
                             
                             current_normalized = normalize_for_comparison(current_base)
                             auto_normalized = normalize_for_comparison(clean_title)
                             
+                            # 如果文件名与标题标准化后相等，认为是人工修改，跳过
                             if current_normalized == auto_normalized:
-                                print(f"Skipping {filename}: filename already matches a normalized version of the title")
+                                print(f"Skipping {filename}: filename matches normalized title '{clean_title}'")
                                 continue
-                                
+                            
                             new_filepath = os.path.join(directory, new_filename)
                             
                             # 检查是否需要重命名（避免覆盖同名文件）
