@@ -8,7 +8,6 @@ PROPER_NOUNS = {
     "chatgpt": "ChatGPT",
     "llm": "LLM",
     "atimelogger": "aTimeLogger",
-    "qq": "QQ",
     # 在此添加其他需要保护的术语...
 }
 
@@ -54,20 +53,21 @@ def normalize_title(title):
     return title
 
 def clean_image_links(content):
-    """移除 Markdown 图片链接中的 align="center" 属性"""
-    # 匹配图片链接，捕获 URL 和可选的 align="center"
-    pattern = re.compile(r'!\[(.*?)\]\((https?://[^\s)]+)(?:\s+align="center")?\)')
+    """将 Markdown 图片链接替换为 '!'"""
+    # 匹配图片链接，包括空 alt 文本和 align="center"
+    pattern = re.compile(r'!\[\]\((https?://[^\s)]+)(?:\s+align="center")?\)')
     
     def replace_image(match):
-        alt_text = match.group(1)
-        url = match.group(2)
         original = match.group(0)
-        cleaned = f'![{alt_text}]({url})'
-        if original != cleaned:
-            print(f"Debug: Cleaned image link from '{original}' to '{cleaned}'")
-        return cleaned
+        print(f"Debug: Replaced image link from '{original}' to '!'")
+        return '!'
     
     cleaned_content = pattern.sub(replace_image, content)
+    
+    # 检查是否找到任何图片链接
+    if cleaned_content == content:
+        print("Debug: No image links with align='center' found in content")
+    
     return cleaned_content
 
 # 设置目录为仓库根目录
