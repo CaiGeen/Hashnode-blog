@@ -1,0 +1,46 @@
+---
+title: "2023 年我的投资收益"
+seoDescription: "截至 2023 年 11 月 17 日，比特币涨幅 119%，沪深300 跌幅 -7.8%，标普500 涨幅 17.4%。和去年一样，所有仓位都在数字货币，全仓收益率 44%。"
+datePublished: Fri Nov 17 2023 12:08:14 GMT+0000 (Coordinated Universal Time)
+cuid: clp2kt9m9000a09lhddv40c6w
+slug: 20231117200740
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700222668190/42c3003e-6b33-49c1-88d8-760afff0e1ee.jpeg
+tags: 5bi45yaz5bi45paw
+
+---
+
+在《[老土的笔记系统](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488150&idx=1&sn=98acb8d1a8baebfd08814ab4302d8ee4&chksm=eb21a0d2dc5629c40f899b59c250755844760896f6e3e38bf6c04dfdff766d7791e26dbd04e7#rd)》后，开始精筛读书笔记到 Excel 了，大概长这样。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700222683495/19b8f809-ba0d-4dfa-84b3-bf1d51a32227.png align="center")
+
+整理了 1/6，容我休息休息体会一下。
+
+翻到 2021 年的笔记，那时候看的书都是投资理财类，读到《投资正途》的批注「买进时机：1）突破后立即买进；2）突破后回调买进；3）突破买点并上涨 4% 时必须入场。」第（3）点忘了原因，但我琢磨了一下，这就是我定投卖错的补救法啊，一旦跌破又上涨至 EMA144&gt;6%，必须入场，因为单笔 6% 极限止损。这条规则可以避免定投仓卖飞上不了车，我哭了，怎么才知道啊 😭
+
+那这篇就聊聊 2023 年的投资收益吧。
+
+截至 2023 年 11 月 17 日，比特币涨幅 119%，沪深300 跌幅 -7.8%，标普500 涨幅 17.4%。和[去年](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487439&idx=1&sn=9d3b79f54827b990b36e7dfaeed3b444&chksm=eb21bd8bdc56349df32dc9b9707e7b7a644de8a335ac33078780cfac4e847285f012f6095b2e#rd)一样，所有仓位都在数字货币，全仓收益率 44%，不及大盘（比特币）涨幅 70%，没及格。主要原因还是我的系统错过了 9 月底这段行情，当时我判断牛转熊，清空了定投仓位。等比特币暴涨突破，我没有任何补救手段，买新高盈亏比太低，实在下不去手，就眼睁睁的看着涨。
+
+问题关键在，我还是不能[克服恐惧](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486922&idx=1&sn=29305b607783853c2dbe31479e7b15f4&chksm=eb21bf8edc56369881dc2537b41357c9e5cd8f4a31b33f844e2f77e38ed21c0d18d239939139#rd)。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700222713099/f093ee01-176b-4896-925b-06cf530e8fa7.png align="center")
+
+回看这一年的行情，多次在我的清仓线徘徊，我清仓是真不手软。3 月初那次，系统应该是次日上午清仓，我想反正就一晚上，大局已定，早点儿清仓明天睡个懒觉，不用等早 8 了。结果早上醒来一看，大阳线，否了清仓条件，骂骂咧咧磨损 6% 仓位重新买回来。还好买回来了，行情又是一骑绝尘。然后一路横盘，只要不破清仓线，我就拿着不管，没犯错，但是也没追加仓位，正常的交易都没做，收益全靠定投仓撑着。
+
+8 月中，大阴线跌破清仓线，行吧，清仓。而且这次跌破，迟迟不反弹，我确认是牛转熊，就忙别的没管。10 月中，行情缓涨，我还有点儿纠结，心想这要是重新走牛了怎么办啊？我怎么买回来？我想，那就新高再来吧。结果疯狂大阳线，把我涨懵了，真到新高我也不敢买了，我知道自己完全踏空了。
+
+追高是不可能追了，等吧。
+
+迷你短线仓，今年做了 30+ 笔，越做越费劲儿，下半年基本停了，收益率如图，负的。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700222731351/00ff7d62-b3cc-422f-8db1-b8965b598860.jpeg align="center")
+
+学得越多忘得越多，现在就只记得定投法和双突破了，这不知道算退步还是进步了 🤕
+
+🔗
+
+《[分享帮助我投资的 10 件利器](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487875&idx=1&sn=95ffca1480cc7c0b32c6a0a6489aaea5&chksm=eb21a3c7dc562ad134e92d6aff07c795fbf2b0d2ab5d92ecdec96dc16f488a6b148d3d002c9e#rd)》
+
+《[骚操作亏钱经历](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247486922&idx=1&sn=29305b607783853c2dbe31479e7b15f4&chksm=eb21bf8edc56369881dc2537b41357c9e5cd8f4a31b33f844e2f77e38ed21c0d18d239939139#rd)》
+
+💰 如果想订阅我的实时动态和文章笔记，请付费支持我的 [Telegram 频道](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，现价 499 元/份，每 10 人加入，价格递增 100 元，999 元封顶。我会用这份收入收集更多内容，用创作反哺。
