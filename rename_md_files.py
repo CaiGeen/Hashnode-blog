@@ -8,6 +8,7 @@ PROPER_NOUNS = {
     "chatgpt": "ChatGPT",
     "llm": "LLM",
     "atimelogger": "aTimeLogger",
+    "qq": "QQ",
     # 在此添加其他需要保护的术语...
 }
 
