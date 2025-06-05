@@ -1,0 +1,42 @@
+---
+title: "2020 年我在娱乐些啥"
+seoDescription: "我真是个不咋会玩的人。娱乐时间最多就是刷手机和看电影。"
+datePublished: Tue Feb 09 2021 05:41:12 GMT+0000 (Coordinated Universal Time)
+cuid: clhvkbb34000b09kv7b1q82zg
+slug: 20230520134147
+
+---
+
+我真是个不咋会玩的人。
+
+娱乐时间最多就是刷手机和看电影。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684561216671/0e4a9e31-671f-4953-9aaa-158b17f8ccc4.png align="center")
+
+娱乐时间相比去年变化不大。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684561241901/77e36c9e-920e-4eb6-bb25-66dc64d6e503.jpeg align="center")
+
+看的主要是陈翔六点半，头条上司马懿和琅琊榜的片段，外加吃播大佬们和 B 站盗月社还有鬼畜视频下饭。
+
+平时不蹦迪不按摩不搓澡，懒得出门。
+
+其实我倒是挺想整一台 switch 或者 ps4 在家玩儿，又担心沉迷...
+
+反正是越来越宅了。
+
+今年唯一玩了几十个小时的是 “荒野乱斗”。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684561227331/1dc8a52d-ec1c-4465-b8bb-484cce99e531.jpeg align="center")
+
+刚上线那会儿，拉着同事朋友开黑大杀四方。
+
+结果还氪金 200 块，真香。
+
+玩了半个月，觉得不是个事，中间删了又装，终于有一次再也没上线过。
+
+有时候还挺怀念小时候玩儿梦幻，玩暗黑 2，玩 CS 的日子。
+
+有时候也会觉得忙活了一天好像啥也没干，还不如放我去看电影玩儿游戏呢。
+
+新的一年我也会多给自己找找乐子，祝大家吃好喝好，玩的开心。
