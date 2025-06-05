@@ -1,0 +1,185 @@
+---
+title: "这 13 篇永久笔记越读越厚"
+seoDescription: "有些文章也好，但和现有的笔记相比，密度低了一点点。还有的是刚读没多久，我想多沉淀沉淀。反复读，内部 PK，争取把这个系列做成能代表我阅读品味的栏目。"
+datePublished: Wed Dec 11 2024 09:01:38 GMT+0000 (Coordinated Universal Time)
+cuid: cm4jnvinl000409l8c216hkg6
+slug: 20241211170018
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1733907545911/1be89f4e-438f-427b-8c54-31e59be256f6.jpeg
+tags: 5bi45yaz5bi45paw
+
+---
+
+2023 年底我开始做永久笔记清单，[5 篇入选](https://mp.weixin.qq.com/s/y6VQ0403Zvqhn92C6EBHxA?token=677923051&lang=zh_CN)。记录我经常会想起的、不过时的文章。后来翻我的笔记库和收藏夹，把文章增加到 13 篇，打印成册当枕边书和[厕所读物](https://mp.weixin.qq.com/s/dsccU5x5ymixz4dLYv78_A)。
+
+按文章发表时间排序：
+
+#### [Do It Now](https://stevepavlina.com/blog/2005/11/do-it-now/)
+
+作者写他大学时，怎样用三个学期完成四年的课业。一篇文章讲完了时间管理的精华。
+
+* 有个清晰的目标
+    
+* 为目标设定时间表
+    
+* 重新定义失败
+    
+* 现在就做
+    
+* 无情地专注
+    
+* 远离时间黑洞
+    
+* 识别自己的高效时间
+    
+* 饮食和锻炼
+    
+* 一直做到目标完成
+    
+
+#### [比免费更好](https://mp.weixin.qq.com/s/0fmZPjBpBsY3v15C9cnFQg)
+
+凯文·凯利这篇 2008 年的文章（原名 [*Better than Free*](https://kk.org/thetechnium/better-than-fre/)），提到了当互联网技术爆炸，拷贝没有成本时，仍然可以把生意建立在 8 种互联网无法剥夺的要素上。
+
+它们分别是：
+
+1. 即时享用
+    
+2. 个性定制
+    
+3. 专业解读
+    
+4. 权威认证
+    
+5. 便捷访问
+    
+6. 实体
+    
+7. 赞助
+    
+8. 筛选和推荐
+    
+
+就像[贝索斯](https://medium.com/@wooyi/7-lessons-from-jeff-bezos-annual-letters-to-shareholders-d2b795201c16)说「人们经常问我，未来五到十年会发生什么变化？但很少被问到，未来五到十年什么不会改变？」这种思路，也是做永久笔记的初衷，不断筛选和沉淀，经典自然浮现。
+
+#### [毛泽东书山路上的风景](https://news.sina.cn/gn/2018-09-09/detail-ihivtsyk6948457.d.html)
+
+这篇文章是从作者陈晋主编的书《毛泽东读书笔记精讲》里摘出来的，读书经验和方法论看这篇就够了。
+
+* 毛泽东阅读重点排在前三位的，是马列、哲学和历史。
+    
+* 毛泽东喜欢读《茶花女》，看各种笑话集子，甚至看小人书，执着地研读《二十四史》和《红楼梦》，背诵《离骚》等，根本看不出与工作实践有什么关联。
+    
+* 毛泽东的攻读之法，一是经典的和重要的书反复读；二是相同题材内容的书，毛泽东习惯把不同的甚至是观点相反的著述对照起来读；三是读书习惯于「手到」并注重讨论。
+    
+* 毛泽东提倡读书，亲自编书、荐书和讲书。
+    
+
+#### [于宙：我们这一代人的困惑](https://blog.sina.com.cn/s/blog_537c25aa0102v9sm.html)
+
+在一众励志鸡汤文中，我发现了于宙的这篇演讲稿，开篇就说「大部分人的梦想永远都实现不了。」要时刻提醒自己，不要自怜，不要自我感动，大部分看似努力，不过是愚蠢导致的。要比辛苦，比凌晨四点披星戴月，富士康流水线的工人比我辛苦多了。
+
+#### [Naval：如何不靠运气致富](https://mp.weixin.qq.com/s/TfhBCbr8-IoHyPKtB3hTlw)
+
+这 39 条推特语录，就是《纳瓦尔宝典》的前身。记住了三种商业杠杆：1、资本；2、人力；3、复制起来边际成本为零的产品（如：代码和媒体）。这就是使劲儿的大方向。
+
+#### [当众学习](https://mp.weixin.qq.com/s/-L7l7-hgKeKuZH6oitN0vA?search_click_id=12531027871246584057-1733810221644-2160674155)
+
+一提到学习方法，我就会想到这篇 2018 年的文章（原名 [*Learn In Public*](https://www.swyx.io/learn-in-public)*）*。这篇文章是典型的行动指南，当你想要学习但不知道怎么做时，就照这篇文章说的来：
+
+* 写博客，教程和攻略
+    
+* 在见面会和会议上发言
+    
+* 在 Stackoverflow 或 Reddit 等公开平台上提问和回答问题
+    
+* 制作 Youtube 视频或直播
+    
+* 开办一份 Newsletter
+    
+* 画漫画（人们喜欢漫画！）
+    
+
+#### [关于工作和成长，这是我的 121 条具体建议](https://mp.weixin.qq.com/s/ju6lSdQ44o8KU-4MFuw3-Q)
+
+因为「主动点，对一切事。」这句话，把这篇文章记到现在。对号入座，总有收获。
+
+#### [通向 1%](https://reurl.cc/G5XvK3)
+
+1% 的特定知识有哪些？
+
+* 独立思考
+    
+* 有效沟通
+    
+* 英语
+    
+* 计算机
+    
+* 数据分析
+    
+* 理财
+    
+* 幸福课
+    
+* 通俗教育
+    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733907567320/6bb21cc1-2c23-4da8-8a9a-07303d0e286d.png align="center")
+
+#### [一生只用富一次（2023版）](https://mp.weixin.qq.com/s/ff0G3Bik50mkQ0VO87h-0Q)
+
+2019 年第一次读到老喻这篇文章就立马收藏，没想到老喻还在更新。B 部分的防爆指南，不仅告诉我要在生理上、概率上活得够久，更要防止被身边的人影响，别让他们爆掉。这一条，把关心他人从「美德」转成了「内在动机」，因为我在乎的人也会影响到我。好文，值得反复读。
+
+#### [小能熊年信 2021：有关学习的 7 个关键词](https://app.yinxiang.com/fx/a879e490-cc24-4b3a-995a-a19b94db2c0d)
+
+这是篇压箱底的文章，因为互联网搜不到。当时是看小能熊公众号发的，结果不知道为啥被违规删了，我找客服要的备用链接。
+
+信里提到用工作学习生活财务 4 个维度制定人生指数。建设学习型家庭，用三代人的力量培养「普通且自信」的人。
+
+#### [中国居民平衡膳食宝塔（2022）](https://mp.weixin.qq.com/s/WYd33B5VRy6zI1v8dSbJ6g)
+
+每天活动半小时，远离腰酸背痛腿抽筋。但都说三分练七分吃，去查怎么吃健康，发现有居民膳食指南，还看什么小道消息。简单总结——**少油少盐，蛋奶谷薯，鱼虾，蔬菜 1 斤，水 7 杯**。搭配潇洒姐的美丽秘密——[吃到不饿就停止](https://mp.weixin.qq.com/s/eHXjlQcX6V2qJVgh2RB4ew)，方便好记。
+
+#### [Don’t Just Set Goals. Build Systems](https://medium.com/swlh/dont-just-set-goals-build-systems-8158ac541df)
+
+为了下载 Kurtis Pykes 这篇文章买的 Medium 会员。非常适合每年定目标的时候拿出来重读。如果你不知道怎么定目标，试试作者提供的五个步骤：
+
+1. 定义你想要的
+    
+2. 追问 5 个为什么
+    
+3. 学习[最少必要知识](https://web.archive.org/web/20120814095448/http://www.lixiaolai.com/archives/9369.html)
+    
+4. 设置[执行意图](https://mp.weixin.qq.com/s/G1oJCjNdLQDsWXBoHr8mTA)
+    
+5. 定期回顾
+    
+
+附作者的 30 分钟的 YouTube [视频](https://www.youtube.com/watch?v=hwEoJN63TFo)。
+
+#### [把握人生发展的关键点](https://mp.weixin.qq.com/s/YznqdhECRYO-7f93egBeHg)
+
+别说没有智慧的长辈提点，把俞敏洪的这篇文章通读一遍，就能迅速摆脱学生思维。时势造英雄，人在环境面前太渺小了，不要妄图改变环境，而是主动往高处去。独立且拥有完整的人格。找到能互相砥砺的朋友。
+
+入选「永久笔记」的标准：
+
+* 读过后念念不忘
+    
+* 读过后促使我马上行动
+    
+* 越读越厚，常读常新
+    
+
+还有好几篇我喜欢的，比如张辉的《[讲演：如何通过记录生活感想，获得自由？](https://mp.weixin.qq.com/s/kq1sZ2VVZ_5zOklmpHr4ng)》，朱炫的《[要怎样努力，才能成为很厉害的人？](https://mp.weixin.qq.com/s/jKyNpImUp8Zbjn3L6GFxDw)》，Dan Shipper 的《[如何把自己打造成一台学习机器](https://mp.weixin.qq.com/s/5ltvi3BoVXXf1DWb7g5YMA)》，谢梦遥的《[我如何写特稿的开头](https://mp.weixin.qq.com/s/_nmKF1ir_Qq6UrfOBPLMBg)》……有些是和现有的笔记相比，密度低了一点点；有的是刚读没多久，我想多沉淀沉淀。反复读，内部 PK，争取把这个系列做成能代表我阅读品味的栏目 😎
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733907584550/6b77bd17-38a9-4ac9-b4f7-e0770bc3bcac.png align="center")
+
+🔗
+
+《[2023 年保存的 5 篇永久笔记](https://mp.weixin.qq.com/s/y6VQ0403Zvqhn92C6EBHxA)》
+
+《[225 条书签，我在收藏什么](https://mp.weixin.qq.com/s/ZcROoZQnyyj2FNE9yak5ag)》
+
+💳 支持我并订阅我的[动态和读书笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，请购买我的 Telegram 频道，现价 599 元，我会用这份收入采集更多内容，用创作反哺。
+
+📖 最近一个月我都在写 30 岁[自传](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488741&idx=1&sn=3aca11b2f15bcb82156b45c8a69ae937&chksm=eb21a6a1dc562fb7bbf6242bc1a68995eba7b560a49627ac031e129b33aa29a624896186a2a3#rd)，预计 10 万字。复制链接打开向我[提问](https://wj.qq.com/s2/15897499/4fe9/)，或者点文章最左下角`阅读原文`，我会优先为你写。
