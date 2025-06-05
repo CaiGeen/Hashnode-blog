@@ -1,0 +1,64 @@
+---
+title: "拒绝拖延，让你快速行动的小技巧"
+datePublished: Tue Sep 03 2019 03:36:41 GMT+0000 (Coordinated Universal Time)
+cuid: clhwvacm200020al38jffg0pn
+slug: 20230521113650
+
+---
+
+很多朋友咨询这个问题，“做事拖延，坚持不下去怎么办？”
+
+我之前在《[如何避免核心目标习惯性拖延](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485294&idx=1&sn=d4fd61473a49de8ee414a3cb2cd9194a&chksm=eb21b52adc563c3c9948a775d6893a0a825464902f18475fdbd3068ff08398a707ba2d6e1b87&scene=21#wechat_redirect)》这篇文章里提到了把目标细分和可视化，今天用一个模型概括所有方法。
+
+**福格行为模型：动机 + 容易度 + 触发器**
+
+![福格行为模型](https://cdn.hashnode.com/res/hashnode/image/upload/v1684640175166/c1634398-81fe-41a6-92cf-a110d1f52140.png align="center")
+
+第一次看到这个模型是参加[彭小六的线下分享会](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485793&idx=1&sn=6e7da807c0326339ecbc37e2c708a282&chksm=eb21bb25dc563233ccecc880983f595c775369af28d256531ea3d21bdd02c97a0e715b3318dd&scene=21#wechat_redirect)，学到了 **“任何行为习惯都可以从动机和容易度两个方面解决”**。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684640181292/a4085cf5-47b5-42fe-bbca-6cf8b5961ed9.jpeg align="center")
+
+假如我想减肥。
+
+进一步[明确目标](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485294&idx=1&sn=d4fd61473a49de8ee414a3cb2cd9194a&chksm=eb21b52adc563c3c9948a775d6893a0a825464902f18475fdbd3068ff08398a707ba2d6e1b87&scene=21#wechat_redirect)为：我想用一个月的时间减掉 10 斤。
+
+然后我们就能用福格行为模型找快速行动的方法：
+
+1\. 动机
+
+赋予你的目标意义感。
+
+* 减肥是为了变帅，人人夸
+    
+* 减肥是为了下个月去海边游泳
+    
+* 减肥是为了健康
+    
+
+2\. 容易度
+
+一上来就要求自己每天必须 10 公里，太难了，越难越不容易开始。
+
+* 3 天不吃甜食和炸物
+    
+* 每天换上运动服下楼走走
+    
+* 每天上称记录体重
+    
+
+3\. 触发器
+
+给自己规定一系列动作。
+
+* 回到家就换上运动服
+    
+* 吃了甜食就发朋友圈
+    
+
+这些小技巧都是为了让你能尽快开始。
+
+别安慰自己说今天做计划明天就开始，明天≈不做。
+
+所以，“现在开始，永远现在开始！”
+
+你有没有想狠下心改掉的坏习惯，要不要试试？
