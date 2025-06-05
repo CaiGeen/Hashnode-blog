@@ -29,7 +29,7 @@ slug: 20230521161236
 
 3）修改部分默认设置如图
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684656735390/03cdcb7f-722b-4bd2-81f7-b46da6a236e3.jpeg align="center")
+![](url)
 
 4）调整目标排序（恢复数据可能导致顺序错误）
 

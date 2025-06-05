@@ -43,7 +43,7 @@ slug: 20230523122154
 
 （2）
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684815674313/46194a68-7dce-4b78-8685-b0cf92db935b.jpeg align="center")
+![](url)
 
 标题：**在外资投行巧用 Excel 做分析**
 
@@ -74,7 +74,7 @@ slug: 20230523122154
 
 （3）
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684815679405/f45b1c7e-bdab-4282-b094-b3279d6c8f6b.jpeg align="center")
+![](url)
 
 标题：**关于阅读的一些微小经验**
 
@@ -107,7 +107,7 @@ slug: 20230523122154
 
 （4）
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684815686601/9563fbd2-57e0-4edb-9bd0-0f4e4ac285f7.png align="center")
+![](url)
 
 标题：**所谓高阶运营和初阶运营的区别**
 

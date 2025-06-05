@@ -11,13 +11,13 @@ tags: 5pel5bi4, 5pe26ze06k6w5b2v
 
 ​8 月底《壮志凌云2》放出了亚马逊 IMAX 版。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671064855279/-0BycplJ9.png align="center")
+![](url)
 
 这部续集我看过预告后一直很期待，还专门回头补了 1986 年的《壮志凌云》，那时候的阿汤哥才 24 岁，嫩啊！
 
 但今天不是说阿汤哥，而是说《壮志凌云》的男二「冰人」的扮演者Val Kilmer（方·基默），他回归《壮志凌云2》。其中有个他们俩见面的情节，「冰人」因病只能通过电脑敲字和「独行侠」交流，当时我就对这种病感到奇怪，看起来像某种气管手术？
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671064867791/p_ZlUGX6b.png align="center")
+![](url)
 
 直到看完电影后我去查方·基默的近况，才知道原来不只是电影，现实生活中他真的在 2015 年 56 岁时得了喉癌。
 
@@ -29,17 +29,17 @@ tags: 5pel5bi4, 5pe26ze06k6w5b2v
 
 得了喉癌，做过化疗，气管动过 2 次手术，声带损坏，他怎么出声的？日常怎么交流？电影里的声音是配音吗？
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671064884962/jNc7joRdm.png align="center")
+![](url)
 
 然后我就搜到这样一篇报道《[Val Kilmer Gets His Voice Back with AI Technology, Hear the Results](https://movieweb.com/val-kilmer-voice-ai-technology/)》（方·基默用 AI 技术找回声音，听听效果）。我听了文章里的音频，效果和真人几乎无异。文章写到「在英国一家克隆声音的软件公司 Sonantic 的帮助下，方·基默在创建了一个 AI 版本的声音后，又能说话了。」
 
 然后我就去搜 [Sonantic](https://www.sonantic.io/) 这家公司，发现这家公司联合创始人 2022 年 6 月 13 号发了一篇收购声明，说 Sonantic 已经被 Spotify 收购了，emm……
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671064899215/EKVXRKxNu.png align="center")
+![](url)
 
 Spotify (NYSE:SPOT)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671064911293/xNVwDDrCt.png align="center")
+![](url)
 
 最后，这篇文章还写到「方·基默积极参与了 AI 原型的开发，与 Sonantic 公司紧密合作，并提供了他声音的存档录像来创建模型。」
 

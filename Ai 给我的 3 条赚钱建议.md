@@ -62,7 +62,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747219172855/7843e5f
 
 > 「我一直相信彻底的坦率，鄙视那些为了回避不愉快的真相而粉饰现实的人。彻底坦率的基础是关心。你足够关心你的朋友和同事，告诉他们真相，因为你想让他们能够理解、成长和成功。」如果让你也对我保持彻底的坦率，不要在意我的自尊心而斟酌用词，请再次分析我，坦白告诉我我想提高未来的生活质量，应该怎么做，有哪些建议。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747219324820/26c84a1d-88fd-4334-bb8d-28cf64a7d069.jpeg align="center")
+![](url)
 
 Grok 分析我潜在的问题：
 

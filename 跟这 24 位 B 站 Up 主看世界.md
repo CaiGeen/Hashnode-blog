@@ -10,7 +10,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1747647680558/4977c74
 
 作为我的[第一大站](https://mp.weixin.qq.com/s/SW6ACIaWq7sYwLEpOCCUhA)，有必要介绍下我的 B 站关注列表，我在透过谁的镜头看世界。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747647723373/1b09061b-bb5e-4432-a1ef-8f804e22c81f.jpeg align="center")
+![](url)
 
 重点介绍这 24 位：
 

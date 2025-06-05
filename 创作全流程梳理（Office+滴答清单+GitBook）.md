@@ -54,13 +54,13 @@ tags: 5bel5yw3566x
 
 把灵感或日记扩写成一篇文章，就需要单独排版编辑了。之前我是在[为知笔记](https://mp.weixin.qq.com/s/Krj7rdjMZVihp_FbzRWaBA)里写好后，复制粘贴到各个发布平台，但各家粘贴效果千奇百怪，我就重新捡回 Markdown 编辑，格式通用，且记事本就能写。刚好[这款在线编辑器](https://markdown.com.cn/editor/)还有自动保存，一键复制到公众号等功能，发文章就用它了。在线编辑好后，发公众号和 [Hashnode](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487356&idx=1&sn=6617f51c20e56b45a9c3f9534a8b37e3&chksm=eb21bd38dc56342e8fe78eae5c9bb3d483cc9981d231a58b7e30a0fe445eff3dc2b728c8ec1b&token=1302245348&lang=zh_CN#rd) 博客，公众号主要用来曝光宣传，Hashnode 主要用来获得 [RSS](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487816&idx=1&sn=dd5f3286fa6f96a23017577cb87d25c6&chksm=eb21a30cdc562a1a88789c777dfbc9f742b016761c255d8311cdfb1ce4fc11aec1356983c265&token=1302245348&lang=zh_CN#rd) 以及它自动同步到 [GitHub](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487713&idx=1&sn=04ed6f381e8394298b510397bbb35760&chksm=eb21a2a5dc562bb30d2d202c17d514ae5fe7211198271b1b2da11ceca9b8f5bafae04d64b2cf#rd) 备份。最后再复制粘贴包括图片全保存到为知笔记。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696300427972/d6fc7b9c-b2ed-49cd-b89f-e60b13d611f0.png align="center")
+![](url)
 
 ### 教程
 
 字数过万，对我来说就不仅是「文章」而是「教程」了。我会先在滴答清单里立项，把「灵感」集中到待办描述下，时机成熟就转移到 Xmind，用脑图梳理逻辑顺序，看着更清晰。再等到决定动笔，就打开幕布（不公开的内容）或 [GitBook](https://shijian.tujunjie.com/)（公开的内容）开始分节点往里填，想到什么写什么，把文章骨架搭起来。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696300478840/ce705fcf-8366-416f-97e2-a56b33fd40f7.png align="center")
+![](url)
 
 就这样缝缝补补，写好之后 [GitBook](https://rili.zxy.wiki/) 直接发布没难度。如果需要更好的排版打印，我会用 [Word](https://pan.baidu.com/s/1HboXmZ7N0rFr66Y45HrODw?pwd=a5ej) 再修整一遍，设定目录和脚注等等。更进一步，比如给教程设定一个宣传单页，或者可以互动评论，那我会上传到 [Notion](https://tujj.notion.site/be82396e5afb4be19cb7ae3a60043867)，打开分享功能。
 
@@ -68,7 +68,7 @@ tags: 5bel5yw3566x
 
 音视频现在很少弄，剪音频用 Adobe Audition，录视频用 OBS Studio，剪辑用 Camtasia 或者 Adobe Premiere。做字幕用 [ArcTime](https://www.bilibili.com/video/BV1mK4y1b761/) 或 Subtitle Translator。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696300514049/ee5b7291-5188-4d0d-9e0e-e55dc69a40fb.jpeg align="center")
+![](url)
 
 现在很难再折腾新玩意儿了，工具多酷都怕麻烦，就想找个靠谱的用到死。比如我现在的全流程可以简化为：Excel + Markdown + 滴答清单 + GitHub + Word。
 

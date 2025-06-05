@@ -12,7 +12,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748185479243/a63ef7e
 
 因为频道每条推送都有来源和延伸阅读，超链接眼花缭乱，信息密度大，排版也对我胃口，我专门导出频道内容打印成 PDF 速览。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748185496903/53decc80-7b66-4758-9be3-db274a4f1ef7.jpeg align="center")
+![](url)
 
 频道 2021 年 9 月创建，已更新 1200 多条内容。作者爱折腾生产力工具，靠自由供稿（英文居多）生活，接泛文化、艺术、社科评论、科普和翻译约稿。频道名 KIDS SEE GHOSTS（小孩看到鬼）意指心灵纯洁的人能看见别人看不见的东西，不仅依赖视觉。
 
@@ -72,7 +72,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748185479243/a63ef7e
 
 最后，借作者的光，分享我关注的 11 个生产力信息源：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748185504106/005c2744-3cda-4646-a930-4324ca095848.png align="center")
+![](url)
 
 * 冰器库（Bing's Toolkit）
     

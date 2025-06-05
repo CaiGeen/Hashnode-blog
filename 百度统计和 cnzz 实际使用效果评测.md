@@ -152,9 +152,9 @@ CNZZ和百度统计都有导出数据功能，但CNZZ只有CSV和XLS两种格式
 
 两个软件安装代码都使用了异步加载技术，但由实测数据得出，百度统计代码耗时约为CNZZ的14倍（仅供参考）。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850039370/62507a53-eac2-4a90-8621-3ec70d77599a.png align="center")
+![](url)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850058329/6b097493-b2c1-4260-bbde-c904f997655b.png align="center")
+![](url)
 
 3.数据准确性
 

@@ -14,7 +14,7 @@ slug: 20230521104136
 
 超过 10 小时的明细分别是这些：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636865601/5e225e21-4b3d-4a26-aa59-8d8d30a0c2bd.jpeg align="center")
+![](url)
 
 从信息的摄入时间变化就能看出我今年在投资（考试 / 理杏仁）上花了不少时间。
 
@@ -22,7 +22,7 @@ slug: 20230521104136
 
 刷知乎的时间，2019 年下半年开始其实已经少了很多。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636873201/5bf64fb6-6f15-49fd-bb86-d08ab0d1af83.jpeg align="center")
+![](url)
 
 因为我发现我使用知乎时有 “用学习的心态去娱乐” 的感觉，这种包装更危险。所以，月初重新梳理了知乎关注，对关注账户做了一次清洗。
 
@@ -45,7 +45,7 @@ slug: 20230521104136
 
 我每年读书的时间比碎片时间长得多，如果也没办法衡量投资回报率的话，那就太可惜了。之前试过记录每本书的想法和行动，但是因为麻烦，放弃了。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684636881544/7f667783-558d-499d-ab51-29eb4783d219.jpeg align="center")
+![](url)
 
 2020 年，我会考虑重启记录，或者再找更有效率的读书方式。
 

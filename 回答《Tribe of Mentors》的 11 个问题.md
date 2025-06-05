@@ -28,7 +28,7 @@ tags: 5b6q546v5pel5bi4
 
 然后是我读书的时间记录。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1689746433314/c56a9f90-44b2-432b-a98f-18d52f8f225d.jpeg align="center")
+![](url)
 
 排除重合的、学英语的，交易类工具书，还有：
 
