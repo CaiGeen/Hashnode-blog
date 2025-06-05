@@ -54,11 +54,18 @@ for filename in os.listdir(directory):
                         clean_title = normalize_title(title)
                         if clean_title:
                             new_filename = f"{clean_title}.md"
-                            
-                            # 检查当前文件名是否已经是规范化后的文件名（不包含.md比较）
                             current_base = os.path.splitext(filename)[0]
-                            if current_base == clean_title:
-                                print(f"Skipping {filename}: filename already matches normalized title")
+                            
+                            # 关键修改：只有当当前文件名不符合任何规范化格式时才重命名
+                            # 比较时不区分大小写，并去除所有空格差异
+                            def normalize_for_comparison(s):
+                                return re.sub(r'\s+', '', s.lower())
+                            
+                            current_normalized = normalize_for_comparison(current_base)
+                            auto_normalized = normalize_for_comparison(clean_title)
+                            
+                            if current_normalized == auto_normalized:
+                                print(f"Skipping {filename}: filename already matches a normalized version of the title")
                                 continue
                                 
                             new_filepath = os.path.join(directory, new_filename)
