@@ -1,0 +1,105 @@
+---
+title: "怎么积累写作素材"
+seoDescription: "积累不求灵感乍现，都是日积月累一条一条记录来的。我会定期整理滴答清单的待办，然后归档不同素材，形成我的「库」，有策略库、循环选题库、经典作品库、提问清单库……"
+datePublished: Sat Nov 02 2024 07:06:57 GMT+0000 (Coordinated Universal Time)
+cuid: cm2ztltif000509mj7bmdfdzt
+slug: 20241102150632
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1730530478748/a6cfaf1d-116e-4750-8594-bc827d79efce.jpeg
+
+---
+
+有读者问「怎么积累写作素材？」我之前写过一个[小技巧](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488155&idx=1&sn=85cfd128764c2950f6c4a0ddac85398d&chksm=eb21a0dfdc5629c9bbca64ea3726eec906ff79784552658961a8122c3d7b1a829dee65ae093f#rd)——积攒每隔一段时间都能重写，永远有新体会的经典选题。
+
+我有个循环选题收藏夹，节选：
+
+* 最近觉得厉害的人
+    
+* 最近的焦虑
+    
+* 最近的作品
+    
+* 最近在关注的热点
+    
+* 最近的待办
+    
+* 最近买了什么
+    
+* 最近想要的东西
+    
+* 最近想和谁做什么事
+    
+* 最近被吸引想付费的
+    
+* 最近读的书
+    
+* 最近大呼上当的东西
+    
+* 最近感觉浪费时间的事
+    
+
+当你回看之前写过的文章，觉得又有了新想法，或者发现还能优化的标题，就是你的循环选题。写得越多你的循环选题就越多。
+
+那如果没写过东西，不能从过往积累找素材怎么办？去抄啊，日更博主就是免费题库，像槽边往事、辉哥奇谭、旁门正道、猫笔刀。[仿写](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488553&idx=1&sn=d42d089cb9898d24dcadf6fab3217d4d&chksm=eb21a66ddc562f7b80871751918edea00662265426d3fbd1f91fc5a6b69e0dcc99ee4448519d&token=858161081&lang=zh_CN#rd)你觉得你也能写的题目。其实只要你不憋个大的，还可以试试这三种方式。
+
+### [写日记](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484707&idx=1&sn=a50c52b3da316a7174adc96b0941d15f&chksm=eb21b767dc563e711ea70c56fd310a1da3b781749062cd32b44f1cf70f060bd02d9869abd98e#rd)
+
+* 写你今天学到了什么
+    
+* 写你今天的喜怒哀乐
+    
+* 写你今天犯下的错误
+    
+
+最简单的创作单元，就别纠结用什么工具了。对着微信文件传输助手一顿喷就行。
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730530986219/6907d460-fcf4-4c68-8914-d8d1142da156.jpeg align="center")
+
+### 写教程
+
+写教程是让刚工作的新人进步最快的方法。
+
+我在[工作经历](https://mp.weixin.qq.com/s?__biz=MzkxOTMxMDk0MA==&mid=2247566009&idx=1&sn=c3f8c4830d2853f1d3393501d5e09984&scene=21#wechat_redirect)里写过，我的第一份工作人员流动很大，没多久我就成老人了，每次来新人老带新都要花几个小时。为了节约时间，我就写了些图文工作教程，新人来了直接看文档，就能马上上手。没想到越写越起劲儿，把所有工作环节教程全写了。后来才知道这就算以教代学的费曼学习法。
+
+### [写问卷](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485316&idx=1&sn=47ed3a8b450c562fdf767d0547696477&chksm=eb21b5c0dc563cd66160b39f4354c31240606bb971a673530c9f48c246643a27f75ce30f5f90#rd)
+
+我每年会做两份问卷：
+
+* [普鲁斯特问卷](https://www.douban.com/gallery/topic/78183/)
+    
+* [阿瑟·亚伦的 36 个问题](https://cn.nytimes.com/culture/20150123/t23questions/)
+    
+
+有时候你会什么也不想想，别让我思考，但又觉得陷进虚无该跳出来。那就去做卷子吧，回答现成的问题，分散你的注意力。
+
+选几个我喜欢的问题：
+
+* 请用 4 分钟时间，尽量详细地讲述你的人生故事。
+    
+* 截止到现在，你最有成就感的事是什么？
+    
+* 你最喜欢的旅行是哪一次？
+    
+* 你最看重伴侣的什么品质？
+    
+* 你心中一个完美的一天是怎样的？
+    
+* 如果你今夜就会死去，而且没有机会和任何人说，你最遗憾的没有说出口的话是？为什么你还没有告诉他们？
+    
+
+积累积累，不求灵感乍现，都是日积月累一条一条[记录](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484264&idx=1&sn=438f3c7a2374d7c7eb8851ae931a1662&chksm=eb21b12cdc56383a77141ff94bdbf5b535f42713f5cd7a256120690a54761650adcbbdcb1d11#rd)来的。好记性不如烂笔头，我会定期[整理滴答清单的待办](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488324&idx=1&sn=871a3cc8a6f0df70278325d8e5974359&chksm=eb21a100dc56281671841d5f1166673c8e09d8a3cea0c679f78421825401e5f4cada3e4b28a8&token=858161081&lang=zh_CN#rd)，然后归档不同素材，形成我的「库」，有策略库、循环选题库、经典作品库、提问清单库……
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1730530995264/60f4e418-e20d-43ca-9315-7813119c7eea.png align="center")
+
+[写作最难的是什么？](https://weibo.com/1977585731/IuTcDkV47)
+
+双击打开 Word。
+
+🔗
+
+《[写了 6 年年报，上瘾](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488155&idx=1&sn=85cfd128764c2950f6c4a0ddac85398d&chksm=eb21a0dfdc5629c9bbca64ea3726eec906ff79784552658961a8122c3d7b1a829dee65ae093f#rd)》
+
+《[准备在自传里写这 5 个话题](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488751&idx=1&sn=9c74e68ac42910ad977cd94ccb027cf4&chksm=eb21a6abdc562fbdbdb3375681c999843b9a4aa64c182d2bd9654aa2ecdb9035f1d3f819d23d#rd)》
+
+💳 支持我并订阅我的[动态和读书笔记](https://mp.weixin.qq.com/s/A_yK10ktL8Nl7RzsnGwzEg)，请购买我的 Telegram 频道，现价 499 元，我会用这份收入采集更多内容，用创作反哺。
+
+📖 最近一个月我都在写 30 岁[自传](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488741&idx=1&sn=3aca11b2f15bcb82156b45c8a69ae937&chksm=eb21a6a1dc562fb7bbf6242bc1a68995eba7b560a49627ac031e129b33aa29a624896186a2a3#rd)，预计 10 万字。点击链接可以向我[提问](https://wj.qq.com/s2/15897499/4fe9/)，或者点文章最左下角`阅读原文`，我会优先为你写。
