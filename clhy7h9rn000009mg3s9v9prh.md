@@ -1,0 +1,21 @@
+---
+title: "相互偷看，彼此沉默（原标题：沉默的父爱）"
+datePublished: Mon Dec 24 2018 02:04:40 GMT+0000 (Coordinated Universal Time)
+cuid: clhy7h9rn000009mg3s9v9prh
+slug: 20230522100452
+
+---
+
+2018 年主叫 391 通电话，整体情况如下图：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684721052818/49c18ea5-f6d0-4f87-a290-73be84380a7d.png align="left")
+
+通话时长 Top3 如下图：
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684721056431/9d8489cd-352c-4f89-8e98-ca3206a72e55.png align="left")
+
+和我爸全年通话仅 28 分钟。
+
+就像我在[自传](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247484633&idx=1&sn=4aada58de098175ab7a33f6f99d49401&chksm=eb21b69ddc563f8b4f61322a6cb756277c3c8fb780434189f6273798a9bdb42635f175b1dd1d&scene=21#wechat_redirect)里写的，“我和我爸就像是相互偷看的朋友，我们更多从其他人那里了解彼此的近况，因为一旦是面对面的问候，对话干脆的长不过一分钟，他会在我话还没说出口就回，我好着呢，不冷不热不苦不累不烦没有想要的想换的，堵回我所有客套。”
+
+2019 年父子之间争取对谈 10 小时。
