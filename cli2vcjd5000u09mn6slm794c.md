@@ -1,0 +1,94 @@
+---
+title: "塞班是如何衰败的？"
+datePublished: Fri Apr 17 2015 08:25:01 GMT+0000 (Coordinated Universal Time)
+cuid: cli2vcjd5000u09mn6slm794c
+slug: 20230525162509
+
+---
+
+**塞班并没有衰败，它只是老了。**
+
+**垂垂暮年，我更愿意把它看做是寿终正寝。**
+
+**它有它的时代，哪怕是曾经。**
+
+写下这段话时真的百感交集，互联网科技全部都在以我们肉眼可见的速度革新。回头看看[塞班系统](https://www.zhihu.com/search?q=%E5%A1%9E%E7%8F%AD%E7%B3%BB%E7%BB%9F&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)迈着臃肿的步伐却还在追赶的那几年，真想停下来告诉它 “你别追了，他们跑的实在太快了！”
+
+我看了大部分知友在塞班热门话题下的答案
+
+* 　大家说它代码繁杂很难维护；
+    
+* 　大家说它的接口调用反人类；
+    
+* 　大家说它扩展能力奇差无比；
+    
+* 　大家说它电阻屏；
+    
+* 　大家说它分辨率低；
+    
+* 　大家说它只两点触控；
+    
+* 　大家说你屏幕小还出门？
+    
+
+可能都是吧，**我只作为日常用户和你们聊聊情怀和那个时代。**
+
+聊聊那个 2007-2012 的塞班年。
+
+2008 年高中。
+
+我爸说：“你不是一直想要个手机吗？我可以帮你出 1000，其他你这几个月自己挣钱想办法，怎么样？” 我忙不迭的答应了，**手里那台「**[**康佳**](https://www.zhihu.com/search?q=%E5%BA%B7%E4%BD%B3&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)**」早就被我玩坏了，玩腻了。**临到高一快开学，总算是把钱凑到手，趁着热乎交给了诺基亚的老板。
+
+买的时候老板问我爸：“是要个智能机还是非智能机？”
+
+我把转头问我：“你想要哪一种？” 我问哪个好。
+
+老板说：“智能机流行一点。”
+
+我爸问老板：“那价格呢？”
+
+老板说：“不多，就差几百块吧。”
+
+我爸说：“那就搞个智能机让他玩儿吧。”
+
+我们拍板敲定，最后抱着[诺基亚5320xm](https://www.zhihu.com/search?q=%E8%AF%BA%E5%9F%BA%E4%BA%9A5320xm&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D) 美滋滋的回家了。
+
+**这一次世界怎么样我不清楚，最少是我跨进了诺基亚的塞班时代。**
+
+高一那会我竟然是班里第一个用上智能手机人，当时对[只能非智能非](https://www.zhihu.com/search?q=%E5%8F%AA%E8%83%BD%E9%9D%9E%E6%99%BA%E8%83%BD%E9%9D%9E&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)有多大的概念，所以误人子弟毫不嘴软。声称 “能装软件的就是智能机，不能装的就是非智能机。” 还别说这样简单粗暴的法则真的横行了一段时间。这台手机摇身一变成了我折腾爱闹的情感宣泄口，如饥似渴的吸收一切搞机知识，那时候[**塞班论坛**](https://www.zhihu.com/search?q=%E5%A1%9E%E7%8F%AD%E8%AE%BA%E5%9D%9B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)**让我看见了手机的变革。**没有花时间泡论坛的人是不会懂 **“机油、XX，格机、**[**s60**](https://www.zhihu.com/search?q=s60&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)**、3g 坛子、凤凰刷机、sis...”**
+
+我在塞班论坛里进修了一年多，已经能熟练的破解格机解包改图。班里也有同学陆续入手了智能机，那时候通篇的诺基亚，“E63、C5-00、[5130](https://www.zhihu.com/search?q=5130&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)...” 后来入手的同学会跑过来问我说买哪个手机好？怎么破解？怎么刷机？甚至问软件问贴吧... 我俨然成为了班里的智能机导师。
+
+2011 年高中毕业。
+
+手机也该换了，是我爸带着我直奔诺基亚旗舰店去挑。本来是要[5230](https://www.zhihu.com/search?q=5230&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D) 的，后来我爸说要那个吧，手感好，这个全是塑料。于是**我们加钱用 1900 的价格拿下了**[**诺基亚C6-01**](https://www.zhihu.com/search?q=%E8%AF%BA%E5%9F%BA%E4%BA%9AC6-01&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A45079446%7D)，我不会告诉你们当时我把 5320 用 700 的价格转让给了我另一个朋友。**那时候安卓系统已经面世了，在大家都还在纠结是叫安智还是安卓的阶段。**
+
+**我自觉塞班玩腻了，听说安卓不错，可以试试。**于是跟我爸说：“爸，这手机还能不能换啊？” 他说：“怎么了？不好用？” 我说：“不是，我想换个魅族 M8，挺好看的。” 他问：“魅族是诺基亚的哪个型号？” 我只好作罢。可是心里换机的念头越来越强，甚至在论坛发帖问有没有人愿意换机，我加钱。无果。
+
+**拿着 C6-01 就叩开了大学的门，手机的型号也开始繁杂起来，不再是清一色的诺基亚。**我看着同学拿着中兴玩着切水果，玩着神庙逃亡。对不起，友尽。安卓了不起？
+
+塞班慢慢变得步履维艰，我从 s60v3 进入到塞班3 从键盘换成了电容屏。我以为我会开始新一轮的征程，可塞班 3 向下兼容塞班v5 的程序，但是开发者越来越少。这就导致塞班 3 和塞班 v5 给你感觉毫无差别！最后安娜、贝拉更迭的速度很快，**可是它跑得越快，耗费的元气就越多，因为它太老了。**
+
+最终塞班 3 停止在了 Nokia Belle Feature Pack 2
+
+2012 年 5 月 27 日，诺基亚宣布彻底放弃开发塞班系统。
+
+2013 年 12 月，我入坑安卓。
+
+附图：
+
+![](https://pic1.zhimg.com/80/0dc0135cc68ba582bd0f2fc35fc3005f_1440w.webp?source=c8b7c179 align="left")
+
+▲第一次在塞班论坛发帖
+
+![](https://pic1.zhimg.com/80/48e6418d356657c58d7ab84c9d3d0439_1440w.webp?source=c8b7c179 align="left")
+
+▲那时候光是5320版块一天就有3000+的新帖
+
+![](https://picx.zhimg.com/80/276b9ca8bbbea258cdc64dcb0a1a2afd_1440w.webp?source=c8b7c179 align="left")
+
+▲「塞班」11-15年的百度指数走势
+
+**对我来说它只是老了，有什么情怀也都灭了吧。**
+
+**但塞班的黄金时代我描述不出其万一。**
