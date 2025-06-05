@@ -60,7 +60,7 @@ def clean_image_links(content):
     def replace_image(match):
         url = match.group(1)
         original = match.group(0)
-        cleaned = f'![](url)'
+        cleaned = f'![]({url})'
         print(f"Debug: Cleaned image link from '{original}' to '{cleaned}'")
         return cleaned
     
