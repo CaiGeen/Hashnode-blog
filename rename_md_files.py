@@ -32,9 +32,9 @@ def normalize_title(title):
     
     # 专用名词替换
     for term, replacement in PROPER_NOUNS.items():
-        # 简单匹配，考虑开头、结尾、空格、标点、中文边界
+        # 匹配开头、空格、非单词字符，后面跟着术语，再后面是结尾、空格或非单词字符
         pattern = re.compile(
-            rf'(^|\s|[^\w\s])({re.escape(term)})(?=$|\s|[^\w\s])',
+            rf'(^|\s|[^\w\s])({re.escape(term)})($|\s|[^\w\s])',
             re.IGNORECASE
         )
         matches = pattern.finditer(title)
@@ -53,20 +53,22 @@ def normalize_title(title):
     return title
 
 def clean_image_links(content):
-    """将 Markdown 图片链接替换为 '!'"""
-    # 匹配图片链接，包括空 alt 文本和 align="center"
-    pattern = re.compile(r'!\[\]\((https?://[^\s)]+)(?:\s+align="center")?\)')
+    """移除 Markdown 图片链接中的 align='center' 或 align="center" 属性"""
+    # 匹配图片链接，捕获 URL，支持单引号或双引号的 align 属性
+    pattern = re.compile(r'!\[\]\((https?://[^\s)]+)(?:\s+align=(?:"center"|\'center\'))?\)')
     
     def replace_image(match):
+        url = match.group(1)
         original = match.group(0)
-        print(f"Debug: Replaced image link from '{original}' to '!'")
-        return '!'
+        cleaned = f'![](url)'
+        print(f"Debug: Cleaned image link from '{original}' to '{cleaned}'")
+        return cleaned
     
     cleaned_content = pattern.sub(replace_image, content)
     
     # 检查是否找到任何图片链接
     if cleaned_content == content:
-        print("Debug: No image links with align='center' found in content")
+        print("Debug: No image links with align='center' or align=\"center\" found in content")
     
     return cleaned_content
 
