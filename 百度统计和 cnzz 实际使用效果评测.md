@@ -52,11 +52,11 @@ slug: 20230523215935
 
 1）CNZZ
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849812273/8ea1a052-01fb-40df-bfff-86e8a93403e6.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849812273/8ea1a052-01fb-40df-bfff-86e8a93403e6.png)
 
 2）百度统计
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849818250/67176802-e360-4a72-bb7a-b4fe892eb299.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849818250/67176802-e360-4a72-bb7a-b4fe892eb299.png)
 
 上图数据经过处理。CNZZ和百度统计在美观易用全凭个人喜好，百度统计在今年下半年对页面进行了一次改版，美观性大大提高。
 
@@ -66,23 +66,23 @@ slug: 20230523215935
 
 一款网站分析软件，对于新手使用来说是有一定挑战的，如何更快的让新人上手，首先就是“帮助中心”设计的友好程度，如图示。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849831237/9060ed33-756f-48cc-91c0-9f5585f89fe7.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849831237/9060ed33-756f-48cc-91c0-9f5585f89fe7.png)
 
 百度统计“帮助”页面入口
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849842266/6906baa9-95ca-401c-b796-8c3d1c4851f3.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849842266/6906baa9-95ca-401c-b796-8c3d1c4851f3.png)
 
 CNZZ“帮助”页面入口
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849853650/69bb8618-9bc9-43c8-b65f-9b6a6fa895a6.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849853650/69bb8618-9bc9-43c8-b65f-9b6a6fa895a6.png)
 
 2）在线客服
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850347187/f468147a-58fe-4428-a8b3-8eacbac9bdf2.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850347187/f468147a-58fe-4428-a8b3-8eacbac9bdf2.png)
 
 CNZZ在线客服入口
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850341596/b94d4c61-948c-4516-aff1-a2c0263bd779.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850341596/b94d4c61-948c-4516-aff1-a2c0263bd779.png)
 
 百度统计在线客服无入口
 
@@ -132,11 +132,11 @@ UV（独立访客：Unique Visitor）
 
 并不是所有人都要把数据下载到本地分析，如何通过线上的简单调整就能看出数据走势及概况，也是数据统计软件需要解决的问题。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849917415/2bb6e75e-454b-40db-b071-6138b7605af4.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849917415/2bb6e75e-454b-40db-b071-6138b7605af4.png)
 
 2）下载数据
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849926359/476bda2c-a7df-4912-b023-a8cb17876999.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849926359/476bda2c-a7df-4912-b023-a8cb17876999.png)
 
 CNZZ和百度统计都有导出数据功能，但CNZZ只有CSV和XLS两种格式，百度统计有PDF和CSV两种格式，就易读性来说，百度统计的PDF给了简版图文报告+源数据报告，CNZZ则只有源数据报告，而且CNZZ还有个坑，**分析CNZZ源数据时，不能下载CSV，表中有隐藏符号（"），只计数，不统计**；就生成速度来说CNZZ秒开，二百度统计则会显示等待30秒至5分钟。
 
@@ -144,7 +144,7 @@ CNZZ和百度统计都有导出数据功能，但CNZZ只有CSV和XLS两种格式
 
 1.安装方法
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849993439/463a4405-3552-4144-98ae-3049fe084a6b.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684849993439/463a4405-3552-4144-98ae-3049fe084a6b.png)
 
 百度统计和CNZZ都有传统的手工安装代码方式，不同的是百度统计更加人性化，增加了“一键安装”功能，只需要输入FTP信息即可，照顾到了0代码基础的运营人员。
 
@@ -158,7 +158,7 @@ CNZZ和百度统计都有导出数据功能，但CNZZ只有CSV和XLS两种格式
 
 3.数据准确性
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850076711/91b8cec0-b1a2-4711-97d2-1ea7d0ba53bb.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850076711/91b8cec0-b1a2-4711-97d2-1ea7d0ba53bb.png)
 
 分别下载CNZZ和百度统计的一周“趋势分析”报表，EXCEL数据对比得出CNZZ统计得出的数据普遍比百度统计多，主要是由于不同软件的统计原理不同，甚至是服务器稳定性造成的。
 
@@ -168,11 +168,11 @@ CNZZ和百度统计都有导出数据功能，但CNZZ只有CSV和XLS两种格式
 
 使用“热力图”功能，可以指导网站分析人员得出不同页面对于用户的吸引程度，根据热力图的颜色深浅来判断页面是否需要改动。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850087820/31ba8335-58cc-4c0b-9f66-1ef9c49a3bf3.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850087820/31ba8335-58cc-4c0b-9f66-1ef9c49a3bf3.png)
 
 CNZZ设置入口
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850288017/0e153dd7-ec48-413e-a38d-a6cc81c6d78e.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850288017/0e153dd7-ec48-413e-a38d-a6cc81c6d78e.png)
 
 百度统计设置入口
 
@@ -182,11 +182,11 @@ CNZZ设置入口
 
 设置“事件转化”的目的在于统计网站页面诸如“返回顶部、赞、收藏、打分、展开收起隐藏层、TAB切换”等交互元素，便于用户行为分析。**需要前端配置代码**，运营人员可在厘清统计需求（类别+操作+标签）后要求技术设置。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850122446/5d561c82-0ad9-4570-82e4-f5d380dea6a9.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850122446/5d561c82-0ad9-4570-82e4-f5d380dea6a9.png)
 
 CNZZ设置入口
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850164815/8ef1d19a-a4a7-40fe-9ec3-f4e0712c50bf.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850164815/8ef1d19a-a4a7-40fe-9ec3-f4e0712c50bf.png)
 
 百度统计设置入口
 
@@ -194,13 +194,13 @@ CNZZ设置入口
 
 1）SEO推荐
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850181956/778f1fea-6118-4f92-a09c-ad3ca40cb3c5.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850181956/778f1fea-6118-4f92-a09c-ad3ca40cb3c5.png)
 
 SEO推荐功能入口
 
 2）人群价值
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850197699/7e361858-7a23-4c67-9246-7036abf85548.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850197699/7e361858-7a23-4c67-9246-7036abf85548.png)
 
 人群价值功能入口
 
@@ -210,9 +210,9 @@ SEO推荐功能入口
 
 百度统计拥有“转化路径”功能，分析人员可以根据漏斗模型模拟用户场景，通过数据“看见”用户在网站的哪些环节成功转化，哪些环节流失了，推荐所有网站运营人员学习。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850221617/5df31e95-0f3b-4b5c-8939-abbfe29ebd3e.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850221617/5df31e95-0f3b-4b5c-8939-abbfe29ebd3e.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850246166/6413341d-9f5a-413d-b123-3e4b08063721.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850246166/6413341d-9f5a-413d-b123-3e4b08063721.png)
 
 转化路径功能入口
 
@@ -220,7 +220,7 @@ SEO推荐功能入口
 
 百度统计对比CNZZ最大的优势在于百度的平台力量，在下半年百度统计调整之前，是没有“索引量”和“Robots”之类原属于百度站长的功能的。结合之后，减少了网站分析人员两头跑的情况。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850241615/deef0205-d0c7-4033-a4c2-b507e1732b6b.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684850241615/deef0205-d0c7-4033-a4c2-b507e1732b6b.png)
 
 优化分析入口
 

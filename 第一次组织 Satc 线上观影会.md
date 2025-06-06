@@ -19,7 +19,7 @@ tags: 5pe26ze06k6w5b2v, 5zgo5yik
 
 aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485032&idx=1&sn=acb21dab9e80298f57f65f3a9ea3a1c7&scene=21#wechat_redirect)分配如图示：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626288909/7f325018-8651-4fba-aafc-09999a755044.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626288909/7f325018-8651-4fba-aafc-09999a755044.jpeg)
 
 ### **大理落脚**
 
@@ -29,7 +29,7 @@ aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ=
 
 最大的问题还是吃，大理的小吃像凉拌粉、卷粉，米线之类的吃不惯，所以还是找自己熟悉的菜式，比如麻辣烫、饺子，盖饭，幸好在周边发现一家粉蒸羊肉不错，不过连吃几天也有些腻了，哈哈。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626295188/efc6e152-44a6-480b-8b75-0625a164fbb0.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626295188/efc6e152-44a6-480b-8b75-0625a164fbb0.jpeg)
 
 ### **SATC 观影会**
 
@@ -37,7 +37,7 @@ aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ=
 
 这是我第一次组织线上观影，也是第一次看《欲望都市》。我们在腾讯会议最多 105 人同时在线的情况下，由放映员 @持守 连播不暂停《欲望都市》第一季前 4 集。体验比我想象的流畅多了，完全不卡。梦回童年电视台追剧。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626314467/b67f37de-4f38-401c-bba0-816cbc843e78.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626314467/b67f37de-4f38-401c-bba0-816cbc843e78.png)
 
 感觉挺不错的，这部 25 年前美剧里讨论的话题放到今天依然不过时。到今天，我们似乎仍然不能开阔的谈论性与爱，不能坦诚布公的聊彼此的需求和感受。
 
@@ -51,7 +51,7 @@ aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ=
 
 后来我想到张老师微博说的，「**长期来看，没有什么比输入信息的质量以及身体健康这两件事更重要的东西了。**」这是项值得深耕的工作，所以我在飞书整理了编辑部和星球 #值得一读# 标签下的推荐材料，在张老师的允许下全网公开，以飨读者。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626319057/4f380ada-39ca-4fde-a9af-0dab42bee7e7.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692626319057/4f380ada-39ca-4fde-a9af-0dab42bee7e7.jpeg)
 
 后来我带着整理好的文档和对编辑部的问题，加了编辑部的群，参加了大家时隔一年的线上回顾会议，大家一起聊停更的这一年都做了些什么。有辞职去澳洲读书的、有在纽约找到 Web3 工作的、有去沙特开公司的，也有继续在大理休养生息的……我们线上聊了 3 个小时，约好两周后再碰一次。
 

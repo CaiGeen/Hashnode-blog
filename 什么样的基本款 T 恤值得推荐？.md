@@ -8,7 +8,7 @@ slug: 20230524112116
 
 读《躺着赚钱2》里面提到了分析自己的衣橱。
 
-![](https://pic3.zhimg.com/80/v2-34593649e54f0692dee813f8053f387c_1440w.jpg align="left")
+![](https://pic3.zhimg.com/80/v2-34593649e54f0692dee813f8053f387c_1440w.jpg)
 
 发现我最常穿的单品还是T恤，但是我现在穿的T恤都已经是2年前的了。
 
@@ -22,11 +22,11 @@ slug: 20230524112116
 
 **我着重选择淘宝：ifashion+好评率99.5%以上+3年以上老店。**
 
-![](https://pic1.zhimg.com/80/v2-6f1db803e40d835c4306dbc429c45e3a_1440w.jpg align="left")
+![](https://pic1.zhimg.com/80/v2-6f1db803e40d835c4306dbc429c45e3a_1440w.jpg)
 
 然后一次性买了11家店的T恤！没错就是**11件**！每家店铺选了个代表T恤。
 
-![](https://pic1.zhimg.com/80/v2-be317af6af58ab6fbc875666526d9585_1440w.jpg align="left")
+![](https://pic1.zhimg.com/80/v2-be317af6af58ab6fbc875666526d9585_1440w.jpg)
 
 从拿到手的包装到重量，到拆开包装袋的T恤布料质感，最后上身的感觉，就差过水了！
 
@@ -34,7 +34,7 @@ slug: 20230524112116
 
 图片对比拍少了，有一部分没拍照就退回了。
 
-![](https://pic3.zhimg.com/80/v2-12e091843cecb909932d6826fb0d6fce_1440w.jpg align="left")
+![](https://pic3.zhimg.com/80/v2-12e091843cecb909932d6826fb0d6fce_1440w.jpg)
 
 觉得写出来也能帮大家少走点儿弯路。
 
@@ -48,7 +48,7 @@ OK，然后**直接说结果：GWIT九尾&gt;BGOY=嘿马七作&gt;Cotton偏执�
 
 包装是纸盒的，然后拆袋面料很厚，衣服上的小细节也不错。
 
-![](https://pic4.zhimg.com/80/v2-bceeadffac720a5e266b948b898587a4_1440w.jpg align="left")
+![](https://pic4.zhimg.com/80/v2-bceeadffac720a5e266b948b898587a4_1440w.jpg)
 
 M码数偏大，但是能接受。
 

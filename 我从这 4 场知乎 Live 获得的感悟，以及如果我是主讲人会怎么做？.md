@@ -14,7 +14,7 @@ slug: 20230523122154
 
 （1）
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684815649710/4a46926c-c559-4999-ba45-39a173019f4f.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684815649710/4a46926c-c559-4999-ba45-39a173019f4f.png)
 
 标题：**如何长期拥有性感腹肌马甲线？**
 

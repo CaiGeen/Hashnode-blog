@@ -19,7 +19,7 @@ tags: 5pe26ze06k6w5b2v, 5zgo5yik
 
 aTimeLogger [记录时间](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485032&idx=1&sn=acb21dab9e80298f57f65f3a9ea3a1c7&chksm=eb21b42cdc563d3a565d6c98ad7010303e68799b4f29c829a6c1fd89ff190878ddb44f22a899&scene=21#wechat_redirect)分配如图示：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684814402860/dbd789be-f161-4942-a7ef-5c0e97f9215e.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684814402860/dbd789be-f161-4942-a7ef-5c0e97f9215e.jpeg)
 
 上周「[遗书计划](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487702&idx=1&sn=302b48087aa484fcfe9412f3fc3785cf&chksm=eb21a292dc562b846924e5c612ff1df6b95569c065911b8a549df5227981822cf766d2f97b51&scene=21#wechat_redirect)」之后，我开始整理随手记的 200+ 条待办清单，分门别类、提炼重点重新保存到滴答清单。整理的过程中[又动了歪脑筋](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247487444&idx=1&sn=6bd4497e014c84cc24a165b0cc4967b0&chksm=eb21bd90dc563486a1df5e7de213e2f5b3fd75e329e32873a275d22debc31a271760f516d6a2&scene=21#wechat_redirect)，想把为知笔记存档同步到 Obsidian 或 Notion，总觉得卡片大法、双链很酷，列了个调整的大纲后又不想动了…… 既然是个体力活，要做就「一劳永逸」嘛。什么是更适合 100 年存档的平台？想来想去还得是 GitHub。阮一峰的《科技爱好者周刊》简洁美不酷吗？于是开始动手把所有文章同步到 GitHub，大工程 🤣
 
@@ -29,7 +29,7 @@ aTimeLogger [记录时间](http://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=
 
 这次除了清空，我还把相似的待办手动归类，丢进「项目」文件夹，试着找人生主线。最终留下了数字遗产、榜样清单、优秀作品、我的创作、技术派、喜好库，这 6 项。这么做还有个好处是，突发奇想无法归类的待办，比如「学做歌」，可能我也不是真的想做，就是羡慕别人帅的拍脑袋待办而已。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684814406374/25ccf811-4ae1-4e2d-b50a-b5ff87cc7d49.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684814406374/25ccf811-4ae1-4e2d-b50a-b5ff87cc7d49.png)
 
 ### **GitHub**
 

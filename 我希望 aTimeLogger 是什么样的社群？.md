@@ -65,7 +65,7 @@ slug: 20230522104051
 2. 斗图【无意义】
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684723226853/662205e2-4b0d-4f4c-8ad2-d74f3b7cc436.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684723226853/662205e2-4b0d-4f4c-8ad2-d74f3b7cc436.jpeg)
 
 \[拒绝\]
 

@@ -48,7 +48,7 @@ tags: 5bel5yw3566x
 
 如果在外面，想到什么，会直接打开微信发送内容到微信文件传输助手。如果在家，手边有电脑，临时性的记录（比如要复制粘贴的链接）会直接按快捷键呼出记事本，记着；如果是今后要做的待办，就得按快捷键 Ctrl+Shift+A 呼出[滴答清单](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485514&idx=1&sn=025245fbf1040fce89e8043c7740de3c&chksm=eb21ba0edc563318314fa23422b459d43810f0572f5446a077723c0a53e1ecc951b617ac199e#rd)录入；每晚的回顾日记，会打上时间戳，写进 [Excel](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485913&idx=1&sn=ac117f635cace492b8b3954e11dae22b&chksm=eb21bb9ddc56328b8e045b30ee24af4576fb8d33c3982e1049028fe460b38d33c19abbc8325a#rd)。如果想到的事有分享价值，会顺手发到微博。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696300297928/ed109036-823a-4c7f-bda9-a8f28cd419c1.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696300297928/ed109036-823a-4c7f-bda9-a8f28cd419c1.png)
 
 ### 文章
 

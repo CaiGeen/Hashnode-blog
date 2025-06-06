@@ -8,7 +8,7 @@ slug: 20230522110133
 
 2018 年 3 月 22 日晚，Sergei Zaplitny（以下简称 Zaplitny）在 aTimeLogger 的 “关于” 里加了个 “加入中国用户微信群” 的入口，我和 Zaplitny 上线了 “aTimeLogger-China” 微信群。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684724468363/d7b145be-07ff-4c13-9e8d-096e6d160e8b.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684724468363/d7b145be-07ff-4c13-9e8d-096e6d160e8b.jpeg)
 
 在这之前，我一直通过邮件和微信的方式，帮他汉化 aTimeLogger 安卓版，提出我的想法和建议。后来我问他，愿不愿意在中国组建一个用于 aTimeLogger 中国用户交流的社群，我可以帮忙，他说可以，因为外国版本微信和语言问题等，我成了社群运营兼群主。
 
@@ -16,7 +16,7 @@ slug: 20230522110133
 
 2018 年 12 月 6 日，通过 aTimeLogger 软件加我微信的人接近 1000，群经过 4 次清退，群成员人数徘徊在 450 人左右，相比早期的冷清，活跃成员和牛人大咖越来越多。我们有了不断完善的群规，有了资料共享的云盘，有了一起维护的 aTimeLogger 常见问题手册。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684724472556/a5dfbf2d-d516-4191-8919-84bbe4ad33af.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684724472556/a5dfbf2d-d516-4191-8919-84bbe4ad33af.jpeg)
 
 这一切，感谢 aTimeLogger 的开发者 Zaplitny，也感谢为 aTimeLogger 做贡献的所有人。
 
@@ -28,7 +28,7 @@ slug: 20230522110133
 
 和 Zaplitny 认识是通过 aTimeLogger 的 1 次 bug—— 在通知栏点击停止无反应，严重影响了使用，我等不及把修复的希望寄托在下次版本更新，就去找开发者的联系方式，没想到软件里就有，给 Zaplitny 发了邮件，几天之后 Zaplitny 回我，然后着手帮我修复了这个问题。aTimeLogger 慢慢成了我高频使用的软件，但是实在看不惯安卓版里半中半英的界面，我这个英语渣凭着对软件的喜爱，自告奋勇说，我帮你汉化吧。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684724476226/c4c40d21-5fbf-4c57-81d2-020d644e9bcb.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684724476226/c4c40d21-5fbf-4c57-81d2-020d644e9bcb.jpeg)
 
 断断续续研究了半年，我和 Zaplitny 解决了安卓版的汉化、中国用户捐助问题，还建了微信群。我建群的初衷是想给所有 aTimeLogger 的中国用户提供一个交流平台，如果要说有私心，那就是间接提高个人影响力，以后让大家提到 aTimeLogger 会联想到我。
 

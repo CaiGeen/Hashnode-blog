@@ -19,7 +19,7 @@ tags: 5pe26ze06k6w5b2v, 5zgo5yik
 
 aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247485032&idx=1&sn=acb21dab9e80298f57f65f3a9ea3a1c7&scene=21#wechat_redirect)分配如图示：
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693212385250/00f50f27-6377-4b4b-91ff-9243358f1cc6.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693212385250/00f50f27-6377-4b4b-91ff-9243358f1cc6.jpeg)
 
 ### **84000 巴士报**
 
@@ -31,7 +31,7 @@ aTimeLogger [**记录时间**](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ=
 
 人工做了 2 期周刊，就叫《巴士报》。我开始想怎么自动化，让我在没时间的时候也能快速做出东西来。首先想到的方案就是每周抓取星球的帖子，然后把帖子扔给 AI 总结 30 字左右的摘要和关键词。调教了 1 天 Claude，效果还不错。算是个备选方案。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693212390285/d18fe282-2561-4ca7-ba27-9dc9bd98f21d.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693212390285/d18fe282-2561-4ca7-ba27-9dc9bd98f21d.png)
 
 ### **Claude＆ChatGPT**
 
@@ -45,7 +45,7 @@ AI 工具里，我最喜欢 Claude。
 
 我经常把 Claude 用到没会话额度。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693212393416/951e539c-7ada-401b-b9d2-fffb65808362.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693212393416/951e539c-7ada-401b-b9d2-fffb65808362.png)
 
 想给 Claude 付费结果人现在还没开通付费入口，填了表单，继续等。用 POE 集合的接口又像个智障，我发啥它都 ✘。今天早上是系统升级还是咋的，居然要短信验证，去 SMS 买了个虚拟号才通过。
 
