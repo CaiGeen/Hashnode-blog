@@ -10,7 +10,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748010730029/f3045bb
 
 从 2014 年开始，我就用 Excel 写日记，共计 2 万多条，22 万字。我每 2 年切分一次，以 .txt 的文件形式上传到 Google NotebookLM，让它分析我这些年做了什么，有什么潜在的行为模式和性格特征。效果，emm……
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748010746110/82110467-1231-4dac-bb7c-96f88a3c1826.png)
 
 虽然现在 AI 处理的效果一般，有很多幻觉，输出内容也经常错漏，但只要有原始数据，等风来就行。Excel 作为承载器，胜在稳定。一些简单的需求，也能用 VBA 实现。
 
@@ -27,15 +27,15 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748010730029/f3045bb
 
 功能如标题，快速跳转到对应日期，主要起回顾的作用。点一下`去年今日`就筛选出所有去年今天我写的日记；点一下`往年今日`就筛选出历年所有今天我写的日记；点一下`随机日记`就从所有日记中随机挑 10 条日记显示。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748010761116/e28bb572-9c90-4105-90d1-674f9ed283a6.png)
 
 第一版本的想法是 2017 年我用 Excel 录制宏做的，只能筛选，鸡肋。2019 年的我做时间记录模板的时候，顺便去 ExcelHome 论坛[发帖](https://club.excelhome.net/thread-1455731-1-1.html)求助，有位热心的大佬 @ivccav 帮我写了 VBA，小修小补后开箱即用，完美解决了我的需求，一直沿用到今天。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748010792655/23fe11d7-1084-4a88-a115-1252b3c3a42e.gif)
 
 今天晚上心血来潮，口述需求让 Grok 帮我写个`随机日记`的功能，5 分钟不到搞定。哎呀，想到 AI 大爆发后，ExcelHome、StackOverflow 这些工具性强的网站，都沦为 AI 的养料了。会不会有一天，人也只是饲料，那我们到底在喂养什么呢。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748010782643/c227cf48-6b17-4230-98f7-12b00909bacb.png)
 
 ---
 

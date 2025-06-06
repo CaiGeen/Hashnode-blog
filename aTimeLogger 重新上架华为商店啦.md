@@ -19,7 +19,7 @@ tags: 5pe26ze06k6w5b2v, 5zgo5yik
 
 aTimeLogger [记录时间](https://mp.weixin.qq.com/s/iufaGiryP9kOomakbNpdOg)分配如图示：
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696243406542/8add956a-17b8-4e5b-9307-79f3fe267bf7.jpeg)
 
 ### 旧物新漆
 
@@ -31,13 +31,13 @@ aTimeLogger [记录时间](https://mp.weixin.qq.com/s/iufaGiryP9kOomakbNpdOg)分
 
 蹲洪湖大闸蟹店家第一波上市，看到店家开卖了，就买了 10 只尝尝，不过确实有点儿早，黄稀且苦，再等半个月吧。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696243582067/45ce7141-bf03-4914-ae1e-86a9f418d9fb.jpeg)
 
 ### aTimeLogger 上架华为商店
 
 终于！我 TMD 终于！把 aTimeLogger 上架了华为商店了。和开发者盘算了一下，从申请软著到 ICP 备案再到 APP 备案，来来回回一年多了。感动哭了，好难。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696243437012/d358aca2-dd88-4eac-af99-ceaf26ddf2bd.jpeg)
 
 好了，本周就这些。
 

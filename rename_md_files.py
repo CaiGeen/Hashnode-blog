@@ -1,4 +1,4 @@
-import os
+﻿import os
 import re
 import yaml
 
@@ -8,6 +8,10 @@ PROPER_NOUNS = {
     "chatgpt": "ChatGPT",
     "llm": "LLM",
     "atimelogger": "aTimeLogger",
+    "qq": "QQ",
+    "roi": "ROI",
+    "ted": "TED",
+    "gafata": "GAFATA",
     # 在此添加其他需要保护的术语...
 }
 

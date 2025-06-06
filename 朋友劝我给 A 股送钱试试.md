@@ -16,7 +16,7 @@ slug: 20230521142756
 
 我说了一堆脏话，然后他笑说，“我就是那种要犯一下小错才会改正的人。”
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684650412770/545134a0-3d70-41d8-aa1a-e74bacac48d2.jpeg)
 
 理财投资这件事，我始终坚持一个原则，“**不懂不投**”。
 
@@ -24,7 +24,7 @@ slug: 20230521142756
 
 模拟盘不行吗？
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684650418595/71d907c3-472c-4a24-96bc-19df45cfecfc.png)
 
 \[模拟盘，平均涨幅 50%\]
 
@@ -34,7 +34,7 @@ slug: 20230521142756
 
 来，我先贴一张我从去年 9 月开始定投的收益。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684650427228/7f357a50-14a6-4f28-b336-3cb9567bcb1c.jpeg)
 
 我就读了几本书，持仓收益 28%，可以吧？
 
@@ -60,6 +60,6 @@ slug: 20230521142756
 
 就有人不信，就是想亏钱。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684650443711/efbd95a0-5088-49bd-9d38-24f0c9f65812.jpeg)
 
 算了，各有各的韭菜命，懒得说了。

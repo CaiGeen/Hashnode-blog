@@ -11,11 +11,11 @@ tags: 5qac5qc35lus
 
 看《The Tim Ferriss Show》第 [668](https://youtu.be/0BaDQCjqUHU) 期节目，第一次知道 Derek Sivers（德雷克·西弗斯）。好奇他怎么能让费里斯愿意从美国飞十几个小时到新西兰见面？第一印象，是个衣着得体、嗓音低沉，极客范儿的光头白人。两人聊天很有火花，一看就是老朋友。他俩从技术独立聊到怎么向导师求助，又聊到斯多葛主义和忽略社会规范……Tim Ferriss（蒂姆·费里斯）在节目里说德雷克是他见过情绪最稳定的人，没想到最后德雷克讲到和孩子的故事时在节目里抽泣。感动。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703139098199/59bc442c-94e9-439d-b18b-a32ace05d308.jpeg)
 
 听完后查资料发现德雷克就是 2010 年 TED 演讲《[不要公开宣布你的个人目标](https://www.ted.com/talks/derek_sivers_keep_your_goals_to_yourself/transcript?language=zh-cn)》作者。啊？原来是他？完全对不上号！
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703139130646/30d3dc31-a114-4732-b8a6-cb386de1be46.jpeg)
 
 Derek Sivers 是谁？1969 年生于美国加利福尼亚州。5 岁起就各地漂泊。17 岁离家去伯克利音乐学院上学。20 岁提前毕业，搬到纽约，在华纳查普尔音乐工作。23 岁辞去工作，发誓再也不打工了。25 岁成立 Professional Pests 校园演出团。29 岁创立 CD Baby 独立音乐在线分销公司，经营 10 年后，2008 年被 Disc Makers 公司以 2200 万美元价格收购。41 岁放弃美国国籍，四海为家。他住过纽约、洛杉矶、旧金山、柏林、里约、冰岛、北京、桂林，牛津，拉各斯和孟买……他是「印度海外公民」，也是新加坡，新西兰和比利时的合法居民。现在是单亲爸爸，和 11 岁的儿子暂居新西兰。
 
@@ -72,7 +72,7 @@ Derek Sivers 是谁？1969 年生于美国加利福尼亚州。5 岁起就各地
 
 德雷克的博客就是个宝库，里面有他自 2000 年写下的文字，430 多篇文章，所有他的视频、采访，会议和上过的播客，都有记录。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703139134868/8d9d4dc3-0b6c-4935-871c-ff9fe1f0897d.jpeg)
 
 先写到这开个头，把 Derek Sivers 介绍给大家。后面我还会继续写我从他身上学到的，具体的做事的方法和受到的启发 😀
 

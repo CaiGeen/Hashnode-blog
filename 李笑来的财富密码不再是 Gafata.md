@@ -18,7 +18,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717570627965/2e392a3
 
 > 假设 2017 年 2 月初 7 只股票等额等比一次性买入，死拿到今天，总收益率 248.6%，年化收益率约 33.5%。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717570658750/a846c653-1f15-4f5b-aab0-645852e023cf.png)
 
 妥妥地跑赢大盘。
 
@@ -30,7 +30,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1717570627965/2e392a3
 
 > 那么假设 2023 年 4 月初，我对 5 只股票等额等比按月定投，拿到今天，总收益率 15.1%，年化收益率约 13.6%。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1717570684242/ae300fcd-6d07-463a-a3f6-76df00dfe028.png)
 
 我相信一定有人通过 GAFATA 赚到钱。那去深究为什么我没赚到钱就很有意思了。因为没有美股、港股账户不知道怎么操作？因为不信任李笑来不敢？因为没钱等等？更重要的问题是，GAFATA 公开 7 年了，接下来我准备做些什么吗？
 

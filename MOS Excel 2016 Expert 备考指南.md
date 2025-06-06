@@ -10,7 +10,7 @@ slug: 20230521141945
 
 满分 1000 分，700 分过线，考了 910 分。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649966537/6b9540fd-15b6-4e9d-a1c6-9c2e46f8881c.jpeg)
 
 其实考了 2 次，第一次自以为无敌，只花了 2 个小时备考，结果只考了 670 挂了。
 
@@ -18,7 +18,7 @@ slug: 20230521141945
 
 这篇文章是我备考 MOS（Microsoft Office Specialist）Excel 2016 Expert 的全部经验，与大家分享。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649879641/24dbbd8a-7b11-41a3-b5b4-f2cf1fddf0e1.jpeg)
 
 太长不看，提取关键内容：
 
@@ -49,15 +49,15 @@ slug: 20230521141945
 
 首先买**《微软办公软件国际认证 MOS Office 2016 七合一高分必看》**的书，回来看完了书里的 9 个考试项目，知道了 **Expert 大概的考试范围和我的能力匹配度**。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649888314/612ccb10-4dc7-446d-95d3-b60a01317511.jpeg)
 
 接着找书籍的编著答得喵（客服 QQ：4000131135）要增补视频，提供你的姓名电话和实体书朋友圈晒图，再注册答得喵官方账号，客服核查后会帮你开通增补视频。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649900592/eefed50c-f1e0-46cb-9590-4ae66f35c4fb.jpeg)
 
 如果想熟悉考试时的上机环境，答得喵团队开发有练习软件，模拟考试界面，很好用，但是只有 1-9 个项目，10-18 项目需要自己下载题目**（需要打包好的题目的同学，请在公众号回复 “Excel” 获取下载链接）**自己做。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649905931/6ede0321-5e5c-4ae5-8be1-29d7197b104b.jpeg)
 
 等你把每道题都至少做过 3 遍以后（不论新手老手），可以在答得喵公众号菜单栏选择 MOS 缴费报名。
 
@@ -69,7 +69,7 @@ slug: 20230521141945
 
 如果你看了一眼题目觉得很简单，心理上藐视考试就可以了，千万不要像我一样战术上也藐视考试，飘了就挂了。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649915342/087f0744-b22c-488b-8f7a-f9ac379fcc07.jpeg)
 
 你是能熟练掌握 sumif，countif，vlookup，if 等函数，透视表各种拖拽手速飞快的熟手，我建议你每到考试题实操 2 遍，再调出难题，多实操 1 遍，共计花费 10 小时左右。
 
@@ -89,7 +89,7 @@ slug: 20230521141945
 
 考试中我能想到的需要注意的点就这些，如果大家还有其他疑问，可以登录 “答得喵” 的页面查看问题集锦，团队做得非常详细！
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649930111/e6bd2e70-d02f-4b0b-a3b4-d694e30728b3.jpeg)
 
 考完爽了 10 分钟，但是马上就缓过来了，想把大师证也考了...
 
@@ -101,6 +101,6 @@ slug: 20230521141945
 
 最后我要说，想倒逼自己学习的同学，你们的舞台来了，直接报四科连考，1 年时间，不考试钱就白花了，不学都不行。
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684649938396/7e148846-1535-4e36-8057-47c35d1d200a.jpeg)
 
 祝大家逢考必过 💪

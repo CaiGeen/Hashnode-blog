@@ -15,7 +15,7 @@ tags: 5pe26ze06k6w5b2v
 
 ChatGPT-3.5 的回答如图：
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682424300809/b8aa01ac-b0c8-4c4f-b150-14d25068ad7a.jpeg)
 
 除了常见的沟通、合作，通用软件技能，它还补充了越来越重要的技能，比如：
 
@@ -46,7 +46,7 @@ ChatGPT-3.5 的回答如图：
 
 我的回答就在问题里。接下来，首先上场的答者是 ChatGPT-3.5，如图，它说：
 
-![](url)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682424319989/bf786e2e-5e21-40ec-85fc-05f1ea3bfce8.png)
 
 > 1. 学习如何搜索和评估信息的能力
 >     
