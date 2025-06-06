@@ -1,5 +1,5 @@
 # [涂俊杰](https://nextjs-notion-starter-kit-peach-seven.vercel.app/)的文章备份
-前段时间更新「[遗书计划](https://blog.tujunjie.com/20230521150531)」，才发现什么都备份了，唯独文章四散，所以借机把文章[归集一处](https://github.com/CaiGeen/Hashnode-blog/blob/main/Archive%20of%20%E6%B6%82%E4%BF%8A%E6%9D%B0JunJie.csv)。
+前段时间更新「[遗书计划](https://blog.tujunjie.com/20230521150531)」，才发现什么都备份了，唯独文章四散，所以借机把文章[归集一处](https://github.com/CaiGeen/Hashnode-blog/blob/main/Table/Archive%20of%20%E6%B6%82%E4%BF%8A%E6%9D%B0JunJie%20blog.csv)。
 
 我是那个语文作业可选摘抄或随笔，一定选写随笔的同学。从学生时代的 QQ 空间日志写到公众号，加上工作后内训文档和投稿，居然只有 300 多篇文章，还是不够勤，怎么也得写到 1000 😂
 
