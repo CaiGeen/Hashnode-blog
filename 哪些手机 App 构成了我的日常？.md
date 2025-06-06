@@ -6,7 +6,7 @@ slug: 20230521164602
 
 ---
 
-![选题得分第 2 高，阅读原文投票](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658636999/be52c6d7-590d-48e5-8f49-44dd6d51838f.png align="center")
+![选题得分第 2 高，阅读原文投票](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658636999/be52c6d7-590d-48e5-8f49-44dd6d51838f.png)
 
 双叒没想到，“我正在使用的所有 APP” 这个选题得分居然第二名！
 
@@ -32,11 +32,11 @@ slug: 20230521164602
 * aTimeLogger
     
 
-![通知栏常驻](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658660641/37ce3378-8fe8-48da-99f9-a812cf54e333.jpeg align="center")
+![通知栏常驻](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658660641/37ce3378-8fe8-48da-99f9-a812cf54e333.jpeg)
 
 **03 丨首屏＆二屏**
 
-![高频软件](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658679942/e7e13204-1f42-44a2-b8cd-02da52f591bb.jpeg align="center")
+![高频软件](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658679942/e7e13204-1f42-44a2-b8cd-02da52f591bb.jpeg)
 
 这些都是高频使用的软件。
 
@@ -53,11 +53,11 @@ slug: 20230521164602
 * QQ
     
 
-![锁后台应用](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658721928/50d10f62-8689-471b-8936-429c301ef4e0.jpeg align="center")
+![锁后台应用](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658721928/50d10f62-8689-471b-8936-429c301ef4e0.jpeg)
 
 **05 丨所有应用**
 
-![所有 APP 的全家福](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658696905/bc8b0db1-3adb-4eba-af61-01be8dc6204b.jpeg align="center")
+![所有 APP 的全家福](https://cdn.hashnode.com/res/hashnode/image/upload/v1684658696905/bc8b0db1-3adb-4eba-af61-01be8dc6204b.jpeg)
 
 * 网易云音乐：听歌用，但主力还是 PC，移动端不喜欢戴耳机。
     

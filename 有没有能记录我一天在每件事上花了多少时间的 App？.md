@@ -13,11 +13,11 @@ slug: 20230521162250
 * **移动端主力：atimelogger**
     
 
-![时间账本](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657259900/111299fa-6fff-469b-aed1-e64149069265.jpeg align="center")
+![时间账本](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657259900/111299fa-6fff-469b-aed1-e64149069265.jpeg)
 
-![数据导出.CSV](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657266193/ffd027f6-58a7-4fe0-807a-ab519488fbed.png align="center")
+![数据导出.CSV](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657266193/ffd027f6-58a7-4fe0-807a-ab519488fbed.png)
 
-![Excel 自定义分析](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657291588/90eac05f-98dc-4947-914b-d35ed1ccc758.png align="center")
+![Excel 自定义分析](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657291588/90eac05f-98dc-4947-914b-d35ed1ccc758.png)
 
 安卓链接：[http://t.cn/Ru8CIes](http://t.cn/Ru8CIes)
 
@@ -30,7 +30,7 @@ atimelogger 现在还有中国区[爱好者交流群](http://mp.weixin.qq.com/s?
 * **移动端辅助：应用定时器 2**
     
 
-![软件界面](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657276462/ac0d2b8c-0451-4362-b3e9-b4ef9337ee14.jpeg align="center")
+![软件界面](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657276462/ac0d2b8c-0451-4362-b3e9-b4ef9337ee14.jpeg)
 
 应用定时器可以统计对应软件的打开时间，也能设置同步 APP 耗时目标，用于统计人均 4 小时的手机上时间黑洞。
 
@@ -39,11 +39,11 @@ atimelogger 现在还有中国区[爱好者交流群](http://mp.weixin.qq.com/s?
 * **电脑端辅助：RescueTime**
     
 
-![官网](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657333255/a3690102-e03f-4384-adee-328ae07a80a5.jpeg align="center")
+![官网](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657333255/a3690102-e03f-4384-adee-328ae07a80a5.jpeg)
 
-![via. 陈华伟](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657337516/d7e0e7c8-f49d-46d9-8991-563b9508427d.jpeg align="center")
+![via. 陈华伟](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657337516/d7e0e7c8-f49d-46d9-8991-563b9508427d.jpeg)
 
-![via. 陈华伟](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657242152/9d280d7c-6487-4e91-aa1d-e9174c9c32bf.jpeg align="center")
+![via. 陈华伟](https://cdn.hashnode.com/res/hashnode/image/upload/v1684657242152/9d280d7c-6487-4e91-aa1d-e9174c9c32bf.jpeg)
 
 电脑端常驻后台，自动统计软件耗时。
 

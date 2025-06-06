@@ -17,9 +17,9 @@ slug: 20230521161236
 
 整体来说，除了 “**导出的数据格式**” 和安卓 aTimeLogger 不统一，需要修改 VBA 有点儿麻烦之外，其他都还好。
 
-![安卓 aTimeLogger 数据导出](https://cdn.hashnode.com/res/hashnode/image/upload/v1684656715533/ae254411-cc07-4294-8952-592f6ac9e7af.png align="center")
+![安卓 aTimeLogger 数据导出](https://cdn.hashnode.com/res/hashnode/image/upload/v1684656715533/ae254411-cc07-4294-8952-592f6ac9e7af.png)
 
-![iOS TimeTrack 数据，注意日期格式变了](https://cdn.hashnode.com/res/hashnode/image/upload/v1684656724806/25d8e3ea-fcfa-4db6-8c53-a7d49a227606.png align="center")
+![iOS TimeTrack 数据，注意日期格式变了](https://cdn.hashnode.com/res/hashnode/image/upload/v1684656724806/25d8e3ea-fcfa-4db6-8c53-a7d49a227606.png)
 
 如果你也像我一样是 aTimeLogger 转 TimeTrack，分享你我更换前的准备工作：
 
