@@ -58,13 +58,14 @@ def normalize_title(title):
 
 def clean_image_links(content):
     """移除 Markdown 图片链接中的 align='center', align='left', align='right', align="center", align="left", 或 align="right" 属性"""
-    # 匹配图片链接，捕获 URL，支持单引号或双引号的 align 属性（center, left, right）
-    pattern = re.compile(r'!\[\]\((https?://[^\s)]+)(?:\s+align=(?:\"(?:center|left|right)\"|\'(?:center|left|right)\'))?\)')
+    # 匹配图片链接，捕获 alt 文本和 URL，支持单引号或双引号的 align 属性（center, left, right）
+    pattern = re.compile(r'!\[(.*?)\]\((https?://[^\s)]+)(?:\s+align=(?:\"(?:center|left|right)\"|\'(?:center|left|right)\'))?\)')
     
     def replace_image(match):
-        url = match.group(1)
+        alt = match.group(1)
+        url = match.group(2)
         original = match.group(0)
-        cleaned = f'![]({url})'
+        cleaned = f'![{alt}]({url})'
         print(f"Debug: Cleaned image link from '{original}' to '{cleaned}'")
         return cleaned
     
