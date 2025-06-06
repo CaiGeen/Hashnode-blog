@@ -20,7 +20,7 @@ jobs:
           pip install pyyaml
           pip show pyyaml
       - name: Run rename script
-        run: python rename_md_files.py
+        run: python Script/rename_md_files.py
       - name: Commit changes
         run: |
           git config user.name "GitHub Action"
