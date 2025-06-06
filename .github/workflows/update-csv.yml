@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '*.md'  # 检测根目录下的 .md 文件变化
+  workflow_dispatch:  # 添加手动触发事件
 
 jobs:
   update-csv:
