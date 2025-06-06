@@ -1,4 +1,4 @@
-﻿import os
+import os
 import re
 import yaml
 
@@ -57,9 +57,9 @@ def normalize_title(title):
     return title
 
 def clean_image_links(content):
-    """移除 Markdown 图片链接中的 align='center' 或 align="center" 属性"""
-    # 匹配图片链接，捕获 URL，支持单引号或双引号的 align 属性
-    pattern = re.compile(r'!\[\]\((https?://[^\s)]+)(?:\s+align=(?:"center"|\'center\'))?\)')
+    """移除 Markdown 图片链接中的 align='center', align='left', align='right', align="center", align="left", 或 align="right" 属性"""
+    # 匹配图片链接，捕获 URL，支持单引号或双引号的 align 属性（center, left, right）
+    pattern = re.compile(r'!\[\]\((https?://[^\s)]+)(?:\s+align=(?:\"(?:center|left|right)\"|\'(?:center|left|right)\'))?\)')
     
     def replace_image(match):
         url = match.group(1)
@@ -72,7 +72,7 @@ def clean_image_links(content):
     
     # 检查是否找到任何图片链接
     if cleaned_content == content:
-        print("Debug: No image links with align='center' or align=\"center\" found in content")
+        print("Debug: No image links with align='center', align='left', align='right', align=\"center\", align=\"left\", or align=\"right\" found in content")
     
     return cleaned_content
 
