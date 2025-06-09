@@ -12,11 +12,17 @@ PROPER_NOUNS = {
     "roi": "ROI",
     "ted": "TED",
     "gafata": "GAFATA",
+    "TradingView": "TradingView",
+    "Claude": "Claude",
+    "SEO": "SEO",
+    "Xmind": "Xmind",
+    "SergeiZaplitny": "Sergei Zaplitny",
+    "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
     # 在此添加其他需要保护的术语...
 }
 
 def normalize_title(title):
-    """规范化标题：中文与英文/数字间加空格，保护专用名词大小写"""
+    """规范化标题：中文与英文/数字间加空格，保护专用名词大小写，保留标点"""
     if not title:
         print("Warning: Empty title provided")
         return ""
@@ -24,7 +30,7 @@ def normalize_title(title):
     original_title = title
     print(f"Debug: Original title: {title}")
     
-    # 先在中文和英文之间添加空格
+    # 在中文和英文之间添加空格
     title = re.sub(r'([\u4e00-\u9fff])([a-zA-Z])', r'\1 \2', title)
     title = re.sub(r'([a-zA-Z])([\u4e00-\u9fff])', r'\1 \2', title)
     
@@ -34,17 +40,13 @@ def normalize_title(title):
     
     print(f"Debug: After adding spaces: {title}")
     
-    # 专用名词替换
+    # 专用名词替换，使用词边界确保精确匹配
     for term, replacement in PROPER_NOUNS.items():
-        # 匹配开头、空格、非单词字符，后面跟着术语，再后面是结尾、空格或非单词字符
-        pattern = re.compile(
-            rf'(^|\s|[^\w\s])({re.escape(term)})($|\s|[^\w\s])',
-            re.IGNORECASE
-        )
+        pattern = re.compile(rf'\b{re.escape(term)}\b', re.IGNORECASE)
         matches = pattern.finditer(title)
         for match in matches:
-            print(f"Debug: Found term '{match.group(2)}' at position {match.start(2)}-{match.end(2)}")
-        title = pattern.sub(r'\1' + replacement + r'\3', title)
+            print(f"Debug: Found term '{match.group(0)}' at position {match.start()}-{match.end()}")
+        title = pattern.sub(replacement, title)
     
     print(f"Debug: After proper noun replacement: {title}")
     
@@ -58,7 +60,6 @@ def normalize_title(title):
 
 def clean_image_links(content):
     """移除 Markdown 图片链接中的 align='center', align='left', align='right', align="center", align="left", 或 align="right" 属性"""
-    # 匹配图片链接，捕获 alt 文本和 URL，支持单引号或双引号的 align 属性（center, left, right）
     pattern = re.compile(r'!\[(.*?)\]\((https?://[^\s)]+)(?:\s+align=(?:\"(?:center|left|right)\"|\'(?:center|left|right)\'))?\)')
     
     def replace_image(match):
@@ -71,7 +72,6 @@ def clean_image_links(content):
     
     cleaned_content = pattern.sub(replace_image, content)
     
-    # 检查是否找到任何图片链接
     if cleaned_content == content:
         print("Debug: No image links with align='center', align='left', align='right', align=\"center\", align=\"left\", or align=\"right\" found in content")
     
@@ -85,7 +85,7 @@ for filename in os.listdir(directory):
     if filename.lower() != "readme.md" and filename.endswith(".md"):
         filepath = os.path.join(directory, filename)
         try:
-            # 读取 Markdown 文件的 frontmatter 和内容
+            # 读取 Markdown 文件内容
             with open(filepath, 'r', encoding='utf-8') as file:
                 content = file.read()
                 
@@ -95,9 +95,14 @@ for filename in os.listdir(directory):
                 try:
                     frontmatter = yaml.safe_load(frontmatter_match.group(1))
                     title = frontmatter.get('title', '')
+                    cuid = frontmatter.get('cuid', '')
+                    
                     if not title:
                         print(f"Warning: No title found in frontmatter of {filename}")
                         continue
+                    
+                    if not cuid:
+                        print(f"Warning: No cuid found in frontmatter of {filename}")
                     
                     print(f"Debug: Processing file: {filename}")
                     print(f"Debug: Processing title: {title}")
@@ -106,18 +111,11 @@ for filename in os.listdir(directory):
                     clean_title = normalize_title(title)
                     if clean_title:
                         new_filename = f"{clean_title}.md"
-                        current_base = os.path.splitext(filename)[0]
                         
-                        # 标准化比较（忽略大小写和空格）
-                        def normalize_for_comparison(s):
-                            return re.sub(r'\s+', '', s).lower()
-                        
-                        current_normalized = normalize_for_comparison(current_base)
-                        auto_normalized = normalize_for_comparison(clean_title)
-                        
-                        # 如果文件名与标题标准化后相等，认为是人工修改，跳过重命名
-                        if current_normalized == auto_normalized:
-                            print(f"Skipping {filename}: filename matches normalized title '{clean_title}'")
+                        # 检测文件名是否为人为修改（不匹配 cuid 且不匹配规范化 title）
+                        base_filename = os.path.splitext(filename)[0]
+                        if cuid and base_filename.lower() != cuid.lower() and base_filename.lower() != clean_title.lower():
+                            print(f"Skipping rename for {filename}: filename does not match cuid {cuid} or normalized title {clean_title}")
                             # 仍需清理图片链接
                             cleaned_content = clean_image_links(content)
                             if cleaned_content != content:
@@ -126,10 +124,11 @@ for filename in os.listdir(directory):
                                 print(f"Updated image links in {filename}")
                             continue
                         
-                        new_filepath = os.path.join(directory, new_filename)
-                        
-                        # 检查是否需要重命名（避免覆盖同名文件）
+                        # 检查是否需要重命名（直接比较文件名）
                         if new_filename != filename:
+                            new_filepath = os.path.join(directory, new_filename)
+                            
+                            # 避免文件名冲突
                             if os.path.exists(new_filepath):
                                 base, ext = os.path.splitext(new_filename)
                                 counter = 2
