@@ -1,4 +1,4 @@
-name: Rename Markdown Files
+name: CI Pipeline
 
 on:
   push:
@@ -32,4 +32,23 @@ jobs:
           git config user.email "action@github.com"
           git add .
           git commit -m "Renamed Markdown files, updated titles and cleaned image links" || echo "No changes to commit"
+          git push
+
+  update-csv:
+    runs-on: ubuntu-latest
+    needs: rename-files
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Run update blog CSV script
+        run: python Script/update_blog_csv.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Update blog CSV" || echo "No changes to commit"
           git push
