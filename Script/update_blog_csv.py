@@ -23,7 +23,6 @@ PROPER_NOUNS = {
     "SergeiZaplitny": "Sergei Zaplitny",
     "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
     "CNZZ": "CNZZ",
-    "q龄": "Q 龄",
 }
 
 def normalize_title(title):
@@ -62,6 +61,15 @@ def normalize_title(title):
         print(f"Debug: Normalized title from {original_title} to {title}")
     
     return title
+
+# 清理日期字符串，移除括号内的描述性文本
+def clean_date_string(date_str):
+    if not date_str:
+        return date_str
+    # 移除括号及其内容，例如 "(Coordinated Universal Time)"
+    cleaned = re.sub(r'\s*\([^)]+\)', '', date_str).strip()
+    print(f"Debug: Cleaned date from '{date_str}' to '{cleaned}'")
+    return cleaned
 
 # 获取脚本所在目录（Script 目录）
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -118,7 +126,8 @@ for filename in os.listdir(POSTS_DIR):
 
                         # 转换日期为 UTC+8 并格式化为 YYYY/MM/DD
                         if date_published:
-                            dt = parse(date_published)
+                            cleaned_date = clean_date_string(date_published)
+                            dt = parse(cleaned_date)
                             dt = dt.astimezone(tzoffset(None, 8 * 3600))  # UTC+8 偏移 8 小时
                             pub_date = dt.strftime("%Y/%m/%d")
                         else:
