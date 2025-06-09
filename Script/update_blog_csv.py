@@ -75,8 +75,10 @@ def clean_date_string(date_str):
 script_dir = os.path.dirname(os.path.abspath(__file__))
 # 根目录
 root_dir = os.path.dirname(script_dir)
+print(f"Debug: Root directory: {root_dir}")
 # CSV 文件路径（相对于根目录）
 CSV_FILE = os.path.join(root_dir, "Table", "Archive of 涂俊杰JunJie blog.csv")
+print(f"Debug: CSV file path: {CSV_FILE}")
 # Markdown 文件在根目录
 POSTS_DIR = root_dir
 
@@ -94,6 +96,7 @@ if os.path.exists(CSV_FILE):
             if row:
                 existing_entries[row[1]] = row  # 以文章链接作为唯一标识
     print(f"Debug: Existing entries: {len(existing_entries)}")
+    print(f"Debug: Existing entries content: {existing_entries}")
 
 # 遍历根目录下的 Markdown 文件
 new_entries = []
@@ -137,10 +140,10 @@ for filename in os.listdir(POSTS_DIR):
                         if article_link:
                             if article_link in existing_entries:
                                 existing_entries[article_link] = [clean_title, article_link, pub_date]
-                                print(f"Updated title and date for {article_link}: {clean_title}, {pub_date}")
+                                print(f"Debug: Updated entry: {existing_entries[article_link]}")
                             else:
                                 new_entries.append([clean_title, article_link, pub_date])
-                                print(f"Added new entry: {clean_title}, {article_link}, {pub_date}")
+                                print(f"Debug: New entry: {new_entries[-1]}")
 
                     except yaml.YAMLError as e:
                         print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
