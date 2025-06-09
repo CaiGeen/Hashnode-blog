@@ -6,7 +6,7 @@ import re
 from dateutil.parser import parse
 from dateutil.tz import tzutc, tzoffset
 
-# 专用名词库（与 rename.py 保持一致）
+# 专用名词库
 PROPER_NOUNS = {
     "ai": "AI",
     "chatgpt": "ChatGPT",
@@ -72,74 +72,82 @@ CSV_FILE = os.path.join(root_dir, "Table", "Archive of 涂俊杰JunJie blog.csv"
 # Markdown 文件在根目录
 POSTS_DIR = root_dir
 
+print(f"Debug: Scanning directory: {POSTS_DIR}")
+print(f"Debug: Found files: {os.listdir(POSTS_DIR)}")
+
 # 读取现有 CSV 文件内容，避免重复
 existing_entries = {}
 if os.path.exists(CSV_FILE):
+    print(f"Debug: Reading CSV file: {CSV_FILE}")
     with open(CSV_FILE, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         next(reader)  # 跳过标题行
         for row in reader:
             if row:
                 existing_entries[row[1]] = row  # 以文章链接作为唯一标识
+    print(f"Debug: Existing entries: {len(existing_entries)}")
 
 # 遍历根目录下的 Markdown 文件
 new_entries = []
 for filename in os.listdir(POSTS_DIR):
     if filename.endswith(".md"):
         filepath = os.path.join(POSTS_DIR, filename)
-        with open(filepath, "r", encoding="utf-8") as f:
-            content = f.read()
-            # 提取 front matter（YAML 格式）
-            front_matter = re.match(r"---\n(.*?)\n---", content, re.DOTALL)
-            if front_matter:
-                try:
-                    metadata = yaml.safe_load(front_matter.group(1))
-                    title = metadata.get("title", "")
-                    slug = metadata.get("slug", "")
-                    date_published = metadata.get("datePublished", "")
+        print(f"Debug: Processing file: {filename}")
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                content = f.read()
+                # 提取 front matter（YAML 格式）
+                front_matter = re.match(r"---\n(.*?)\n---", content, re.DOTALL)
+                if front_matter:
+                    try:
+                        metadata = yaml.safe_load(front_matter.group(1))
+                        title = metadata.get("title", "")
+                        slug = metadata.get("slug", "")
+                        date_published = metadata.get("datePublished", "")
 
-                    # 规范化标题
-                    clean_title = normalize_title(title)
+                        print(f"Debug: Extracted title: {title}")
+                        print(f"Debug: Extracted slug: {slug}")
+                        print(f"Debug: Extracted datePublished: {date_published}")
 
-                    # 生成文章链接
-                    article_link = f"https://blog.tujunjie.com/{slug}"
+                        # 规范化标题
+                        clean_title = normalize_title(title)
 
-                    # 转换日期为 UTC+8 并格式化为 YYYY/MM/DD
-                    if date_published:
-                        # 解析日期（UTC 时间）
-                        dt = parse(date_published)
-                        # 转换为 UTC+8
-                        dt = dt.astimezone(tzoffset(None, 8 * 3600))  # UTC+8 偏移 8 小时
-                        pub_date = dt.strftime("%Y/%m/%d")
-                    else:
-                        pub_date = ""
+                        # 生成文章链接
+                        article_link = f"https://blog.tujunjie.com/{slug}"
+                        print(f"Debug: Generated article_link: {article_link}")
 
-                    # 检查文章链接是否在 CSV 中
-                    if article_link:
-                        if article_link in existing_entries:
-                            # 如果标题不同，更新条目
-                            if existing_entries[article_link][0] != clean_title:
-                                existing_entries[article_link] = [clean_title, article_link, pub_date]
-                                print(f"Updated title for {article_link}: {clean_title}")
+                        # 转换日期为 UTC+8 并格式化为 YYYY/MM/DD
+                        if date_published:
+                            dt = parse(date_published)
+                            dt = dt.astimezone(tzoffset(None, 8 * 3600))  # UTC+8 偏移 8 小时
+                            pub_date = dt.strftime("%Y/%m/%d")
                         else:
-                            # 新条目
-                            new_entries.append([clean_title, article_link, pub_date])
+                            pub_date = ""
 
-                except yaml.YAMLError as e:
-                    print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
-            else:
-                print(f"Error: No frontmatter found in {filename}")
+                        # 检查文章链接是否在 CSV 中
+                        if article_link:
+                            if article_link in existing_entries:
+                                existing_entries[article_link] = [clean_title, article_link, pub_date]
+                                print(f"Updated title and date for {article_link}: {clean_title}, {pub_date}")
+                            else:
+                                new_entries.append([clean_title, article_link, pub_date])
+                                print(f"Added new entry: {clean_title}, {article_link}, {pub_date}")
+
+                    except yaml.YAMLError as e:
+                        print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
+                else:
+                    print(f"Error: No frontmatter found in {filename}")
+        except Exception as e:
+            print(f"Error processing {filename}: {e}")
 
 # 如果有更新或新条目，覆盖写入 CSV 文件
 if new_entries or any(existing_entries[link][0] != row[0] for link, row in existing_entries.items()):
+    print(f"Debug: Writing to CSV with {len(new_entries)} new entries and updated existing entries")
     with open(CSV_FILE, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
-        # 写入标题行（可选，取决于 CSV 格式）
         writer.writerow(["Title", "Link", "Date"])
-        # 写入现有条目（已更新）
         for entry in existing_entries.values():
             writer.writerow(entry)
-        # 写入新条目
         for entry in new_entries:
             writer.writerow(entry)
     print(f"Updated CSV with {len(new_entries)} new entries and updated existing entries")
