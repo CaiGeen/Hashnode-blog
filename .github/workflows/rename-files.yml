@@ -1,4 +1,4 @@
-name: rename-files
+name: CI Pipeline
 
 on:
   push:
