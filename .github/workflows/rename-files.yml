@@ -51,6 +51,8 @@ jobs:
           pip show python-dateutil
       - name: Run update blog CSV script
         run: python Script/update_blog_csv.py
+      - name: Check Git status
+        run: git status
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Action'
