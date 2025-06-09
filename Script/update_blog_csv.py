@@ -55,7 +55,6 @@ def normalize_title(title):
     
     print(f"Debug: After proper noun replacement: {title}")
     
-    # 如果标题未改变，说明已符合规范
     if title == original_title:
         print(f"Debug: Title already normalized: {title}")
     else:
@@ -67,7 +66,6 @@ def normalize_title(title):
 def clean_date_string(date_str):
     if not date_str:
         return date_str
-    # 移除括号及其内容，例如 "(Coordinated Universal Time)"
     cleaned = re.sub(r'\s*\([^)]+\)', '', date_str).strip()
     print(f"Debug: Cleaned date from '{date_str}' to '{cleaned}'")
     return cleaned
@@ -99,7 +97,6 @@ if os.path.exists(CSV_FILE):
             if row:
                 existing_entries[row[1]] = row  # 以文章链接作为唯一标识
     print(f"Debug: Existing entries: {len(existing_entries)}")
-    print(f"Debug: Existing entries content: {existing_entries}")
 else:
     print(f"Debug: CSV file does not exist, will create it.")
 
@@ -143,12 +140,18 @@ for filename in os.listdir(POSTS_DIR):
 
                         # 检查文章链接是否在 CSV 中
                         if article_link:
+                            current_entry = [clean_title, article_link, pub_date]
                             if article_link in existing_entries:
-                                existing_entries[article_link] = [clean_title, article_link, pub_date]
-                                print(f"Debug: Updated entry: {existing_entries[article_link]}")
+                                existing_entry = existing_entries[article_link]
+                                print(f"Debug: Comparing existing {existing_entry} with current {current_entry}")
+                                if existing_entry != current_entry:
+                                    existing_entries[article_link] = current_entry
+                                    print(f"Debug: Updated entry: {current_entry}")
+                                else:
+                                    print(f"Debug: No change in entry: {current_entry}")
                             else:
-                                new_entries.append([clean_title, article_link, pub_date])
-                                print(f"Debug: New entry: {new_entries[-1]}")
+                                new_entries.append(current_entry)
+                                print(f"Debug: New entry: {current_entry}")
 
                     except yaml.YAMLError as e:
                         print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
@@ -157,7 +160,7 @@ for filename in os.listdir(POSTS_DIR):
         except Exception as e:
             print(f"Error processing {filename}: {e}")
 
-# 强制写入 CSV 文件（调试用）
+# 强制写入 CSV，即使无新条目也更新时间戳
 print(f"Debug: New entries: {new_entries}")
 print(f"Debug: Updated existing entries: {[(k, v) for k, v in existing_entries.items() if v[0] != [r for r in existing_entries.values() if r[1] == k][0][0]]}")
 if new_entries or any(existing_entries[link][0] != row[0] for link, row in existing_entries.items()):
@@ -171,4 +174,10 @@ if new_entries or any(existing_entries[link][0] != row[0] for link, row in exist
             writer.writerow(entry)
     print(f"Updated CSV with {len(new_entries)} new entries and updated existing entries")
 else:
-    print("No new or updated entries to add.")
+    print(f"Debug: No new entries, forcing CSV update with timestamp {datetime.now()}")
+    with open(CSV_FILE, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["Title", "Link", "Date"])
+        for entry in existing_entries.values():
+            writer.writerow(entry)
+    print("Forced CSV update completed.")
