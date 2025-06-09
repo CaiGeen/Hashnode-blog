@@ -18,6 +18,8 @@ PROPER_NOUNS = {
     "Xmind": "Xmind",
     "SergeiZaplitny": "Sergei Zaplitny",
     "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
+    "CNZZ": "CNZZ",
+    "q龄": "Q 龄",
     # 在此添加其他需要保护的术语...
 }
 
