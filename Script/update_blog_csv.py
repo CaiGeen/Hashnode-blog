@@ -23,6 +23,7 @@ PROPER_NOUNS = {
     "SergeiZaplitny": "Sergei Zaplitny",
     "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
     "CNZZ": "CNZZ",
+    "q龄": "Q 龄",
 }
 
 def normalize_title(title):
@@ -79,6 +80,8 @@ print(f"Debug: Root directory: {root_dir}")
 # CSV 文件路径（相对于根目录）
 CSV_FILE = os.path.join(root_dir, "Table", "Archive of 涂俊杰JunJie blog.csv")
 print(f"Debug: CSV file path: {CSV_FILE}")
+# 验证 CSV 文件是否存在
+print(f"Debug: CSV file exists: {os.path.exists(CSV_FILE)}")
 # Markdown 文件在根目录
 POSTS_DIR = root_dir
 
@@ -97,6 +100,8 @@ if os.path.exists(CSV_FILE):
                 existing_entries[row[1]] = row  # 以文章链接作为唯一标识
     print(f"Debug: Existing entries: {len(existing_entries)}")
     print(f"Debug: Existing entries content: {existing_entries}")
+else:
+    print(f"Debug: CSV file does not exist, will create it.")
 
 # 遍历根目录下的 Markdown 文件
 new_entries = []
@@ -152,7 +157,9 @@ for filename in os.listdir(POSTS_DIR):
         except Exception as e:
             print(f"Error processing {filename}: {e}")
 
-# 如果有更新或新条目，覆盖写入 CSV 文件
+# 强制写入 CSV 文件（调试用）
+print(f"Debug: New entries: {new_entries}")
+print(f"Debug: Updated existing entries: {[(k, v) for k, v in existing_entries.items() if v[0] != [r for r in existing_entries.values() if r[1] == k][0][0]]}")
 if new_entries or any(existing_entries[link][0] != row[0] for link, row in existing_entries.items()):
     print(f"Debug: Writing to CSV with {len(new_entries)} new entries and updated existing entries")
     with open(CSV_FILE, "w", encoding="utf-8", newline="") as f:
