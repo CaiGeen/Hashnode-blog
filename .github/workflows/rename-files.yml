@@ -1,4 +1,4 @@
-name: rename-file
+name: rename-files
 
 on:
   push:
@@ -55,6 +55,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add .
+          git add Table/Archive\ of\ 涂俊杰JunJie\ blog.csv
           git commit -m "Update blog CSV" || echo "No changes to commit"
           git push
