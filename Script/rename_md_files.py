@@ -19,8 +19,6 @@ PROPER_NOUNS = {
     "SergeiZaplitny": "Sergei Zaplitny",
     "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
     "CNZZ": "CNZZ",
-    "q龄": "Q 龄",
-    # 在此添加其他需要保护的术语...
 }
 
 def normalize_title(title):
@@ -33,12 +31,12 @@ def normalize_title(title):
     print(f"Debug: Original title: {title}")
     
     # 在中文和英文之间添加空格
-    title = re.sub(r'([\u4e00-\u9fff])([a-zA-Z])', r'\1 \2', title)
-    title = re.sub(r'([a-zA-Z])([\u4e00-\u9fff])', r'\1 \2', title)
+    title = re.sub(r'([\u4e00-\u9fff])(?=[a-zA-Z])', r'\1 ', title)
+    title = re.sub(r'([a-zA-Z])(?=[\u4e00-\u9fff])', r'\1 ', title)
     
-    # 在中文和数字之间添加空格
-    title = re.sub(r'([\u4e00-\u9fff])([0-9])', r'\1 \2', title)
-    title = re.sub(r'([0-9])([\u4e00-\u9fff])', r'\1 \2', title)
+    # 在中文和数字之间添加空格，仅当直接相邻
+    title = re.sub(r'([\u4e00-\u9fff])(?=\d)', r'\1 ', title)
+    title = re.sub(r'(\d)(?=[\u4e00-\u9fff])', r'\1 ', title)
     
     print(f"Debug: After adding spaces: {title}")
     
