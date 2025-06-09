@@ -53,6 +53,8 @@ jobs:
         run: python Script/update_blog_csv.py
       - name: Check Git status
         run: git status
+      - name: Pull remote changes
+        run: git pull --rebase
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Action'
