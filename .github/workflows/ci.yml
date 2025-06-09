@@ -1,0 +1,30 @@
+name: Update Blog Files
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Run rename script
+        run: python Scripts/rename.py
+      - name: Run update blog CSV script
+        run: python Scripts/update_blog_csv.py
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "Update filenames and blog CSV" || echo "No changes to commit"
+          git push
