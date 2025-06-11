@@ -13,15 +13,15 @@ tags: 5bel5yw3566xia
 
 顺道发现之前星标过的仓库都没有中文概述备忘，不方便找。干脆重新整理一遍我的 133 个 Star 仓库，加上一句话介绍。摘取四组共 22 个有趣有用的仓库分享给大家。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630606828/a8a7fb87-432b-43cd-97eb-b0796911f5b5.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630606828/a8a7fb87-432b-43cd-97eb-b0796911f5b5.png)
 
 ### RSS
 
 简单说，RSS（Really Simple Syndication）就是允许用户在一个地方浏览不同平台的信息，不需要跳转平台。比如只要你有对应的 RSS，就可以在一个页面，同时刷抖音、油管、B 站、小红书的视频。很明显，平台不喜欢 RSS，因为你不来我平台看内容，平台就没有流量，就不能通过各种手段刺激你消费，所以平台一般不提供 RSS。这时候开源的力量来了，RSSHub 可以让一切动态 RSS 化，给你想订阅的信息加上 RSS 链接。从大学公告到微博热搜，无所不包。管控再严，也是下有对策，比如微信公众号可以用 WeWe RSS 生成 RSS 链接。遇到外网英文的 RSS，你可以用 RSS-Translator 翻译标题和摘要。只要有了 RSS 链接，你就可以在任何 RSS 阅读器上一目十行。甚至用 Miniflux 之类的工具，自己做一个专属的信息平台，就像 Readhub 或者 ChainFeeds 一样。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630505188/9d6e377c-b10a-49c1-8be4-d2377e22b6f6.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630505188/9d6e377c-b10a-49c1-8be4-d2377e22b6f6.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630523057/a8da2247-977c-4587-91b0-15a6ffc8e479.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630523057/a8da2247-977c-4587-91b0-15a6ffc8e479.png)
 
 > * #### DIYgod/RSSHub
 >     
@@ -54,7 +54,7 @@ tags: 5bel5yw3566xia
 
 当然 GitHub 最宝贵的还是各种各样的学习资料，英语、编程、烹饪……自学的天堂。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630534016/8b7d7b5f-5b32-4011-a1b9-33f46e8a2a23.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630534016/8b7d7b5f-5b32-4011-a1b9-33f46e8a2a23.png)
 
 > * #### TapXWorld/ChinaTextbook
 >     
@@ -100,7 +100,7 @@ tags: 5bel5yw3566xia
 
 我手动记录时间 9 年了，一直在关注如何自动化全记录。就像《黑镜》第一季里那样，一个人的所思所想都能被记录并回溯。这些 GitHub 仓库里，已经能看到技术雏形。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630539528/dec71efe-68a5-4658-b612-886d0e3bb243.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1749630539528/dec71efe-68a5-4658-b612-886d0e3bb243.png)
 
 > * #### thesephist/monocle
 >     
