@@ -96,13 +96,20 @@ for filename in os.listdir(directory):
                         title = frontmatter.get('title', '')
                         date_published = frontmatter.get('datePublished', '')
                         if date_published:
-                            # 移除括号中的时区描述并解析为特定格式
-                            date_published = re.sub(r'\s+\([^)]+\)$', '', date_published)
-                            date = datetime.strptime(date_published, '%a %b %d %Y %H:%M:%S %Z')
+                            # 提取日期部分 "Fri Jul 28 2023 05:42:08"
+                            date_match = re.match(r'(\w{3} \w{3} \d{2} \d{4} \d{2}:\d{2}:\d{2})', date_published)
+                            if date_match:
+                                date_str = date_match.group(1)
+                                date = datetime.strptime(date_str, '%a %b %d %Y %H:%M:%S')
+                                formatted_date = date.strftime('%Y/%m/%d %H:%M:%S')
+                                print(f"Debug: Collected {filename} with date {date_published} parsed as {formatted_date}")
+                            else:
+                                date = None
+                                print(f"Debug: Collected {filename} with date {date_published} parsing failed, using None")
                         else:
                             date = None
+                            print(f"Debug: Collected {filename} with no datePublished")
                         md_files.append((filepath, title, date))
-                        print(f"Debug: Collected {filename} with date {date_published} parsed as {date}")
                     except yaml.YAMLError as e:
                         print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
                 else:
