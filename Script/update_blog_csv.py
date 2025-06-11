@@ -23,7 +23,6 @@ PROPER_NOUNS = {
     "SergeiZaplitny": "Sergei Zaplitny",
     "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
     "CNZZ": "CNZZ",
-    "q龄": "Q 龄",
 }
 
 def normalize_title(title):
@@ -160,6 +159,10 @@ for filename in os.listdir(POSTS_DIR):
         except Exception as e:
             print(f"Error processing {filename}: {e}")
 
+# 合并现有和新增条目并按 Date 降序排序
+all_entries = list(existing_entries.values()) + new_entries
+all_entries.sort(key=lambda x: x[2] if x[2] else '', reverse=True)
+
 # 强制写入 CSV，即使无新条目也更新时间戳
 print(f"Debug: New entries: {new_entries}")
 print(f"Debug: Updated existing entries: {[(k, v) for k, v in existing_entries.items() if v[0] != [r for r in existing_entries.values() if r[1] == k][0][0]]}")
@@ -168,9 +171,7 @@ if new_entries or any(existing_entries[link][0] != row[0] for link, row in exist
     with open(CSV_FILE, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["Title", "Link", "Date"])
-        for entry in existing_entries.values():
-            writer.writerow(entry)
-        for entry in new_entries:
+        for entry in all_entries:
             writer.writerow(entry)
     print(f"Updated CSV with {len(new_entries)} new entries and updated existing entries")
 else:
@@ -178,6 +179,6 @@ else:
     with open(CSV_FILE, "w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["Title", "Link", "Date"])
-        for entry in existing_entries.values():
+        for entry in all_entries:
             writer.writerow(entry)
     print("Forced CSV update completed.")
