@@ -1,7 +1,7 @@
 import os
 import re
 import yaml
-from dateutil.parser import parse
+from datetime import datetime
 
 # 专用名词库（全大写或特定大小写的术语）
 PROPER_NOUNS = {
@@ -96,13 +96,13 @@ for filename in os.listdir(directory):
                         title = frontmatter.get('title', '')
                         date_published = frontmatter.get('datePublished', '')
                         if date_published:
-                            # 移除括号中的时区描述并解析
+                            # 移除括号中的时区描述并解析为特定格式
                             date_published = re.sub(r'\s+\([^)]+\)$', '', date_published)
-                            date = parse(date_published, fuzzy=True)
+                            date = datetime.strptime(date_published, '%a %b %d %Y %H:%M:%S %Z')
                         else:
                             date = None
                         md_files.append((filepath, title, date))
-                        print(f"Debug: Collected {filename} with date {date_published}")
+                        print(f"Debug: Collected {filename} with date {date_published} parsed as {date}")
                     except yaml.YAMLError as e:
                         print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
                 else:
