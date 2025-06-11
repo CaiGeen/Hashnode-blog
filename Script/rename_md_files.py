@@ -96,7 +96,9 @@ for filename in os.listdir(directory):
                         title = frontmatter.get('title', '')
                         date_published = frontmatter.get('datePublished', '')
                         if date_published:
-                            date = parse(date_published)
+                            # 移除括号中的时区描述并解析
+                            date_published = re.sub(r'\s+\([^)]+\)$', '', date_published)
+                            date = parse(date_published, fuzzy=True)
                         else:
                             date = None
                         md_files.append((filepath, title, date))
