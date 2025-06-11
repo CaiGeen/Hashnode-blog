@@ -1,6 +1,7 @@
 import os
 import re
 import yaml
+from dateutil.parser import parse
 
 # 专用名词库（全大写或特定大小写的术语）
 PROPER_NOUNS = {
@@ -59,7 +60,7 @@ def normalize_title(title):
     return title
 
 def clean_image_links(content):
-    """移除 Markdown 图片链接中的 align='center', align='left', align='right', align="center", align="left", 或 align="right" 属性"""
+    """移除 Markdown 图片链接中的 align='center', align='left', align='right', align=\"center\", align=\"left\", 或 align=\"right\" 属性"""
     pattern = re.compile(r'!\[(.*?)\]\((https?://[^\s)]+)(?:\s+align=(?:\"(?:center|left|right)\"|\'(?:center|left|right)\'))?\)')
     
     def replace_image(match):
@@ -80,21 +81,46 @@ def clean_image_links(content):
 # 设置目录为仓库根目录
 directory = "./"
 
-# 遍历目录中的所有 .md 文件，排除 readme.md（不区分大小写）
+# 收集所有 .md 文件的元数据
+md_files = []
 for filename in os.listdir(directory):
     if filename.lower() != "readme.md" and filename.endswith(".md"):
         filepath = os.path.join(directory, filename)
         try:
-            # 读取 Markdown 文件内容
             with open(filepath, 'r', encoding='utf-8') as file:
                 content = file.read()
-                
-            # 提取 frontmatter
+                frontmatter_match = re.match(r'---\n(.*?)\n---', content, re.DOTALL)
+                if frontmatter_match:
+                    try:
+                        frontmatter = yaml.safe_load(frontmatter_match.group(1))
+                        title = frontmatter.get('title', '')
+                        date_published = frontmatter.get('datePublished', '')
+                        if date_published:
+                            date = parse(date_published)
+                        else:
+                            date = None
+                        md_files.append((filepath, title, date))
+                        print(f"Debug: Collected {filename} with date {date_published}")
+                    except yaml.YAMLError as e:
+                        print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
+                else:
+                    print(f"Error: No frontmatter found in {filename}")
+        except Exception as e:
+            print(f"Error processing {filename}: {e}")
+
+# 按 datePublished 降序排序，空日期置后
+md_files.sort(key=lambda x: x[2] if x[2] else None, reverse=True)
+
+# 按排序结果处理文件
+for filepath, title, date in md_files:
+    filename = os.path.basename(filepath)
+    try:
+        with open(filepath, 'r', encoding='utf-8') as file:
+            content = file.read()
             frontmatter_match = re.match(r'---\n(.*?)\n---', content, re.DOTALL)
             if frontmatter_match:
                 try:
                     frontmatter = yaml.safe_load(frontmatter_match.group(1))
-                    title = frontmatter.get('title', '')
                     cuid = frontmatter.get('cuid', '')
                     
                     if not title:
@@ -159,5 +185,5 @@ for filename in os.listdir(directory):
                     print(f"Error: Invalid YAML in frontmatter of {filename}: {e}")
             else:
                 print(f"Error: No frontmatter found in {filename}")
-        except Exception as e:
-            print(f"Error processing {filename}: {e}")
+    except Exception as e:
+        print(f"Error processing {filename}: {e}")
