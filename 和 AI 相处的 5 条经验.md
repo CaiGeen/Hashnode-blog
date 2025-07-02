@@ -10,13 +10,13 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1751437841063/eb42db9
 
 过去一个月，学习时间都投入到 AI 编程。从 5 月底开始做[电报频道 HTML 排版工具](https://github.com/CaiGeen/telegram_html)后就一发不可收拾。陆续和 AI 搭伙实现了 Hashnode 博客标题自动优化，自动更新文章链接存档到 CSV，优化了之前付费找人做的知识星球爬虫，本地跑起来了中文电报搜索机器人，做了比特币定投策略回测程序……
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437853285/daf01b37-7877-4208-9d25-3b4d867911b4.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437853285/daf01b37-7877-4208-9d25-3b4d867911b4.jpeg)
 
 感觉咋说呢，AI 工具太方便太牛逼了，几句话就能输出几百行代码，复制粘贴点一下运行，就能跑出东西来。报错没关系，复制错误信息再发给 AI，让它解决，然后再复制粘贴。这让我再看到教 Excel 和 PPT 的教程，多新多酷的功能都觉得过时了。
 
 举个例子。原来不会写 Excel 函数，需要搜索用什么函数，别人写的例子不一定合适，要一个个改。现在直接告诉 AI 目标单元格是 B1，然后要达成什么样的效果，他写好 IF 函数给你。不限定工具，AI 可以做更多。比如我一直把浏览记录保存到 xlsx 文件，上限 100 万行，6 年就满了。之前想学 SQL 或者 Python，但一想到新东西要设置这调整那，就觉得还不如新起一张工作表将就用算了。现在直接告诉 AI，我的 CSV 文件表头是什么，想把数据处理成什么样，AI 马上写个 Python 程序给你，点运行，啥都有了。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437859868/ef3fc970-e558-423b-ab8f-56fed7c28a6d.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437859868/ef3fc970-e558-423b-ab8f-56fed7c28a6d.jpeg)
 
 AI 可以帮你做好 Excel，更重要的，是让你不局限在 Excel。这让我的问题也更开放。原来我会问「怎么写 VLOOKUP 函数」，现在我可能问「怎么把 Excel 里的 bilibili 域名提取出来」。把你的最终目标告诉 AI，让 AI 告诉你实现目标的路径，而不是用自己原有的工具箱。
 
@@ -26,7 +26,7 @@ AI 可以帮你做好 Excel，更重要的，是让你不局限在 Excel。这�
 
 国内很多免费模型都用不了，所以魔法上网是先决条件。实在懒得弄，国内的 DeepSeek、豆包，或者不需要魔法的套壳 AI，像 POE 和 OpenRouter，试着把日常问搜索引擎的问题换成问它们。再就是耐心克服[安装 Python](https://search.bilibili.com/all?keyword=python%E5%AE%89%E8%A3%85) 这道坎，对程序员来说，或许根本没想到这还能是坎，但对没接触过程序的用户来说，安装 Python 的英文界面和虚拟环境就足够劝退。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437897176/0d828b35-2dd7-4190-afe2-83f366a8db62.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437897176/0d828b35-2dd7-4190-afe2-83f366a8db62.png)
 
 #### 从工作流里找问题
 
@@ -46,7 +46,7 @@ AI 可以帮你做好 Excel，更重要的，是让你不局限在 Excel。这�
 
 输出代码一长，1000 行顶天了，AI 就容易缺胳膊少腿吞功能，用什么提示词都不行。这是最烦的，解决一个问题，另一个问题又来了，而且不懂代码找起来很麻烦，不知道它漏了什么功能。直到冷不丁报错，那叫个恶心。所以超过 1000 行，我就告诉 AI 不要全量输出代码，详细告诉我这次的代码修改了哪些地方，一个个的告诉我自己来改。也是没办法的办法。再就是通过代码行数简单判断完整度，比如原代码 1000 行，再修改了发给我只有 600 行，那明显不对。一直解决不了，就新开一个窗口，然后把问题和最新的源代码发给它。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437877619/222902bc-9d20-498d-bdba-08343392b283.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1751437877619/222902bc-9d20-498d-bdba-08343392b283.png)
 
 我常用的提示词：「还是不完整，记住，不要产生幻觉，不要随意改动其他我们没提及的功能代码和注释。不要省略，也就是代码里不要出现任何**此处省略以保持简洁**字样，全量输出完整代码。应该有 1500 行左右，输出前自检。保持你的专业度。」
 
