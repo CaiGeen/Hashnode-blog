@@ -24,7 +24,7 @@
 
 🌴 [4 年不上班什么感觉](https://mp.weixin.qq.com/s/l3CCKHEhsu4NWPrc20-rxA)
 
-📈 [K 线里的人生：2600 小时的焦虑狂喜和迷茫](https://mp.weixin.qq.com/s/t3SMla9eEJjB9j2tCJooTg?payreadticket=HCFmAhyUpb0OlPu5o21KMi2NY261ovNNiyqIALz5wmHCubC4VAvRsuxtqKEm-yvlGjvK9vg)
+📈 [K 线里的人生：2600 小时的焦虑狂喜和迷茫](https://blog.tujunjie.com/20241124165955)（[付费版](https://mp.weixin.qq.com/s/t3SMla9eEJjB9j2tCJooTg?payreadticket=HCFmAhyUpb0OlPu5o21KMi2NY261ovNNiyqIALz5wmHCubC4VAvRsuxtqKEm-yvlGjvK9vg)）
 
 ⚖️ [人生 7 大关键选择](https://mp.weixin.qq.com/s/tHdA_GvCRBYZRMaNFwHQTw)
 
