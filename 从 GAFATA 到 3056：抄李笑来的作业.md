@@ -14,7 +14,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754750189918/1660942
 
 我去年写过一篇《[李笑来的财富密码不再是 GAFATA](https://mp.weixin.qq.com/s/CRJxrb8L2l4A6PXmYJhjCw)》，在谷歌财经上记录了 AN ATM 组合的收益，最近一年，收益率为 46.2%。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754750200092/88c4a6d5-8f28-4aba-88c7-5af56c2c5394.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754750200092/88c4a6d5-8f28-4aba-88c7-5af56c2c5394.png)
 
 看了这条微博我一查才知道，2022 年底，李笑来投资的潘渡有限公司（Pando Finance）在香港发行了两支主动管理基金，代码 [3056.HK](http://3056.HK) 和 [3112.HK](http://3112.HK)，最近一年的收益率分别是 64.7% 和 49.6%。（还有一支 7 月刚成立的比特幣 ETF 代码 [2818.HK](http://2818.HK)。）
 
@@ -40,7 +40,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754750189918/1660942
 * 特斯拉（TSLA）
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754750221333/af1150f8-4d3e-4652-9fa3-da903380c8e2.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754750221333/af1150f8-4d3e-4652-9fa3-da903380c8e2.jpeg)
 
 这可以算是李笑来最新的财富密码。潘渡官网有基金月报，每月更新前十大持仓。也就是说，有心的话，你可以全程追踪这两支李笑来负责基金的持仓情况。随时抄作业。
 
@@ -50,7 +50,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1754750189918/1660942
 
 再看两只基金月均成交量加一起约 5 万股，100 万港币，真有可能是李笑来社群成员买出来的。也是说到做到，共同致富了。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754750246904/6b80da75-633d-4628-bd21-45ed0bd2eeae.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754750246904/6b80da75-633d-4628-bd21-45ed0bd2eeae.png)
 
 从比特币《此物一出天下反》到 GAFATA 到 BOX 到 AN ATM 到潘渡 ETF，业绩公开可查，没得黑。不过有 Mixin 被盗的前车之鉴，李笑来的逻辑值得借鉴，但数字货币，有能力还是自己买吧。
 
