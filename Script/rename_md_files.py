@@ -20,6 +20,7 @@ PROPER_NOUNS = {
     "404 KIDS SEE GHOSTS": "404 KIDS SEE GHOSTS",
     "CNZZ": "CNZZ",
     "TTS": "TTS",
+    "ema": "EMA",
 }
 
 def normalize_title(title):
