@@ -1,5 +1,5 @@
 ---
-title: "四个字让周 Ema10 策略，升级成完整的交易系统"
+title: "四个字让周 EMA10 策略，升级成完整的交易系统"
 seoDescription: "只谈策略的收益总是激动人心，想到自己的本金要是能一样翻几十倍，人生应该能看到更漂亮的风景吧。但在交易里摸爬滚打几年后，我更愿意先衡量代价，思考我为了这些「漂亮的风景」要付出什么。"
 datePublished: Sun Sep 21 2025 15:11:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmftu56r2000702k165723dg7
